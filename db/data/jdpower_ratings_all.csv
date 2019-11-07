@@ -1,0 +1,2839 @@
+,Year,Make,Model,Overall,Quality_And_Reliability,Driving_Experience,Resale
+0,2020,Acura,ILX,78,77,72,77
+0,2020,Acura,MDX,81,79,69,78
+0,2020,Acura,RDX,79,73,77,77
+0,2020,Acura,TLX,83,83,75,74
+0,2020,Audi,Q5,84,80,85,75
+0,2020,BMW,2 Series,87,88,84,90
+0,2020,BMW,4 Series,85,87,78,76
+0,2020,BMW,5 Series,85,85,82,71
+0,2020,BMW,X3,83,82,83,73
+0,2020,BMW,X4,89,89,92,74
+0,2020,BMW,X5,82,72,86,74
+0,2020,Buick,Enclave,83,85,82,76
+0,2020,Buick,Encore,80,87,80,81
+0,2020,Buick,Envision,83,89,82,75
+0,2020,Cadillac,CT6,85,78,81,69
+0,2020,Cadillac,Escalade,89,79,81,79
+0,2020,Cadillac,XT4,83,73,78,85
+0,2020,Chevrolet,Blazer,90,84,95,88
+0,2020,Chevrolet,Camaro,81,79,83,81
+0,2020,Chevrolet,Colorado,76,77,71,85
+0,2020,Chevrolet,Equinox,83,86,84,82
+0,2020,Chevrolet,Impala,85,83,83,80
+0,2020,Chevrolet,Malibu,82,85,77,84
+0,2020,Chevrolet,Silverado 1500,84,81,76,95
+0,2020,Chevrolet,Sonic,76,80,82,76
+0,2020,Chevrolet,Spark,71,80,72,71
+0,2020,Chevrolet,Suburban,83,81,77,86
+0,2020,Chevrolet,Tahoe,86,85,76,92
+0,2020,Chevrolet,Traverse,83,82,83,81
+0,2020,Chevrolet,Trax,73,79,73,81
+0,2020,Chrysler,Pacifica,71,70,78,73
+0,2020,Dodge,Durango,80,77,88,88
+0,2020,Ford,Edge,78,74,83,83
+0,2020,Ford,Expedition,83,79,89,83
+0,2020,Ford,F-150,83,80,82,94
+0,2020,Ford,Fusion,78,81,79,81
+0,2020,Ford,Mustang,76,73,82,81
+0,2020,Ford,Ranger,78,77,81,78
+0,2020,Genesis,G70,86,86,85,73
+0,2020,GMC,Acadia,79,80,78,76
+0,2020,GMC,Canyon,74,73,69,85
+0,2020,GMC,Sierra 1500,84,77,82,94
+0,2020,GMC,Terrain,79,77,86,81
+0,2020,GMC,Yukon,83,79,78,88
+0,2020,Honda,Insight,74,78,79,74
+0,2020,Honda,Odyssey,77,77,82,82
+0,2020,Honda,Pilot,79,84,82,77
+0,2020,Hyundai,Accent,73,83,80,72
+0,2020,Hyundai,Elantra,77,84,81,80
+0,2020,Hyundai,Kona,77,84,86,78
+0,2020,Hyundai,Santa Fe,80,85,81,82
+0,2020,Hyundai,Tucson,78,85,85,79
+0,2020,Hyundai,Veloster,74,76,81,76
+0,2020,INFINITI,Q50,81,77,69,77
+0,2020,INFINITI,QX50,80,72,73,75
+0,2020,INFINITI,QX60,84,80,69,83
+0,2020,Jaguar,I-PACE,79,67,90,73
+0,2020,Jeep,Cherokee,74,75,83,86
+0,2020,Jeep,Compass,69,72,82,80
+0,2020,Jeep,Grand Cherokee,79,80,85,84
+0,2020,Jeep,Wrangler,70,65,82,88
+0,2020,Kia,Forte,80,85,86,79
+0,2020,Kia,Optima,80,83,81,83
+0,2020,Kia,Rio,75,87,82,70
+0,2020,Kia,Sedona,74,82,71,76
+0,2020,Kia,Sorento,77,82,77,79
+0,2020,Kia,Sportage,79,87,88,79
+0,2020,Land Rover,Range Rover,76,68,83,76
+0,2020,Land Rover,Range Rover Sport,72,62,81,77
+0,2020,Land Rover,Range Rover Velar,65,53,79,73
+0,2020,Lexus,ES,88,87,79,79
+0,2020,Lexus,GS,91,89,80,79
+0,2020,Lexus,GX,86,84,69,83
+0,2020,Lexus,IS,88,84,79,83
+0,2020,Lexus,NX,88,88,77,77
+0,2020,Lincoln,MKZ,85,84,78,75
+0,2020,Lincoln,Nautilus,89,83,80,82
+0,2020,Lincoln,Navigator,91,82,89,81
+0,2020,Mercedes-Benz,C-Class,89,82,89,86
+0,2020,Mercedes-Benz,GLA,81,79,78,75
+0,2020,Mercedes-Benz,GLC,84,83,76,73
+0,2020,Mercedes-Benz,S-Class,87,81,80,71
+0,2020,Mitsubishi,Outlander,75,76,80,80
+0,2020,Nissan,Altima,81,83,83,81
+0,2020,Nissan,Armada,83,82,85,78
+0,2020,Nissan,Maxima,86,85,92,75
+0,2020,Nissan,Murano,83,85,87,75
+0,2020,Nissan,Pathfinder,79,83,79,79
+0,2020,Nissan,Rogue,80,84,82,82
+0,2020,Porsche,Cayenne,90,79,87,77
+0,2020,Subaru,Ascent,78,74,82,81
+0,2020,Subaru,Forester,77,77,84,83
+0,2020,Subaru,Impreza,69,74,69,80
+0,2020,Subaru,WRX,75,72,86,79
+0,2020,Toyota,4Runner,83,85,81,90
+0,2020,Toyota,Avalon,86,88,82,82
+0,2020,Toyota,C-HR,79,82,88,81
+0,2020,Toyota,Camry,85,88,82,86
+0,2020,Toyota,Prius,76,81,75,86
+0,2020,Toyota,RAV4,79,80,82,88
+0,2020,Toyota,Sequoia,84,88,76,82
+0,2020,Toyota,Sienna,79,81,76,85
+0,2020,Volkswagen,Tiguan,78,81,85,79
+0,2020,Volvo,S60,79,70,87,75
+0,2020,Volvo,XC40,83,77,90,74
+0,2020,Volvo,XC60,82,76,88,78
+0,2019,Acura,ILX,78,77,72,77
+0,2019,Acura,MDX,81,79,69,78
+0,2019,Acura,RDX,79,73,77,77
+0,2019,Acura,TLX,83,83,75,74
+0,2019,Alfa Romeo,Giulia,75,75,71,74
+0,2019,Alfa Romeo,Stelvio,76,73,76,74
+0,2019,Audi,A4,84,83,82,72
+0,2019,Audi,A4 allroad,84,83,82,72
+0,2019,Audi,A5 Cabriolet,83,79,81,74
+0,2019,Audi,A5 Coupe,83,79,81,74
+0,2019,Audi,A5 Sportback,83,79,81,74
+0,2019,Audi,A6,81,72,82,73
+0,2019,Audi,A7,90,85,91,74
+0,2019,Audi,Q5,84,80,85,75
+0,2019,Audi,Q7,84,78,81,77
+0,2019,Audi,Q8,89,79,87,80
+0,2019,BMW,2 Series,87,88,84,90
+0,2019,BMW,4 Series,85,87,78,76
+0,2019,BMW,5 Series,85,85,82,71
+0,2019,BMW,7 Series,88,89,82,66
+0,2019,BMW,X3,83,82,83,73
+0,2019,BMW,X4,89,89,92,74
+0,2019,BMW,X5,82,72,86,74
+0,2019,Buick,Enclave,83,85,82,76
+0,2019,Buick,Encore,80,87,80,81
+0,2019,Buick,Envision,83,89,82,75
+0,2019,Buick,LaCrosse,84,85,74,78
+0,2019,Cadillac,CT6,85,78,81,69
+0,2019,Cadillac,CTS Sedan,82,73,74,76
+0,2019,Cadillac,CTS-V Sedan,82,73,74,76
+0,2019,Cadillac,Escalade,89,79,81,79
+0,2019,Cadillac,Escalade ESV,89,79,81,79
+0,2019,Cadillac,XT4,83,73,78,85
+0,2019,Cadillac,XT5,84,79,74,75
+0,2019,Chevrolet,Blazer,90,84,95,88
+0,2019,Chevrolet,Bolt EV,72,74,78,75
+0,2019,Chevrolet,Camaro,81,79,83,81
+0,2019,Chevrolet,Colorado,76,77,71,85
+0,2019,Chevrolet,Corvette,84,82,72,91
+0,2019,Chevrolet,Cruze,82,84,82,85
+0,2019,Chevrolet,Equinox,83,86,84,82
+0,2019,Chevrolet,Impala,85,83,83,80
+0,2019,Chevrolet,Malibu,82,85,77,84
+0,2019,Chevrolet,Silverado 1500,84,81,76,95
+0,2019,Chevrolet,Silverado 1500 LD,84,81,76,95
+0,2019,Chevrolet,Silverado 3500HD,85,87,70,95
+0,2019,Chevrolet,Sonic,76,80,82,76
+0,2019,Chevrolet,Spark,71,80,72,71
+0,2019,Chevrolet,Suburban,83,81,77,86
+0,2019,Chevrolet,Tahoe,86,85,76,92
+0,2019,Chevrolet,Traverse,83,82,83,81
+0,2019,Chevrolet,Trax,73,79,73,81
+0,2019,Chevrolet,Volt,73,78,71,75
+0,2019,Chrysler,300,79,79,82,81
+0,2019,Chrysler,Pacifica,71,70,78,73
+0,2019,Dodge,Challenger,80,76,87,94
+0,2019,Dodge,Charger,80,75,91,83
+0,2019,Dodge,Durango,80,77,88,88
+0,2019,Dodge,Grand Caravan,66,71,65,79
+0,2019,Ford,Edge,78,74,83,83
+0,2019,Ford,Escape,77,80,82,82
+0,2019,Ford,Expedition,83,79,89,83
+0,2019,Ford,Expedition Max,83,79,89,83
+0,2019,Ford,Explorer,78,78,80,82
+0,2019,Ford,F-150,83,80,82,94
+0,2019,Ford,Fiesta,66,73,71,74
+0,2019,Ford,Flex,79,81,81,79
+0,2019,Ford,Fusion,78,81,79,81
+0,2019,Ford,Fusion Energi,78,81,79,81
+0,2019,Ford,Fusion Hybrid,78,81,79,81
+0,2019,Ford,Fusion Taxi,78,81,79,81
+0,2019,Ford,Mustang,76,73,82,81
+0,2019,Ford,Ranger,78,77,81,78
+0,2019,Ford,Super Duty F-250 SRW,82,80,78,94
+0,2019,Ford,Super Duty F-350 DRW,82,80,78,94
+0,2019,Ford,Super Duty F-350 SRW,82,80,78,94
+0,2019,Ford,Taurus,77,78,73,76
+0,2019,Ford,Transit Connect Van,61,62,63,77
+0,2019,Ford,Transit Connect Wagon,61,62,63,77
+0,2019,Ford,Transit Passenger Wagon,61,62,63,77
+0,2019,Ford,Transit Van,61,62,63,77
+0,2019,Genesis,G70,86,86,85,73
+0,2019,Genesis,G80,84,83,82,76
+0,2019,GMC,Acadia,79,80,78,76
+0,2019,GMC,Canyon,74,73,69,85
+0,2019,GMC,Sierra 1500,84,77,82,94
+0,2019,GMC,Sierra 1500 Limited,84,77,82,94
+0,2019,GMC,Sierra 2500HD,84,80,76,95
+0,2019,GMC,Sierra 3500HD,84,80,76,95
+0,2019,GMC,Terrain,79,77,86,81
+0,2019,GMC,Yukon,83,79,78,88
+0,2019,GMC,Yukon XL,83,79,78,88
+0,2019,Honda,Accord Hybrid,81,84,83,86
+0,2019,Honda,Accord Sedan,81,84,83,86
+0,2019,Honda,CR-V,79,86,80,87
+0,2019,Honda,Civic Coupe,78,82,83,85
+0,2019,Honda,Civic Hatchback,78,82,83,85
+0,2019,Honda,Civic Sedan,78,82,83,85
+0,2019,Honda,Civic Si Coupe,78,82,83,85
+0,2019,Honda,Civic Si Sedan,78,82,83,85
+0,2019,Honda,Civic Type R,78,82,83,85
+0,2019,Honda,Fit,71,78,75,86
+0,2019,Honda,HR-V,69,75,77,80
+0,2019,Honda,Insight,74,78,79,74
+0,2019,Honda,Odyssey,77,77,82,82
+0,2019,Honda,Passport,84,85,88,74
+0,2019,Honda,Pilot,79,84,82,77
+0,2019,Honda,Ridgeline,78,81,79,87
+0,2019,Hyundai,Accent,73,83,80,72
+0,2019,Hyundai,Elantra,77,84,81,80
+0,2019,Hyundai,Elantra GT,77,84,81,80
+0,2019,Hyundai,Ioniq Electric,71,78,72,77
+0,2019,Hyundai,Ioniq Hybrid,71,78,72,77
+0,2019,Hyundai,Ioniq Plug-In Hybrid,71,78,72,77
+0,2019,Hyundai,Kona,77,84,86,78
+0,2019,Hyundai,Kona EV,77,84,86,78
+0,2019,Hyundai,Santa Fe,80,85,81,82
+0,2019,Hyundai,Santa Fe XL,80,85,81,82
+0,2019,Hyundai,Sonata,78,82,77,83
+0,2019,Hyundai,Sonata Hybrid,78,82,77,83
+0,2019,Hyundai,Sonata Plug-In Hybrid,78,82,77,83
+0,2019,Hyundai,Tucson,78,85,85,79
+0,2019,Hyundai,Veloster,74,76,81,76
+0,2019,INFINITI,Q50,81,77,69,77
+0,2019,INFINITI,QX50,80,72,73,75
+0,2019,INFINITI,QX60,84,80,69,83
+0,2019,INFINITI,QX80,85,76,73,80
+0,2019,Jaguar,F-PACE,75,70,77,75
+0,2019,Jaguar,I-PACE,79,67,90,73
+0,2019,Jeep,Cherokee,74,75,83,86
+0,2019,Jeep,Compass,69,72,82,80
+0,2019,Jeep,Grand Cherokee,79,80,85,84
+0,2019,Jeep,Wrangler,70,65,82,88
+0,2019,Jeep,Wrangler Unlimited,70,65,82,88
+0,2019,Kia,Forte,80,85,86,79
+0,2019,Kia,Niro,69,76,76,78
+0,2019,Kia,Niro EV,69,76,76,78
+0,2019,Kia,Niro Plug-In Hybrid,69,76,76,78
+0,2019,Kia,Optima,80,83,81,83
+0,2019,Kia,Optima Hybrid,80,83,81,83
+0,2019,Kia,Optima Plug-In Hybrid,80,83,81,83
+0,2019,Kia,Rio,75,87,82,70
+0,2019,Kia,Rio 5-Door,75,87,82,70
+0,2019,Kia,Sedona,74,82,71,76
+0,2019,Kia,Sorento,77,82,77,79
+0,2019,Kia,Soul,79,86,81,88
+0,2019,Kia,Soul EV,79,86,81,88
+0,2019,Kia,Sportage,79,87,88,79
+0,2019,Kia,Stinger,81,82,86,74
+0,2019,Land Rover,Discovery Sport,65,60,69,72
+0,2019,Land Rover,Range Rover,76,68,83,76
+0,2019,Land Rover,Range Rover Sport,72,62,81,77
+0,2019,Land Rover,Range Rover Velar,65,53,79,73
+0,2019,Lexus,ES,88,87,79,79
+0,2019,Lexus,GS,91,89,80,79
+0,2019,Lexus,GX,86,84,69,83
+0,2019,Lexus,IS,88,84,79,83
+0,2019,Lexus,NX,88,88,77,77
+0,2019,Lexus,RX,92,89,82,81
+0,2019,Lexus,UX,88,88,77,86
+0,2019,Lincoln,MKC,86,85,79,75
+0,2019,Lincoln,MKZ,85,84,78,75
+0,2019,Lincoln,Nautilus,89,83,80,82
+0,2019,Lincoln,Navigator,91,82,89,81
+0,2019,Lincoln,Navigator L,91,82,89,81
+0,2019,Mazda,CX-3,69,79,74,80
+0,2019,Mazda,CX-5,78,82,85,83
+0,2019,Mazda,CX-9,80,85,84,74
+0,2019,Mazda,MX-5 Miata,67,74,67,76
+0,2019,Mazda,MX-5 Miata RF,67,74,67,76
+0,2019,Mercedes-Benz,C-Class,89,82,89,86
+0,2019,Mercedes-Benz,CLA,85,81,79,85
+0,2019,Mercedes-Benz,E-Class,86,78,82,74
+0,2019,Mercedes-Benz,GLA,81,79,78,75
+0,2019,Mercedes-Benz,GLC,84,83,76,73
+0,2019,Mercedes-Benz,GLE,88,83,82,77
+0,2019,Mercedes-Benz,GLS,86,81,71,78
+0,2019,Mercedes-Benz,S-Class,87,81,80,71
+0,2019,MINI,Convertible,80,83,83,67
+0,2019,MINI,Countryman,85,82,94,91
+0,2019,MINI,Hardtop 2 Door,80,83,83,67
+0,2019,MINI,Hardtop 4 Door,80,83,83,67
+0,2019,Mitsubishi,Mirage,63,67,69,71
+0,2019,Mitsubishi,Mirage G4,63,67,69,71
+0,2019,Mitsubishi,Outlander,75,76,80,80
+0,2019,Mitsubishi,Outlander PHEV,75,76,80,80
+0,2019,Mitsubishi,Outlander Sport,73,80,76,80
+0,2019,Nissan,Altima,81,83,83,81
+0,2019,Nissan,Armada,83,82,85,78
+0,2019,Nissan,Frontier,73,81,63,87
+0,2019,Nissan,Kicks,77,82,84,79
+0,2019,Nissan,LEAF,71,80,69,71
+0,2019,Nissan,Maxima,86,85,92,75
+0,2019,Nissan,Murano,83,85,87,75
+0,2019,Nissan,Pathfinder,79,83,79,79
+0,2019,Nissan,Rogue,80,84,82,82
+0,2019,Nissan,Rogue Sport,78,85,84,78
+0,2019,Nissan,Sentra,77,83,79,81
+0,2019,Nissan,Titan,86,88,80,89
+0,2019,Nissan,Titan XD,86,88,80,89
+0,2019,Nissan,Versa Note,73,81,78,75
+0,2019,Porsche,911,95,92,85,78
+0,2019,Porsche,718 Boxster,93,89,82,90
+0,2019,Porsche,718 Cayman,93,89,82,90
+0,2019,Porsche,Cayenne,90,79,87,77
+0,2019,Subaru,Ascent,78,74,82,81
+0,2019,Subaru,Crosstrek,75,77,84,78
+0,2019,Subaru,Forester,77,77,84,83
+0,2019,Subaru,Impreza,69,74,69,80
+0,2019,Subaru,Legacy,79,81,80,81
+0,2019,Subaru,Outback,78,81,78,80
+0,2019,Subaru,WRX,75,72,86,79
+0,2019,Toyota,4Runner,83,85,81,90
+0,2019,Toyota,Avalon,86,88,82,82
+0,2019,Toyota,C-HR,79,82,88,81
+0,2019,Toyota,Camry,85,88,82,86
+0,2019,Toyota,Corolla,83,91,79,90
+0,2019,Toyota,Corolla Hatchback,83,91,79,90
+0,2019,Toyota,Highlander,82,85,80,83
+0,2019,Toyota,Prius,76,81,75,86
+0,2019,Toyota,Prius Prime,76,81,75,86
+0,2019,Toyota,RAV4,79,80,82,88
+0,2019,Toyota,Sequoia,84,88,76,82
+0,2019,Toyota,Sienna,79,81,76,85
+0,2019,Toyota,Tacoma 2WD,78,84,70,89
+0,2019,Toyota,Tacoma 4WD,78,84,70,89
+0,2019,Toyota,Tundra 2WD,84,87,72,93
+0,2019,Toyota,Yaris Sedan,78,84,82,80
+0,2019,Volkswagen,Atlas,77,76,84,72
+0,2019,Volkswagen,Beetle,79,81,85,81
+0,2019,Volkswagen,Beetle Convertible,79,81,85,81
+0,2019,Volkswagen,Golf,79,81,88,78
+0,2019,Volkswagen,Golf Alltrack,79,81,88,78
+0,2019,Volkswagen,Golf GTI,79,81,88,78
+0,2019,Volkswagen,Golf R,79,81,88,78
+0,2019,Volkswagen,Golf SportWagen,79,81,88,78
+0,2019,Volkswagen,Jetta,75,72,85,81
+0,2019,Volkswagen,Jetta GLI,75,72,85,81
+0,2019,Volkswagen,Passat,79,81,82,76
+0,2019,Volkswagen,Tiguan,78,81,85,79
+0,2019,Volvo,S60,79,70,87,75
+0,2019,Volvo,XC40,83,77,90,74
+0,2019,Volvo,XC60,82,76,88,78
+0,2019,Volvo,XC90,80,75,79,78
+0,2018,Acura,ILX,79,83,70,77
+0,2018,Acura,MDX,78,74,67,78
+0,2018,Acura,RDX,81,81,69,77
+0,2018,Acura,TLX,82,82,75,74
+0,2018,Audi,A3 Cabriolet,81,78,82,75
+0,2018,Audi,A3 Sedan,81,78,82,75
+0,2018,Audi,A3 Sportback e-tron,81,78,82,75
+0,2018,Audi,A4,83,81,79,72
+0,2018,Audi,A4 allroad,83,81,79,72
+0,2018,Audi,A5 Cabriolet,84,81,83,74
+0,2018,Audi,A5 Coupe,84,81,83,74
+0,2018,Audi,A5 Sportback,84,81,83,74
+0,2018,Audi,A6,81,76,75,73
+0,2018,Audi,Q3,77,77,72,74
+0,2018,Audi,Q5,84,80,84,75
+0,2018,Audi,Q7,83,76,79,77
+0,2018,BMW,2 Series,85,85,80,90
+0,2018,BMW,3 Series,83,85,80,72
+0,2018,BMW,4 Series,86,89,80,76
+0,2018,BMW,5 Series,86,86,81,71
+0,2018,BMW,7 Series,90,90,87,66
+0,2018,BMW,X1,80,81,78,72
+0,2018,BMW,X3,87,85,93,73
+0,2018,BMW,X5,84,81,80,74
+0,2018,BMW,X5 M,84,81,80,74
+0,2018,BMW,X6,87,88,81,76
+0,2018,BMW,X6 M,87,88,81,76
+0,2018,Buick,Enclave,85,85,85,76
+0,2018,Buick,Encore,80,85,82,81
+0,2018,Buick,Envision,84,93,82,75
+0,2018,Cadillac,ATS Coupe,82,79,68,78
+0,2018,Cadillac,ATS Sedan,82,79,68,78
+0,2018,Cadillac,ATS-V Coupe,82,79,68,78
+0,2018,Cadillac,ATS-V Sedan,82,79,68,78
+0,2018,Cadillac,CT6,82,73,80,69
+0,2018,Cadillac,CTS Sedan,83,71,81,75
+0,2018,Cadillac,CTS-V Sedan,83,71,81,75
+0,2018,Cadillac,Escalade,89,81,79,79
+0,2018,Cadillac,Escalade ESV,89,81,79,79
+0,2018,Cadillac,XT5,83,80,72,75
+0,2018,Chevrolet,Bolt EV,73,80,74,75
+0,2018,Chevrolet,Camaro,82,81,82,81
+0,2018,Chevrolet,Colorado,77,79,70,85
+0,2018,Chevrolet,Corvette,85,83,74,91
+0,2018,Chevrolet,Cruze,82,87,82,83
+0,2018,Chevrolet,Equinox,82,84,84,81
+0,2018,Chevrolet,Impala,83,85,75,80
+0,2018,Chevrolet,Malibu,81,82,77,82
+0,2018,Chevrolet,Silverado 1500,87,86,78,95
+0,2018,Chevrolet,Silverado 2500HD,87,87,76,95
+0,2018,Chevrolet,Silverado 3500HD,87,87,76,95
+0,2018,Chevrolet,Sonic,75,78,82,76
+0,2018,Chevrolet,Suburban,83,78,81,86
+0,2018,Chevrolet,Tahoe,85,82,78,91
+0,2018,Chevrolet,Traverse,85,84,88,79
+0,2018,Chevrolet,Trax,76,82,79,81
+0,2018,Chevrolet,Volt,70,72,69,75
+0,2018,Chrysler,300,80,82,80,80
+0,2018,Chrysler,Pacifica,70,69,77,72
+0,2018,Dodge,Challenger,79,75,85,93
+0,2018,Dodge,Charger,79,76,86,83
+0,2018,Dodge,Durango,76,72,83,87
+0,2018,Dodge,Grand Caravan,66,73,63,77
+0,2018,Dodge,Journey,64,67,65,74
+0,2018,FIAT,124 Spider,65,75,75,76
+0,2018,Ford,C-Max Hybrid,73,74,81,76
+0,2018,Ford,EcoSport,71,74,80,79
+0,2018,Ford,Edge,78,79,80,83
+0,2018,Ford,Escape,77,80,82,82
+0,2018,Ford,Expedition,85,79,95,83
+0,2018,Ford,Expedition Max,85,79,95,83
+0,2018,Ford,Explorer,79,80,81,82
+0,2018,Ford,F-150,81,79,77,94
+0,2018,Ford,Flex,75,76,77,78
+0,2018,Ford,Focus,71,74,76,76
+0,2018,Ford,Fusion,78,79,81,81
+0,2018,Ford,Fusion Energi,78,79,81,81
+0,2018,Ford,Fusion Hybrid,78,79,81,81
+0,2018,Ford,Mustang,80,80,85,81
+0,2018,Ford,Super Duty F-250 SRW,83,82,79,94
+0,2018,Ford,Super Duty F-350 DRW,83,82,79,94
+0,2018,Ford,Super Duty F-350 SRW,83,82,79,94
+0,2018,Ford,Taurus,79,83,75,76
+0,2018,Genesis,G80,85,84,86,76
+0,2018,Genesis,G90,88,86,89,70
+0,2018,GMC,Acadia,78,77,80,76
+0,2018,GMC,Canyon,76,76,71,85
+0,2018,GMC,Sierra 1500,84,80,79,94
+0,2018,GMC,Sierra 2500HD,84,78,79,95
+0,2018,GMC,Sierra 3500HD,84,78,79,95
+0,2018,GMC,Terrain,74,71,80,81
+0,2018,GMC,Yukon,85,80,85,88
+0,2018,Honda,Accord Hybrid,82,81,89,86
+0,2018,Honda,Accord Sedan,82,81,89,86
+0,2018,Honda,CR-V,80,86,83,87
+0,2018,Honda,Civic Coupe,77,80,82,85
+0,2018,Honda,Civic Hatchback,77,80,82,85
+0,2018,Honda,Civic Sedan,77,80,82,85
+0,2018,Honda,Civic Si Coupe,77,80,82,85
+0,2018,Honda,Civic Si Sedan,77,80,82,85
+0,2018,Honda,Civic Type R,77,80,82,85
+0,2018,Honda,Clarity Electric,71,73,72,79
+0,2018,Honda,Clarity Plug-In Hybrid,71,73,72,79
+0,2018,Honda,Fit,69,77,72,86
+0,2018,Honda,HR-V,68,74,74,80
+0,2018,Honda,Odyssey,74,73,77,82
+0,2018,Honda,Pilot,77,83,77,77
+0,2018,Honda,Ridgeline,79,81,81,86
+0,2018,Hyundai,Elantra,76,84,77,80
+0,2018,Hyundai,Elantra GT,76,84,77,80
+0,2018,Hyundai,Ioniq Electric,69,74,72,77
+0,2018,Hyundai,Ioniq Hybrid,69,74,72,77
+0,2018,Hyundai,Ioniq Plug-In Hybrid,69,74,72,77
+0,2018,Hyundai,Santa Fe,79,83,78,85
+0,2018,Hyundai,Santa Fe Sport,79,83,78,85
+0,2018,Hyundai,Sonata,77,81,75,83
+0,2018,Hyundai,Sonata Hybrid,77,81,75,83
+0,2018,Hyundai,Tucson,78,86,86,79
+0,2018,INFINITI,Q50,85,82,77,77
+0,2018,INFINITI,Q60,85,84,76,72
+0,2018,INFINITI,QX30,72,62,71,74
+0,2018,INFINITI,QX60,85,79,72,83
+0,2018,Jaguar,F-PACE,72,67,68,75
+0,2018,Jeep,Cherokee,75,79,81,86
+0,2018,Jeep,Compass,70,73,83,79
+0,2018,Jeep,Grand Cherokee,76,75,83,84
+0,2018,Jeep,Wrangler,69,73,72,88
+0,2018,Jeep,Wrangler JK,69,73,72,88
+0,2018,Jeep,Wrangler JK Unlimited,69,73,72,88
+0,2018,Jeep,Wrangler Unlimited,69,73,72,88
+0,2018,Kia,Forte,75,84,75,79
+0,2018,Kia,Forte5,75,84,75,79
+0,2018,Kia,Niro,72,78,81,78
+0,2018,Kia,Niro Plug-In Hybrid,72,78,81,78
+0,2018,Kia,Optima,80,85,80,81
+0,2018,Kia,Optima Hybrid,80,85,80,81
+0,2018,Kia,Optima Plug-In Hybrid,80,85,80,81
+0,2018,Kia,Rio,77,86,86,70
+0,2018,Kia,Rio 5-Door,77,86,86,70
+0,2018,Kia,Sedona,72,77,72,76
+0,2018,Kia,Sorento,80,85,82,78
+0,2018,Kia,Soul,79,84,82,88
+0,2018,Kia,Soul EV,79,84,82,88
+0,2018,Kia,Sportage,78,84,87,79
+0,2018,Kia,Stinger,81,79,90,74
+0,2018,Land Rover,Range Rover Velar,65,51,82,73
+0,2018,Lexus,ES,89,90,76,79
+0,2018,Lexus,GS,92,92,79,79
+0,2018,Lexus,GS F,92,92,79,79
+0,2018,Lexus,GX,88,86,72,83
+0,2018,Lexus,IS,90,88,79,83
+0,2018,Lexus,NX,87,88,75,77
+0,2018,Lexus,RX,93,91,83,81
+0,2018,Lincoln,Continental,90,88,86,72
+0,2018,Lincoln,MKC,87,87,79,75
+0,2018,Lincoln,MKX,87,84,77,80
+0,2018,Lincoln,MKZ,83,82,73,75
+0,2018,Lincoln,Navigator,93,82,94,81
+0,2018,Lincoln,Navigator L,93,82,94,81
+0,2018,Mazda,CX-3,69,76,75,78
+0,2018,Mazda,CX-5,77,82,81,83
+0,2018,Mazda,CX-9,77,82,79,74
+0,2018,Mazda,Mazda3 4-Door,74,80,76,82
+0,2018,Mazda,Mazda3 5-Door,74,80,76,82
+0,2018,Mercedes-Benz,C-Class,89,85,84,86
+0,2018,Mercedes-Benz,CLA,85,83,80,85
+0,2018,Mercedes-Benz,E-Class,86,80,80,74
+0,2018,Mercedes-Benz,GLA,81,80,76,75
+0,2018,Mercedes-Benz,GLC,87,84,85,73
+0,2018,Mercedes-Benz,GLE,86,81,77,77
+0,2018,Mercedes-Benz,GLS,85,79,73,78
+0,2018,Mercedes-Benz,S-Class,90,83,89,71
+0,2018,MINI,Convertible,79,87,78,67
+0,2018,MINI,Countryman,86,85,92,91
+0,2018,Mitsubishi,Mirage,64,68,69,71
+0,2018,Mitsubishi,Mirage G4,64,68,69,71
+0,2018,Mitsubishi,Outlander,74,74,79,80
+0,2018,Mitsubishi,Outlander PHEV,74,74,79,80
+0,2018,Mitsubishi,Outlander Sport,74,74,79,80
+0,2018,Nissan,Altima,84,88,84,81
+0,2018,Nissan,Armada,80,79,77,77
+0,2018,Nissan,Frontier,76,85,64,88
+0,2018,Nissan,LEAF,75,83,76,71
+0,2018,Nissan,Maxima,86,90,87,75
+0,2018,Nissan,Murano,82,85,84,75
+0,2018,Nissan,Pathfinder,80,82,80,78
+0,2018,Nissan,Rogue,78,83,80,80
+0,2018,Nissan,Rogue Sport,78,83,80,80
+0,2018,Nissan,Sentra,76,80,78,79
+0,2018,Nissan,Versa Sedan,72,83,72,75
+0,2018,Porsche,911,95,94,83,78
+0,2018,Porsche,Cayenne,92,88,83,77
+0,2018,Porsche,Macan,92,88,92,73
+0,2018,Porsche,Panamera,87,74,79,77
+0,2018,Subaru,Crosstrek,75,76,85,78
+0,2018,Subaru,Forester,74,75,79,83
+0,2018,Subaru,Impreza,72,73,76,80
+0,2018,Subaru,Legacy,77,78,78,81
+0,2018,Subaru,Outback,79,80,80,80
+0,2018,Subaru,WRX,74,71,83,79
+0,2018,Toyota,4Runner,84,88,79,91
+0,2018,Toyota,Avalon,80,83,67,82
+0,2018,Toyota,C-HR,77,79,85,81
+0,2018,Toyota,Camry,79,79,78,84
+0,2018,Toyota,Corolla,85,92,83,88
+0,2018,Toyota,Corolla iM,85,92,83,88
+0,2018,Toyota,Highlander,81,86,77,83
+0,2018,Toyota,Prius,76,81,74,86
+0,2018,Toyota,Prius c,68,78,67,83
+0,2018,Toyota,RAV4,80,85,79,88
+0,2018,Toyota,Sequoia,84,83,82,82
+0,2018,Toyota,Sienna,78,78,75,85
+0,2018,Toyota,Tacoma,77,81,70,89
+0,2018,Toyota,Tundra 2WD,84,86,71,94
+0,2018,Toyota,Tundra 4WD,84,86,71,94
+0,2018,Toyota,Yaris,74,82,76,79
+0,2018,Toyota,Yaris iA,74,82,76,79
+0,2018,Volkswagen,Atlas,79,79,85,72
+0,2018,Volkswagen,Beetle,75,80,76,81
+0,2018,Volkswagen,Beetle Convertible,75,80,76,81
+0,2018,Volkswagen,Golf,76,75,87,78
+0,2018,Volkswagen,Golf Alltrack,76,75,87,78
+0,2018,Volkswagen,Golf GTI,76,75,87,78
+0,2018,Volkswagen,Golf R,76,75,87,78
+0,2018,Volkswagen,Golf SportWagen,76,75,87,78
+0,2018,Volkswagen,Jetta,78,81,83,79
+0,2018,Volkswagen,Passat,76,77,79,76
+0,2018,Volkswagen,Tiguan,77,78,85,79
+0,2018,Volkswagen,Tiguan Limited,77,78,85,79
+0,2018,Volkswagen,e-Golf,76,75,87,78
+0,2018,Volvo,S60,75,79,61,75
+0,2018,Volvo,S60 Cross Country,75,79,61,75
+0,2018,Volvo,S90,78,70,81,73
+0,2018,Volvo,XC60,80,74,86,78
+0,2018,Volvo,XC90,79,72,78,78
+0,2017,Acura,ILX,72,72,62,77
+0,2017,Acura,MDX,79,76,67,77
+0,2017,Acura,RDX,80,81,67,76
+0,2017,Acura,TLX,79,80,67,72
+0,2017,Audi,A3 Cabriolet,80,78,80,74
+0,2017,Audi,A3 Sedan,80,78,80,74
+0,2017,Audi,A3 Sportback e-tron,80,78,80,74
+0,2017,Audi,A4,85,82,85,72
+0,2017,Audi,A5 Cabriolet,82,84,73,73
+0,2017,Audi,A5 Coupe,82,84,73,73
+0,2017,Audi,A6,84,80,79,71
+0,2017,Audi,A7,88,85,85,72
+0,2017,Audi,Q3,77,75,76,72
+0,2017,Audi,Q5,77,70,75,73
+0,2017,Audi,Q7,85,78,84,75
+0,2017,Audi,TT Coupe,86,78,84,90
+0,2017,Audi,TT Roadster,86,78,84,90
+0,2017,Audi,TTS,86,78,84,90
+0,2017,BMW,2 Series,86,88,80,89
+0,2017,BMW,3 Series,82,83,79,70
+0,2017,BMW,4 Series,86,88,82,74
+0,2017,BMW,X1,77,77,76,70
+0,2017,BMW,X3,83,85,77,71
+0,2017,BMW,X4,85,84,86,72
+0,2017,BMW,X5,85,84,81,73
+0,2017,BMW,X6,91,90,90,74
+0,2017,BMW,X6 M,91,90,90,74
+0,2017,BMW,i3,79,83,74,72
+0,2017,Buick,Enclave,83,88,80,73
+0,2017,Buick,Encore,81,87,83,79
+0,2017,Buick,Envision,82,87,82,73
+0,2017,Buick,LaCrosse,81,82,70,75
+0,2017,Buick,Regal,77,82,69,75
+0,2017,Cadillac,ATS Coupe,82,82,67,76
+0,2017,Cadillac,ATS Sedan,82,82,67,76
+0,2017,Cadillac,ATS-V Coupe,82,82,67,76
+0,2017,Cadillac,ATS-V Sedan,82,82,67,76
+0,2017,Cadillac,CT6,83,78,76,68
+0,2017,Cadillac,Escalade,84,75,73,77
+0,2017,Cadillac,Escalade ESV,84,75,73,77
+0,2017,Cadillac,XT5,81,75,72,73
+0,2017,Cadillac,XTS,84,78,78,69
+0,2017,Chevrolet,Camaro,77,73,80,79
+0,2017,Chevrolet,Colorado,77,81,69,83
+0,2017,Chevrolet,Corvette,85,83,75,90
+0,2017,Chevrolet,Cruze,80,84,80,81
+0,2017,Chevrolet,Equinox,79,84,78,79
+0,2017,Chevrolet,Impala,81,80,76,78
+0,2017,Chevrolet,Malibu,79,80,76,80
+0,2017,Chevrolet,Silverado 1500,86,86,76,93
+0,2017,Chevrolet,Silverado 2500HD,84,83,74,94
+0,2017,Chevrolet,Silverado 3500HD,84,83,74,94
+0,2017,Chevrolet,Sonic,76,80,81,76
+0,2017,Chevrolet,Spark,70,79,71,69
+0,2017,Chevrolet,Suburban,83,81,76,83
+0,2017,Chevrolet,Tahoe,87,85,85,88
+0,2017,Chevrolet,Traverse,76,79,72,77
+0,2017,Chevrolet,Trax,72,75,76,79
+0,2017,Chevrolet,Volt,70,74,70,74
+0,2017,Chrysler,200,71,71,76,78
+0,2017,Chrysler,300,78,79,79,78
+0,2017,Chrysler,Pacifica,71,74,76,70
+0,2017,Dodge,Challenger,76,70,85,91
+0,2017,Dodge,Charger,77,70,89,81
+0,2017,Dodge,Durango,75,72,81,85
+0,2017,Dodge,Grand Caravan,63,71,58,74
+0,2017,Dodge,Journey,65,71,63,73
+0,2017,FIAT,500,47,54,63,72
+0,2017,FIAT,124 Spider,62,69,74,74
+0,2017,FIAT,500 Abarth,47,54,63,72
+0,2017,FIAT,500c,47,54,63,72
+0,2017,Ford,C-Max Energi,67,70,70,74
+0,2017,Ford,C-Max Hybrid,67,70,70,74
+0,2017,Ford,Edge,78,77,82,80
+0,2017,Ford,Escape,77,80,82,80
+0,2017,Ford,Expedition,80,80,77,81
+0,2017,Ford,Expedition EL,80,80,77,81
+0,2017,Ford,Explorer,77,77,79,80
+0,2017,Ford,F-150,81,78,79,92
+0,2017,Ford,Focus,70,72,76,75
+0,2017,Ford,Fusion,75,76,77,78
+0,2017,Ford,Fusion Energi,75,76,77,78
+0,2017,Ford,Mustang,76,74,81,78
+0,2017,Ford,Super Duty F-250 SRW,82,78,83,94
+0,2017,Ford,Super Duty F-350 DRW,82,78,83,94
+0,2017,Ford,Super Duty F-350 SRW,82,78,83,94
+0,2017,Ford,Transit Connect Van,64,69,64,75
+0,2017,Ford,Transit Connect Wagon,64,69,64,75
+0,2017,Ford,Transit Van,64,69,64,75
+0,2017,Ford,Transit Wagon,64,69,64,75
+0,2017,Genesis,G80,82,81,79,74
+0,2017,Genesis,G90,88,87,89,68
+0,2017,GMC,Acadia,73,71,73,74
+0,2017,GMC,Acadia Limited,73,71,73,74
+0,2017,GMC,Canyon,75,76,72,83
+0,2017,GMC,Sierra 1500,83,78,77,93
+0,2017,GMC,Sierra 2500HD,82,74,79,94
+0,2017,GMC,Sierra 3500HD,82,74,79,94
+0,2017,GMC,Terrain,76,83,73,79
+0,2017,GMC,Yukon,82,75,81,85
+0,2017,GMC,Yukon XL,82,75,81,85
+0,2017,Honda,Accord Coupe,77,79,78,85
+0,2017,Honda,Accord Hybrid,77,79,78,85
+0,2017,Honda,Accord Sedan,77,79,78,85
+0,2017,Honda,CR-V,80,83,87,86
+0,2017,Honda,Civic Coupe,77,80,84,84
+0,2017,Honda,Civic Hatchback,77,80,84,84
+0,2017,Honda,Civic Sedan,77,80,84,84
+0,2017,Honda,Civic Type R,77,80,84,84
+0,2017,Honda,Fit,69,79,71,85
+0,2017,Honda,HR-V,68,72,76,78
+0,2017,Honda,Pilot,76,82,78,76
+0,2017,Honda,Ridgeline,77,82,76,85
+0,2017,Hyundai,Elantra,74,81,77,78
+0,2017,Hyundai,Elantra GT,74,81,77,78
+0,2017,Hyundai,Santa Fe,75,79,74,82
+0,2017,Hyundai,Santa Fe Sport,75,79,74,82
+0,2017,Hyundai,Sonata,75,80,73,81
+0,2017,Hyundai,Sonata Hybrid,75,80,73,81
+0,2017,Hyundai,Sonata Plug-In Hybrid,75,80,73,81
+0,2017,Hyundai,Tucson,71,78,77,78
+0,2017,INFINITI,Q50,83,79,74,74
+0,2017,INFINITI,Q50 Hybrid,83,79,74,74
+0,2017,INFINITI,Q60,84,79,80,70
+0,2017,INFINITI,QX30,72,62,72,72
+0,2017,INFINITI,QX50,78,76,61,72
+0,2017,INFINITI,QX60,82,74,72,79
+0,2017,INFINITI,QX60 Hybrid,82,74,72,79
+0,2017,INFINITI,QX80,89,83,76,77
+0,2017,Jaguar,F-PACE,72,64,76,73
+0,2017,Jaguar,F-TYPE,77,72,69,89
+0,2017,Jaguar,XE,74,73,68,74
+0,2017,Jeep,Cherokee,71,75,77,84
+0,2017,Jeep,Compass,61,69,67,77
+0,2017,Jeep,Grand Cherokee,74,75,80,82
+0,2017,Jeep,Patriot,64,74,70,76
+0,2017,Jeep,Renegade,69,71,81,79
+0,2017,Jeep,Wrangler,66,70,67,88
+0,2017,Jeep,Wrangler Unlimited,66,70,67,88
+0,2017,Kia,Cadenza,86,89,89,79
+0,2017,Kia,Forte,75,83,76,77
+0,2017,Kia,Niro,76,83,86,76
+0,2017,Kia,Optima,78,83,78,79
+0,2017,Kia,Optima Hybrid,78,83,78,79
+0,2017,Kia,Optima Plug-In Hybrid,78,83,78,79
+0,2017,Kia,Sorento,79,86,79,76
+0,2017,Kia,Soul,78,85,80,86
+0,2017,Kia,Soul EV,78,85,80,86
+0,2017,Kia,Sportage,76,82,86,77
+0,2017,Land Rover,Discovery Sport,64,55,75,71
+0,2017,Land Rover,Range Rover Evoque,66,61,76,72
+0,2017,Land Rover,Range Rover Sport,68,59,75,76
+0,2017,Lexus,CT,80,84,65,78
+0,2017,Lexus,ES,90,91,82,77
+0,2017,Lexus,GS,90,91,74,77
+0,2017,Lexus,GS F,90,91,74,77
+0,2017,Lexus,GX,87,85,71,81
+0,2017,Lexus,IS,86,80,78,82
+0,2017,Lexus,LS,90,88,79,69
+0,2017,Lexus,NX,83,81,68,75
+0,2017,Lexus,RC,87,85,73,87
+0,2017,Lexus,RC F,87,85,73,87
+0,2017,Lexus,RX,89,86,79,79
+0,2017,Lincoln,Continental,89,86,86,70
+0,2017,Lincoln,MKC,83,81,78,74
+0,2017,Lincoln,MKX,83,78,74,78
+0,2017,Lincoln,MKZ,84,84,77,73
+0,2017,Lincoln,Navigator,86,85,68,79
+0,2017,Lincoln,Navigator L,86,85,68,79
+0,2017,Mazda,CX-3,66,71,75,76
+0,2017,Mazda,MX-5 Miata,71,77,74,75
+0,2017,Mazda,MX-5 Miata RF,71,77,74,75
+0,2017,Mazda,Mazda3 4-Door,70,72,75,80
+0,2017,Mazda,Mazda3 5-Door,70,72,75,80
+0,2017,Mazda,Mazda6,76,81,76,78
+0,2017,Mercedes-Benz,C-Class,84,80,75,84
+0,2017,Mercedes-Benz,CLA,79,76,72,83
+0,2017,Mercedes-Benz,E-Class,83,76,78,72
+0,2017,Mercedes-Benz,GLA,81,82,75,74
+0,2017,Mercedes-Benz,GLC,83,78,81,73
+0,2017,Mercedes-Benz,GLE,86,80,79,75
+0,2017,Mercedes-Benz,GLS,87,84,71,76
+0,2017,Mercedes-Benz,S-Class,92,87,88,69
+0,2017,MINI,Clubman,85,83,89,91
+0,2017,Mitsubishi,Mirage,60,66,64,70
+0,2017,Mitsubishi,Outlander,70,74,71,78
+0,2017,Mitsubishi,Outlander Sport,69,75,73,78
+0,2017,Nissan,Altima,80,84,79,80
+0,2017,Nissan,Armada,80,80,77,75
+0,2017,Nissan,Frontier,75,85,64,86
+0,2017,Nissan,JUKE,71,77,76,77
+0,2017,Nissan,LEAF,64,79,55,69
+0,2017,Nissan,Maxima,84,85,88,73
+0,2017,Nissan,Murano,79,79,84,73
+0,2017,Nissan,Pathfinder,76,80,76,76
+0,2017,Nissan,Rogue,80,83,85,79
+0,2017,Nissan,Rogue Sport,80,83,85,79
+0,2017,Nissan,Sentra,75,81,74,78
+0,2017,Nissan,Titan,79,71,81,87
+0,2017,Nissan,Titan XD,79,71,81,87
+0,2017,Nissan,Versa Sedan,69,77,72,75
+0,2017,Porsche,911,91,89,79,76
+0,2017,Porsche,Cayenne,91,84,84,75
+0,2017,Porsche,Macan,93,88,94,71
+0,2017,Subaru,BRZ,70,69,77,76
+0,2017,Subaru,Crosstrek,74,78,81,77
+0,2017,Subaru,Forester,74,76,76,81
+0,2017,Subaru,Impreza,68,66,76,78
+0,2017,Subaru,Legacy,78,79,79,79
+0,2017,Subaru,Outback,80,81,82,78
+0,2017,Subaru,WRX,73,67,87,77
+0,2017,Toyota,86,70,71,73,77
+0,2017,Toyota,4Runner,80,84,75,90
+0,2017,Toyota,Avalon,81,89,64,80
+0,2017,Toyota,Camry,82,90,75,83
+0,2017,Toyota,Corolla,81,88,80,86
+0,2017,Toyota,Highlander,81,86,78,82
+0,2017,Toyota,Mirai,74,81,68,72
+0,2017,Toyota,Prius,75,78,76,83
+0,2017,Toyota,Prius Prime,75,78,76,83
+0,2017,Toyota,Prius v,73,79,70,83
+0,2017,Toyota,RAV4,77,84,73,87
+0,2017,Toyota,RAV4 Hybrid,77,84,73,87
+0,2017,Toyota,Sequoia,84,87,77,80
+0,2017,Toyota,Sienna,74,76,70,82
+0,2017,Toyota,Tacoma,73,75,65,89
+0,2017,Toyota,Tundra 2WD,84,88,69,92
+0,2017,Toyota,Tundra 4WD,84,88,69,92
+0,2017,Toyota,Yaris,72,82,73,76
+0,2017,Toyota,Yaris iA,72,82,73,76
+0,2017,Volkswagen,Beetle,75,79,78,79
+0,2017,Volkswagen,Beetle Convertible,75,79,78,79
+0,2017,Volkswagen,Golf,75,77,82,76
+0,2017,Volkswagen,Golf Alltrack,75,77,82,76
+0,2017,Volkswagen,Golf GTI,75,77,82,76
+0,2017,Volkswagen,Golf R,75,77,82,76
+0,2017,Volkswagen,Golf SportWagen,75,77,82,76
+0,2017,Volkswagen,Jetta,78,83,83,77
+0,2017,Volkswagen,Passat,78,82,80,75
+0,2017,Volkswagen,Tiguan,76,81,85,77
+0,2017,Volkswagen,Tiguan Limited,76,81,85,77
+0,2017,Volkswagen,Touareg,80,76,81,75
+0,2017,Volkswagen,e-Golf,75,77,82,76
+0,2017,Volvo,S60,78,79,73,73
+0,2017,Volvo,S60 Cross Country,78,79,73,73
+0,2017,Volvo,S90,79,73,82,72
+0,2017,Volvo,XC60,74,70,71,76
+0,2017,Volvo,XC90,74,65,74,76
+0,2016,Acura,ILX,76,78,67,75
+0,2016,Acura,MDX,69,57,62,75
+0,2016,Acura,RDX,80,81,66,73
+0,2016,Acura,TLX,80,78,75,71
+0,2016,Audi,A3,81,82,77,72
+0,2016,Audi,A3 e-tron,81,82,77,72
+0,2016,Audi,A4,84,85,78,71
+0,2016,Audi,A5,84,89,71,71
+0,2016,Audi,A6,85,82,83,69
+0,2016,Audi,A7,87,86,81,70
+0,2016,Audi,Q3,79,80,74,71
+0,2016,Audi,Q5,80,78,74,71
+0,2016,BMW,2 Series,84,83,81,87
+0,2016,BMW,3 Series,82,82,79,69
+0,2016,BMW,4 Series,84,83,82,73
+0,2016,BMW,5 Series,86,89,80,67
+0,2016,BMW,7 Series,83,85,65,78
+0,2016,BMW,X1,77,75,79,69
+0,2016,BMW,X3,84,87,78,69
+0,2016,BMW,X4,79,83,70,78
+0,2016,BMW,X5,82,78,82,71
+0,2016,BMW,X6,82,84,72,78
+0,2016,Buick,Cascada,75,82,77,92
+0,2016,Buick,Enclave,77,74,80,72
+0,2016,Buick,Encore,76,83,76,77
+0,2016,Buick,LaCrosse,86,93,72,76
+0,2016,Buick,Regal,81,87,76,72
+0,2016,Buick,Verano,80,91,72,74
+0,2016,Cadillac,ATS Coupe,79,77,65,74
+0,2016,Cadillac,ATS Sedan,79,77,65,74
+0,2016,Cadillac,ATS-V Coupe,79,77,65,74
+0,2016,Cadillac,ATS-V Sedan,79,77,65,74
+0,2016,Cadillac,CTS Sedan,80,74,71,71
+0,2016,Cadillac,CTS-V Sedan,80,74,71,71
+0,2016,Cadillac,Escalade,74,50,77,76
+0,2016,Cadillac,Escalade ESV,74,50,77,76
+0,2016,Cadillac,SRX,82,80,67,74
+0,2016,Cadillac,XTS,82,80,71,68
+0,2016,Chevrolet,Camaro,79,74,82,78
+0,2016,Chevrolet,Colorado,76,78,70,82
+0,2016,Chevrolet,Corvette,86,86,75,88
+0,2016,Chevrolet,Cruze,77,89,66,81
+0,2016,Chevrolet,Equinox,80,93,72,77
+0,2016,Chevrolet,Impala,85,88,78,76
+0,2016,Chevrolet,Impala Limited,85,88,78,76
+0,2016,Chevrolet,Impala Limited Police,85,88,78,76
+0,2016,Chevrolet,Malibu,78,80,75,78
+0,2016,Chevrolet,Malibu Limited,78,80,75,78
+0,2016,Chevrolet,Silverado 1500,85,84,75,92
+0,2016,Chevrolet,Sonic,75,83,76,73
+0,2016,Chevrolet,Spark,57,64,67,88
+0,2016,Chevrolet,Spark EV,57,64,67,88
+0,2016,Chevrolet,Suburban,75,68,69,81
+0,2016,Chevrolet,Tahoe,79,70,78,87
+0,2016,Chevrolet,Traverse,77,82,70,76
+0,2016,Chevrolet,Trax,69,76,69,77
+0,2016,Chevrolet,Volt,70,74,69,72
+0,2016,Chrysler,200,66,68,67,76
+0,2016,Chrysler,300,71,73,77,72
+0,2016,Chrysler,Town and Country,70,81,66,72
+0,2016,Dodge,Challenger,83,87,85,89
+0,2016,Dodge,Charger,77,76,81,79
+0,2016,Dodge,Dart,64,58,79,78
+0,2016,Dodge,Durango,76,88,83,72
+0,2016,Dodge,Grand Caravan,63,68,62,73
+0,2016,Dodge,Journey,62,65,63,71
+0,2016,FIAT,500,42,59,70,49
+0,2016,FIAT,500L,53,49,79,75
+0,2016,FIAT,500X,53,49,79,75
+0,2016,FIAT,500c,42,59,70,49
+0,2016,Ford,Edge,78,80,80,79
+0,2016,Ford,Escape,75,82,77,79
+0,2016,Ford,Expedition,76,75,70,79
+0,2016,Ford,Expedition EL,76,75,70,79
+0,2016,Ford,Explorer,70,64,78,79
+0,2016,Ford,F-150,80,78,73,91
+0,2016,Ford,Fiesta,64,66,74,72
+0,2016,Ford,Focus,64,64,69,73
+0,2016,Ford,Focus Electric,64,64,69,73
+0,2016,Ford,Fusion,76,81,75,77
+0,2016,Ford,Fusion Energi,76,81,75,77
+0,2016,Ford,Mustang,78,78,82,76
+0,2016,Ford,Super Duty F-250 SRW,78,79,65,93
+0,2016,Ford,Super Duty F-350 DRW,78,79,65,93
+0,2016,Ford,Super Duty F-350 SRW,78,79,65,93
+0,2016,GMC,Acadia,70,69,70,74
+0,2016,GMC,Canyon,73,76,65,82
+0,2016,GMC,Sierra 1500,80,70,80,91
+0,2016,GMC,Terrain,78,88,74,77
+0,2016,GMC,Yukon,73,60,73,83
+0,2016,GMC,Yukon XL,73,60,73,83
+0,2016,Honda,Accord Coupe,79,84,78,82
+0,2016,Honda,Accord Sedan,79,84,78,82
+0,2016,Honda,CR-V,73,82,70,85
+0,2016,Honda,Civic Coupe,70,69,79,82
+0,2016,Honda,Civic Sedan,70,69,79,82
+0,2016,Honda,Fit,68,77,70,83
+0,2016,Honda,HR-V,66,71,75,77
+0,2016,Honda,Odyssey,70,74,70,77
+0,2016,Honda,Pilot,68,68,73,74
+0,2016,Hyundai,Accent,69,83,71,71
+0,2016,Hyundai,Azera,74,81,71,76
+0,2016,Hyundai,Elantra,72,84,69,77
+0,2016,Hyundai,Elantra GT,72,84,69,77
+0,2016,Hyundai,Genesis,80,83,76,72
+0,2016,Hyundai,Genesis Coupe,80,83,76,72
+0,2016,Hyundai,Santa Fe,77,85,74,81
+0,2016,Hyundai,Santa Fe Sport,77,85,74,81
+0,2016,Hyundai,Sonata,78,86,76,79
+0,2016,Hyundai,Sonata Hybrid,78,86,76,79
+0,2016,Hyundai,Sonata Plug-In Hybrid,78,86,76,79
+0,2016,Hyundai,Tucson,70,70,85,76
+0,2016,Hyundai,Veloster,70,70,78,76
+0,2016,INFINITI,QX50,84,85,70,70
+0,2016,INFINITI,QX80,87,78,75,85
+0,2016,Jaguar,F-TYPE,76,70,88,73
+0,2016,Jaguar,XF,74,74,69,73
+0,2016,Jeep,Cherokee,71,76,75,82
+0,2016,Jeep,Compass,63,70,70,76
+0,2016,Jeep,Grand Cherokee,75,78,79,81
+0,2016,Jeep,Patriot,62,72,69,74
+0,2016,Jeep,Renegade,62,62,76,77
+0,2016,Jeep,Wrangler,65,67,70,87
+0,2016,Jeep,Wrangler Unlimited,65,67,70,87
+0,2016,Kia,Forte,73,80,77,75
+0,2016,Kia,Forte Koup,73,80,77,75
+0,2016,Kia,Optima,77,78,82,77
+0,2016,Kia,Optima Hybrid,77,78,82,77
+0,2016,Kia,Rio,58,73,68,74
+0,2016,Kia,Sedona,70,73,73,73
+0,2016,Kia,Sorento,75,77,79,75
+0,2016,Kia,Soul,79,88,81,84
+0,2016,Kia,Sportage,73,83,79,78
+0,2016,Land Rover,Discovery Sport,57,43,66,69
+0,2016,Land Rover,LR4,70,74,73,65
+0,2016,Land Rover,Range Rover,75,78,73,65
+0,2016,Land Rover,Range Rover Sport,73,71,76,73
+0,2016,Lincoln,MKC,80,76,75,72
+0,2016,Lincoln,MKX,79,69,75,76
+0,2016,Lincoln,MKZ,85,84,78,72
+0,2016,Lincoln,Navigator,82,69,77,82
+0,2016,Lincoln,Navigator L,82,69,77,82
+0,2016,Mazda,CX-3,64,69,73,74
+0,2016,Mazda,CX-5,67,68,73,79
+0,2016,Mazda,MX-5 Miata,71,82,72,72
+0,2016,Mazda,Mazda3,71,79,72,80
+0,2016,Mazda,Mazda6,74,79,76,75
+0,2016,Mercedes-Benz,C-Class,85,82,79,78
+0,2016,Mercedes-Benz,CLA,79,77,81,83
+0,2016,Mercedes-Benz,E-Class,84,84,72,71
+0,2016,Mercedes-Benz,GLA,72,65,72,72
+0,2016,Mercedes-Benz,GLC,78,66,82,71
+0,2016,Mercedes-Benz,GLE,86,83,78,74
+0,2016,Mercedes-Benz,S-Class,86,85,67,83
+0,2016,MINI,Cooper Hardtop,78,85,79,67
+0,2016,MINI,Cooper Hardtop 4 Door,78,85,79,67
+0,2016,Mitsubishi,Outlander,70,73,70,76
+0,2016,Nissan,Altima,79,84,78,78
+0,2016,Nissan,Frontier,71,79,59,85
+0,2016,Nissan,JUKE,59,68,74,81
+0,2016,Nissan,LEAF,59,65,68,81
+0,2016,Nissan,Maxima,80,79,83,72
+0,2016,Nissan,Murano,73,82,72,81
+0,2016,Nissan,Pathfinder,70,75,74,81
+0,2016,Nissan,Rogue,72,77,72,78
+0,2016,Nissan,Versa,68,82,66,73
+0,2016,Nissan,Versa Note,68,82,66,73
+0,2016,Porsche,911,94,94,83,73
+0,2016,Porsche,Boxster,90,89,86,88
+0,2016,Porsche,Cayenne,88,81,81,73
+0,2016,Porsche,Cayman,87,81,86,88
+0,2016,Porsche,Macan,90,85,90,69
+0,2016,Scion,FR-S,61,62,76,83
+0,2016,Scion,iA,63,74,71,83
+0,2016,Scion,iM,68,75,74,83
+0,2016,Scion,tC,68,78,71,83
+0,2016,Subaru,BRZ,63,68,74,81
+0,2016,Subaru,Crosstrek,75,80,83,75
+0,2016,Subaru,Forester,76,86,74,78
+0,2016,Subaru,Impreza Sedan,71,78,68,78
+0,2016,Subaru,Impreza Wagon,71,78,68,78
+0,2016,Subaru,Legacy,77,76,80,77
+0,2016,Subaru,Outback,75,76,76,76
+0,2016,Subaru,WRX,68,62,80,75
+0,2016,Subaru,WRX STI,68,62,80,75
+0,2016,Toyota,4Runner,77,77,74,89
+0,2016,Toyota,Avalon,79,85,63,78
+0,2016,Toyota,Camry,82,91,74,81
+0,2016,Toyota,Camry Hybrid,82,91,74,81
+0,2016,Toyota,Corolla,82,91,78,86
+0,2016,Toyota,Highlander,79,80,79,80
+0,2016,Toyota,Prius,77,83,77,82
+0,2016,Toyota,Prius v,76,87,69,83
+0,2016,Toyota,RAV4,79,86,77,85
+0,2016,Toyota,RAV4 Hybrid,79,86,77,85
+0,2016,Toyota,Sequoia,75,73,78,83
+0,2016,Toyota,Sienna,75,76,73,80
+0,2016,Toyota,Tacoma,70,71,65,88
+0,2016,Toyota,Tundra 2WD Truck,84,90,67,91
+0,2016,Toyota,Tundra 4WD Truck,84,90,67,91
+0,2016,Volkswagen,Beetle Convertible,78,86,79,77
+0,2016,Volkswagen,Beetle Coupe,78,86,79,77
+0,2016,Volkswagen,Golf,74,74,84,74
+0,2016,Volkswagen,Golf SportWagen,74,74,84,74
+0,2016,Volkswagen,Jetta Sedan,76,81,80,75
+0,2016,Volkswagen,Passat,79,87,77,72
+0,2016,Volkswagen,Tiguan,77,83,86,74
+0,2016,Volkswagen,Touareg,76,72,74,73
+0,2016,Volvo,S60,78,85,65,72
+0,2016,Volvo,S60 Inscription,78,85,65,72
+0,2016,Volvo,V60,69,62,72,74
+0,2016,Volvo,V60 Cross Country,69,62,72,74
+0,2016,Volvo,XC60,76,76,70,75
+0,2016,Volvo,XC70,72,67,73,74
+0,2016,Volvo,XC90,67,44,82,74
+0,2016,Volvo,XC90 Hybrid,67,44,82,74
+0,2015,Acura,ILX,74,80,61,74
+0,2015,Acura,MDX,78,75,69,73
+0,2015,Acura,RDX,76,77,61,71
+0,2015,Acura,RLX,81,81,68,80
+0,2015,Acura,TLX,73,65,70,69
+0,2015,Audi,A3,81,77,84,71
+0,2015,Audi,A4,83,83,77,69
+0,2015,Audi,A5,84,84,79,69
+0,2015,Audi,A6,82,79,77,67
+0,2015,Audi,A7,84,87,68,80
+0,2015,Audi,A8,82,79,66,80
+0,2015,Audi,Q3,82,84,81,69
+0,2015,Audi,Q5,80,75,79,69
+0,2015,Audi,Q7,74,57,78,72
+0,2015,Audi,allroad,74,68,70,80
+0,2015,BMW,2 Series,84,82,83,85
+0,2015,BMW,3 Series,78,78,75,67
+0,2015,BMW,3 Series Gran Turismo,78,78,75,67
+0,2015,BMW,4 Series,85,85,86,70
+0,2015,BMW,5 Series,84,84,81,66
+0,2015,BMW,5 Series Gran Turismo,84,84,81,66
+0,2015,BMW,6 Series,83,87,69,78
+0,2015,BMW,7 Series,78,74,65,78
+0,2015,BMW,X1,75,79,69,67
+0,2015,BMW,X3,79,80,73,68
+0,2015,BMW,X4,77,81,68,78
+0,2015,BMW,X5,82,79,80,69
+0,2015,BMW,X5 M,82,79,80,69
+0,2015,BMW,X6,79,78,71,78
+0,2015,BMW,X6 M,79,78,71,78
+0,2015,Buick,Enclave,81,83,79,70
+0,2015,Buick,Encore,74,74,81,75
+0,2015,Buick,Verano,80,87,76,73
+0,2015,Cadillac,ATS Coupe,77,75,59,73
+0,2015,Cadillac,ATS Sedan,77,75,59,73
+0,2015,Cadillac,CTS Sedan,79,70,69,85
+0,2015,Cadillac,CTS-V Coupe,79,70,69,85
+0,2015,Cadillac,Escalade,72,49,71,74
+0,2015,Cadillac,Escalade ESV,72,49,71,74
+0,2015,Cadillac,SRX,81,75,73,72
+0,2015,Cadillac,XTS,79,73,66,85
+0,2015,Chevrolet,Camaro,76,79,71,77
+0,2015,Chevrolet,Colorado,75,73,74,80
+0,2015,Chevrolet,Corvette,79,69,77,85
+0,2015,Chevrolet,Cruze,74,82,71,73
+0,2015,Chevrolet,Equinox,78,88,73,75
+0,2015,Chevrolet,Impala,82,84,76,75
+0,2015,Chevrolet,Impala Limited,82,84,76,75
+0,2015,Chevrolet,Impala Limited Police,82,84,76,75
+0,2015,Chevrolet,Malibu,81,94,69,76
+0,2015,Chevrolet,Silverado 1500,82,82,69,91
+0,2015,Chevrolet,Silverado 2500HD Built After Aug 14,80,77,69,91
+0,2015,Chevrolet,Sonic,72,78,77,71
+0,2015,Chevrolet,Spark,58,66,67,88
+0,2015,Chevrolet,Spark EV,58,66,67,88
+0,2015,Chevrolet,Suburban,71,61,65,81
+0,2015,Chevrolet,Traverse,80,88,73,74
+0,2015,Chevrolet,Trax,75,83,77,75
+0,2015,Chevrolet,Volt,70,79,63,71
+0,2015,Chrysler,200,63,56,73,74
+0,2015,Chrysler,300,71,74,74,72
+0,2015,Chrysler,Town and Country,68,74,68,72
+0,2015,Dodge,Challenger,81,81,87,86
+0,2015,Dodge,Charger,77,74,83,78
+0,2015,Dodge,Dart,67,68,77,75
+0,2015,Dodge,Durango,74,76,77,82
+0,2015,Dodge,Grand Caravan,61,69,57,71
+0,2015,Dodge,Journey,66,69,70,69
+0,2015,FIAT,500,54,66,69,69
+0,2015,FIAT,500e,54,66,69,69
+0,2015,Ford,C-Max Energi,70,74,74,70
+0,2015,Ford,C-Max Hybrid,70,74,74,70
+0,2015,Ford,Escape,74,81,75,76
+0,2015,Ford,Expedition,74,68,75,78
+0,2015,Ford,Expedition EL,74,68,75,78
+0,2015,Ford,Explorer,70,70,72,78
+0,2015,Ford,F-150,85,80,90,90
+0,2015,Ford,Fiesta,59,56,73,70
+0,2015,Ford,Focus,64,72,72,78
+0,2015,Ford,Focus Electric,64,72,72,78
+0,2015,Ford,Fusion,73,77,72,75
+0,2015,Ford,Fusion Energi,73,77,72,75
+0,2015,Ford,Mustang,75,72,83,75
+0,2015,Ford,Super Duty F-250 SRW,79,79,70,91
+0,2015,Ford,Super Duty F-350 DRW,79,79,70,91
+0,2015,Ford,Super Duty F-350 SRW,79,79,70,91
+0,2015,Ford,Taurus,78,84,71,71
+0,2015,Ford,Transit Connect Wagon,54,55,71,78
+0,2015,Ford,Transit Wagon,54,55,71,78
+0,2015,GMC,Acadia,75,78,71,72
+0,2015,GMC,Canyon,73,69,73,80
+0,2015,GMC,Sierra 1500,79,74,71,90
+0,2015,GMC,Terrain,78,84,77,75
+0,2015,GMC,Yukon,72,59,73,82
+0,2015,GMC,Yukon XL,72,59,73,82
+0,2015,Honda,Accord Hybrid,76,82,75,80
+0,2015,Honda,Accord Sedan,76,82,75,80
+0,2015,Honda,CR-V,71,76,71,83
+0,2015,Honda,Civic Coupe,73,80,75,79
+0,2015,Honda,Civic Hybrid,73,80,75,79
+0,2015,Honda,Civic Sedan,73,80,75,79
+0,2015,Honda,Crosstour,66,72,74,74
+0,2015,Honda,Fit,64,69,70,81
+0,2015,Honda,Odyssey,74,79,74,76
+0,2015,Honda,Pilot,70,75,69,76
+0,2015,Hyundai,Accent,59,72,70,76
+0,2015,Hyundai,Elantra,72,77,76,76
+0,2015,Hyundai,Elantra GT,72,77,76,76
+0,2015,Hyundai,Genesis,78,76,79,71
+0,2015,Hyundai,Santa Fe,78,83,77,79
+0,2015,Hyundai,Santa Fe Sport,78,83,77,79
+0,2015,Hyundai,Sonata,79,87,78,78
+0,2015,Hyundai,Sonata Hybrid,79,87,78,78
+0,2015,Hyundai,Tucson,75,85,81,77
+0,2015,Hyundai,Veloster,67,63,78,74
+0,2015,INFINITI,Q40,83,89,60,67
+0,2015,INFINITI,Q50,81,76,72,70
+0,2015,INFINITI,Q70,85,85,66,85
+0,2015,INFINITI,Q70L,85,85,66,85
+0,2015,INFINITI,QX50,76,66,68,85
+0,2015,INFINITI,QX60,80,73,69,76
+0,2015,INFINITI,QX70,83,78,71,85
+0,2015,INFINITI,QX80,88,82,73,85
+0,2015,Jaguar,F-TYPE,78,75,86,73
+0,2015,Jaguar,XF,73,72,67,73
+0,2015,Jeep,Cherokee,61,54,74,81
+0,2015,Jeep,Compass,62,71,69,73
+0,2015,Jeep,Grand Cherokee,70,69,76,80
+0,2015,Jeep,Patriot,62,75,67,70
+0,2015,Jeep,Wrangler,67,75,66,87
+0,2015,Jeep,Wrangler Unlimited,67,75,66,87
+0,2015,Kia,Cadenza,72,75,76,74
+0,2015,Kia,Forte,73,82,76,74
+0,2015,Kia,Forte 5-Door,73,82,76,74
+0,2015,Kia,Forte Koup,73,82,76,74
+0,2015,Kia,Optima,76,82,76,75
+0,2015,Kia,Optima Hybrid,76,82,76,75
+0,2015,Kia,Rio,71,87,75,66
+0,2015,Kia,Sedona,73,71,82,71
+0,2015,Kia,Sorento,73,81,72,73
+0,2015,Kia,Soul,77,86,77,83
+0,2015,Kia,Sportage,71,79,78,77
+0,2015,Land Rover,LR4,66,65,71,65
+0,2015,Land Rover,Range Rover Evoque,61,49,79,69
+0,2015,Land Rover,Range Rover Sport,70,75,71,65
+0,2015,Lexus,IS 250,87,83,80,77
+0,2015,Lexus,IS 250C,87,83,80,77
+0,2015,Lexus,IS 350,87,83,80,77
+0,2015,Lexus,IS 350C,87,83,80,77
+0,2015,Lincoln,MKC,81,77,76,70
+0,2015,Lincoln,MKS,78,72,68,82
+0,2015,Lincoln,MKX,86,88,72,74
+0,2015,Lincoln,MKZ,83,83,75,70
+0,2015,Lincoln,Navigator,84,76,75,82
+0,2015,Lincoln,Navigator L,84,76,75,82
+0,2015,Mazda,CX-5,73,77,78,78
+0,2015,Mazda,CX-9,65,73,69,73
+0,2015,Mazda,MX-5 Miata,60,69,71,73
+0,2015,Mazda,Mazda3,70,76,74,77
+0,2015,Mazda,Mazda5,51,54,68,73
+0,2015,Mazda,Mazda6,73,76,76,73
+0,2015,Mercedes-Benz,C-Class,80,69,82,76
+0,2015,Mercedes-Benz,E-Class,84,80,77,69
+0,2015,Mercedes-Benz,GL-Class,82,74,70,71
+0,2015,Mercedes-Benz,GLK-Class,83,83,72,73
+0,2015,Mercedes-Benz,M-Class,84,81,75,72
+0,2015,Mercedes-Benz,S-Class,87,78,86,65
+0,2015,Mercedes-Benz,SL-Class,82,77,72,83
+0,2015,Mercedes-Benz,SLK-Class,79,67,85,83
+0,2015,MINI,Cooper Convertible,76,73,84,68
+0,2015,MINI,Cooper Countryman,79,78,85,91
+0,2015,MINI,Cooper Coupe,76,73,84,68
+0,2015,MINI,Cooper Hardtop 4 Door,76,73,84,68
+0,2015,MINI,Cooper Paceman,76,73,84,68
+0,2015,Mitsubishi,Lancer,65,73,69,83
+0,2015,Mitsubishi,Mirage,53,61,65,83
+0,2015,Mitsubishi,Outlander Sport,69,74,74,74
+0,2015,Nissan,Altima,77,80,77,76
+0,2015,Nissan,Armada,70,64,77,81
+0,2015,Nissan,Frontier,73,84,61,84
+0,2015,Nissan,JUKE,64,76,73,81
+0,2015,Nissan,LEAF,70,87,61,68
+0,2015,Nissan,Murano,78,75,87,70
+0,2015,Nissan,Pathfinder,68,66,71,73
+0,2015,Nissan,Quest,74,84,68,81
+0,2015,Nissan,Rogue,73,80,74,76
+0,2015,Nissan,Rogue Select,73,80,74,76
+0,2015,Nissan,Sentra,68,76,76,81
+0,2015,Nissan,Versa,65,77,66,70
+0,2015,Nissan,Versa Note,65,77,66,70
+0,2015,Nissan,Xterra,69,75,69,75
+0,2015,Porsche,911,92,96,75,70
+0,2015,Porsche,Boxster,87,80,84,88
+0,2015,Porsche,Cayenne,87,83,71,88
+0,2015,Porsche,Cayman,88,84,84,88
+0,2015,Porsche,Macan,87,80,89,68
+0,2015,Scion,FR-S,65,71,74,83
+0,2015,Scion,tC,69,80,70,83
+0,2015,Scion,xB,66,71,77,83
+0,2015,smart,fortwo electric drive,32,55,66,95
+0,2015,Subaru,BRZ,61,65,72,81
+0,2015,Subaru,Forester,71,73,74,77
+0,2015,Subaru,Impreza Sedan,71,79,69,76
+0,2015,Subaru,Impreza Wagon,71,79,69,76
+0,2015,Subaru,Legacy,72,70,75,75
+0,2015,Subaru,Outback,72,72,74,73
+0,2015,Subaru,WRX,66,55,83,73
+0,2015,Subaru,WRX STI,66,55,83,73
+0,2015,Subaru,XV Crosstrek,70,72,79,77
+0,2015,Subaru,XV Crosstrek Hybrid,70,72,79,77
+0,2015,Toyota,4Runner,76,74,75,88
+0,2015,Toyota,Avalon,79,81,73,76
+0,2015,Toyota,Avalon Hybrid,79,81,73,76
+0,2015,Toyota,Camry,81,90,74,80
+0,2015,Toyota,Corolla,75,82,71,84
+0,2015,Toyota,Highlander,78,77,80,79
+0,2015,Toyota,Highlander Hybrid,78,77,80,79
+0,2015,Toyota,Prius,73,88,61,78
+0,2015,Toyota,Prius Plug-In,73,88,61,78
+0,2015,Toyota,RAV4,74,79,73,84
+0,2015,Toyota,Sequoia,73,69,76,83
+0,2015,Toyota,Sienna,71,68,73,80
+0,2015,Toyota,Tacoma,75,84,61,89
+0,2015,Toyota,Tundra 2WD Truck,78,78,66,90
+0,2015,Toyota,Tundra 4WD Truck,78,78,66,90
+0,2015,Toyota,Venza,77,83,72,77
+0,2015,Toyota,Yaris,62,72,74,83
+0,2015,Volkswagen,Beetle Convertible,67,77,75,79
+0,2015,Volkswagen,Beetle Coupe,67,77,75,79
+0,2015,Volkswagen,CC,64,56,65,72
+0,2015,Volkswagen,Eos,63,71,70,79
+0,2015,Volkswagen,Golf,75,73,87,71
+0,2015,Volkswagen,Golf GTI,75,73,87,71
+0,2015,Volkswagen,Golf R,75,73,87,71
+0,2015,Volkswagen,Golf SportWagen,75,73,87,71
+0,2015,Volkswagen,Jetta Sedan,71,74,76,74
+0,2015,Volkswagen,Passat,72,74,74,70
+0,2015,Volkswagen,Tiguan,74,79,84,72
+0,2015,Volkswagen,e-Golf,75,73,87,71
+0,2015,Volvo,S60,75,73,72,70
+0,2015,Volvo,V60,74,72,68,70
+0,2015,Volvo,V60 Cross Country,74,72,68,70
+0,2015,Volvo,XC60,75,73,70,72
+0,2015,Volvo,XC70,72,69,65,71
+0,2014,Acura,ILX,77,82,56,73
+0,2014,Acura,MDX,73,63,69,73
+0,2014,Acura,RDX,78,79,64,70
+0,2014,Acura,RLX,74,60,79,68
+0,2014,Acura,TL,81,80,71,73
+0,2014,Audi,A4,83,80,83,69
+0,2014,Audi,A5,81,75,84,68
+0,2014,Audi,A6,82,77,81,67
+0,2014,Audi,A7,85,83,82,67
+0,2014,Audi,Q5,80,74,81,68
+0,2014,Audi,Q7,73,58,75,70
+0,2014,BMW,3 Series,79,80,73,65
+0,2014,BMW,3 Series Gran Turismo,79,80,73,65
+0,2014,BMW,4 Series,81,80,82,67
+0,2014,BMW,5 Series,80,76,80,66
+0,2014,BMW,5 Series Gran Turismo,80,76,80,66
+0,2014,BMW,X1,76,79,63,67
+0,2014,BMW,X3,79,78,75,66
+0,2014,BMW,X5,79,73,79,68
+0,2014,Buick,Enclave,77,79,75,69
+0,2014,Buick,Encore,76,80,79,74
+0,2014,Buick,LaCrosse,81,84,68,73
+0,2014,Buick,Regal,78,80,75,71
+0,2014,Buick,Verano,77,84,74,72
+0,2014,Cadillac,ATS,76,70,62,72
+0,2014,Cadillac,CTS Coupe,81,76,72,68
+0,2014,Cadillac,CTS Sedan,81,76,72,68
+0,2014,Cadillac,CTS-V Coupe,81,76,72,68
+0,2014,Cadillac,CTS-V Sedan,81,76,72,68
+0,2014,Cadillac,CTS-V Wagon,81,76,72,68
+0,2014,Cadillac,Escalade ESV,82,68,73,93
+0,2014,Cadillac,SRX,80,74,70,71
+0,2014,Cadillac,XTS,79,77,68,65
+0,2014,Chevrolet,Camaro,76,79,70,77
+0,2014,Chevrolet,Corvette Stingray,83,75,82,84
+0,2014,Chevrolet,Cruze,72,80,69,71
+0,2014,Chevrolet,Equinox,78,88,74,73
+0,2014,Chevrolet,Impala,78,76,74,72
+0,2014,Chevrolet,Impala Limited,78,76,74,72
+0,2014,Chevrolet,Impala Limited Police,78,76,74,72
+0,2014,Chevrolet,Malibu,75,82,67,75
+0,2014,Chevrolet,Silverado 1500,78,71,70,90
+0,2014,Chevrolet,Sonic,70,76,74,69
+0,2014,Chevrolet,Spark,62,65,69,67
+0,2014,Chevrolet,Spark EV,62,65,69,67
+0,2014,Chevrolet,Suburban,70,62,63,79
+0,2014,Chevrolet,Tahoe,77,79,60,85
+0,2014,Chevrolet,Traverse,71,70,70,72
+0,2014,Chevrolet,Volt,69,74,66,70
+0,2014,Chrysler,200,67,71,70,71
+0,2014,Chrysler,300,73,73,74,74
+0,2014,Chrysler,Town and Country,68,75,69,70
+0,2014,Dodge,Avenger,63,64,67,69
+0,2014,Dodge,Challenger,73,68,81,85
+0,2014,Dodge,Charger,74,66,86,76
+0,2014,Dodge,Dart,63,55,80,74
+0,2014,Dodge,Durango,69,64,77,82
+0,2014,Dodge,Grand Caravan,62,69,60,70
+0,2014,Dodge,Journey,65,73,64,68
+0,2014,Ford,C-Max Energi,62,71,68,80
+0,2014,Ford,C-Max Hybrid,62,71,68,80
+0,2014,Ford,Edge,75,80,75,74
+0,2014,Ford,Escape,70,70,78,75
+0,2014,Ford,Expedition,72,70,68,77
+0,2014,Ford,Expedition EL,72,70,68,77
+0,2014,Ford,Explorer,72,70,76,77
+0,2014,Ford,F-150,79,79,74,86
+0,2014,Ford,Fiesta,57,50,76,67
+0,2014,Ford,Flex,74,74,78,74
+0,2014,Ford,Focus,56,46,70,68
+0,2014,Ford,Focus Electric,56,46,70,68
+0,2014,Ford,Fusion,72,73,73,73
+0,2014,Ford,Fusion Energi,72,73,73,73
+0,2014,Ford,Mustang,72,77,69,75
+0,2014,Ford,Super Duty F-250 SRW,76,76,63,90
+0,2014,Ford,Super Duty F-350 DRW,76,76,63,90
+0,2014,Ford,Super Duty F-350 SRW,76,76,63,90
+0,2014,Ford,Taurus,75,81,66,70
+0,2014,GMC,Acadia,74,77,70,72
+0,2014,GMC,Sierra 1500,76,67,72,89
+0,2014,GMC,Sierra 2500HD,78,80,58,90
+0,2014,GMC,Terrain,76,85,72,74
+0,2014,GMC,Yukon,78,78,69,79
+0,2014,GMC,Yukon XL,78,78,69,79
+0,2014,Honda,Accord Hybrid,73,78,73,80
+0,2014,Honda,Accord Plug-in Hybrid,73,78,73,80
+0,2014,Honda,Accord Sedan,73,78,73,80
+0,2014,Honda,CR-V,73,82,73,82
+0,2014,Honda,Civic Coupe,73,84,71,77
+0,2014,Honda,Civic Hybrid,73,84,71,77
+0,2014,Honda,Civic Sedan,73,84,71,77
+0,2014,Honda,Odyssey,65,62,71,75
+0,2014,Honda,Pilot,72,80,68,75
+0,2014,Honda,Ridgeline,74,88,63,80
+0,2014,Hyundai,Elantra,70,80,68,75
+0,2014,Hyundai,Elantra Coupe,70,80,68,75
+0,2014,Hyundai,Elantra GT,70,80,68,75
+0,2014,Hyundai,Equus,78,74,78,64
+0,2014,Hyundai,Santa Fe,76,79,77,79
+0,2014,Hyundai,Santa Fe Sport,76,79,77,79
+0,2014,Hyundai,Sonata,76,82,78,74
+0,2014,Hyundai,Sonata Hybrid,76,82,78,74
+0,2014,Hyundai,Tucson,71,78,79,76
+0,2014,INFINITI,Q50,74,63,69,69
+0,2014,INFINITI,Q60 Convertible,78,70,67,95
+0,2014,INFINITI,QX60,72,54,69,75
+0,2014,Jeep,Cherokee,60,51,77,79
+0,2014,Jeep,Compass,57,64,66,71
+0,2014,Jeep,Grand Cherokee,68,62,78,79
+0,2014,Jeep,Patriot,59,67,67,69
+0,2014,Jeep,Wrangler,62,65,63,87
+0,2014,Jeep,Wrangler Unlimited,62,65,63,87
+0,2014,Kia,Cadenza,80,83,80,75
+0,2014,Kia,Forte,66,67,74,72
+0,2014,Kia,Forte 5-Door,66,67,74,72
+0,2014,Kia,Forte Koup,66,67,74,72
+0,2014,Kia,Optima,75,79,78,73
+0,2014,Kia,Optima Hybrid,75,79,78,73
+0,2014,Kia,Sedona,63,64,66,66
+0,2014,Kia,Sorento,69,76,68,72
+0,2014,Kia,Soul,75,81,78,85
+0,2014,Kia,Sportage,69,74,77,76
+0,2014,Land Rover,Range Rover Sport,72,69,78,70
+0,2014,Lexus,IS 250,84,79,77,76
+0,2014,Lexus,IS 250C,84,79,77,76
+0,2014,Lexus,IS 350,84,79,77,76
+0,2014,Lexus,IS 350C,84,79,77,76
+0,2014,Lincoln,MKZ,79,77,71,69
+0,2014,Mazda,CX-5,70,78,72,76
+0,2014,Mazda,CX-9,61,57,68,68
+0,2014,Mazda,Mazda3,68,72,75,75
+0,2014,Mazda,Mazda6,66,61,77,72
+0,2014,Mercedes-Benz,C-Class,83,83,70,73
+0,2014,Mercedes-Benz,E-Class,85,85,76,67
+0,2014,Mercedes-Benz,GL-Class,82,74,72,69
+0,2014,Mercedes-Benz,GLK-Class,85,88,72,71
+0,2014,Mercedes-Benz,M-Class,82,76,74,71
+0,2014,Mercedes-Benz,S-Class,85,75,86,65
+0,2014,MINI,Cooper Clubman,67,72,64,85
+0,2014,MINI,Cooper Convertible,67,72,64,95
+0,2014,MINI,Cooper Countryman,76,76,81,93
+0,2014,MINI,Cooper Hardtop,67,72,64,95
+0,2014,MINI,Cooper Paceman,67,72,64,90
+0,2014,Mitsubishi,Mirage,57,64,61,65
+0,2014,Mitsubishi,Outlander Sport,65,69,65,72
+0,2014,Nissan,Altima,73,75,73,74
+0,2014,Nissan,Frontier,72,79,62,83
+0,2014,Nissan,Maxima,79,82,74,70
+0,2014,Nissan,Murano,75,80,75,68
+0,2014,Nissan,Murano CrossCabriolet,75,80,75,68
+0,2014,Nissan,Pathfinder,64,56,72,71
+0,2014,Nissan,Rogue,68,65,77,74
+0,2014,Nissan,Rogue Select,68,65,77,74
+0,2014,Nissan,Sentra,74,80,77,73
+0,2014,Nissan,Versa,61,67,66,68
+0,2014,Nissan,Versa Note,61,67,66,68
+0,2014,Porsche,Cayenne,89,81,86,70
+0,2014,Porsche,Cayman,92,90,80,83
+0,2014,Subaru,Forester,67,67,71,75
+0,2014,Subaru,Impreza Sedan,68,72,69,75
+0,2014,Subaru,Impreza Sedan WRX,68,72,69,75
+0,2014,Subaru,Impreza Wagon,68,72,69,75
+0,2014,Subaru,Impreza Wagon WRX,68,72,69,75
+0,2014,Subaru,Legacy,73,80,67,76
+0,2014,Subaru,XV Crosstrek,68,73,74,76
+0,2014,Subaru,XV Crosstrek Hybrid,68,73,74,76
+0,2014,Toyota,4Runner,75,73,72,88
+0,2014,Toyota,Avalon,78,84,64,75
+0,2014,Toyota,Avalon Hybrid,78,84,64,75
+0,2014,Toyota,Camry,82,93,73,78
+0,2014,Toyota,Camry Hybrid,82,93,73,78
+0,2014,Toyota,Corolla,76,81,76,83
+0,2014,Toyota,FJ Cruiser,77,89,71,79
+0,2014,Toyota,Highlander,76,72,82,78
+0,2014,Toyota,Highlander Hybrid,76,72,82,78
+0,2014,Toyota,Prius,72,85,62,75
+0,2014,Toyota,Prius Plug-In,72,85,62,75
+0,2014,Toyota,RAV4,70,73,69,83
+0,2014,Toyota,RAV4 EV,70,73,69,83
+0,2014,Toyota,Sienna,73,76,69,78
+0,2014,Toyota,Tacoma,70,75,60,89
+0,2014,Toyota,Tundra 2WD Truck,78,74,70,89
+0,2014,Toyota,Tundra 4WD Truck,78,74,70,89
+0,2014,Toyota,Venza,78,84,73,76
+0,2014,Volkswagen,Beetle Convertible,71,72,79,73
+0,2014,Volkswagen,Beetle Coupe,71,72,79,73
+0,2014,Volkswagen,Jetta Sedan,70,75,73,71
+0,2014,Volkswagen,Jetta SportWagen,70,75,73,71
+0,2014,Volkswagen,Passat,68,65,75,69
+0,2014,Volkswagen,Tiguan,73,80,82,70
+0,2014,Volvo,S60,75,77,67,69
+0,2014,Volvo,XC60,77,79,71,71
+0,2013,Acura,ILX,81,87,63,72
+0,2013,Acura,MDX,79,81,65,74
+0,2013,Acura,RDX,75,74,67,69
+0,2013,Acura,TL,86,84,78,72
+0,2013,Audi,A6,84,78,82,67
+0,2013,Audi,A7,81,74,82,67
+0,2013,Audi,Q5,81,76,81,68
+0,2013,Audi,Q7,73,63,76,70
+0,2013,BMW,1 Series,87,90,70,75
+0,2013,BMW,3 Series,78,73,79,67
+0,2013,BMW,5 Series,85,80,81,66
+0,2013,BMW,5 Series Gran Turismo,85,80,81,66
+0,2013,BMW,X1,77,79,67,66
+0,2013,BMW,X3,81,80,77,65
+0,2013,BMW,X5,83,79,77,66
+0,2013,BMW,X5 M,83,79,77,66
+0,2013,BMW,X6 M,77,75,69,93
+0,2013,Buick,Enclave,81,79,82,68
+0,2013,Buick,Encore,80,85,83,73
+0,2013,Buick,LaCrosse,78,84,60,73
+0,2013,Buick,Regal,79,80,78,69
+0,2013,Buick,Verano,83,93,77,71
+0,2013,Cadillac,ATS,73,66,75,71
+0,2013,Cadillac,CTS Coupe,82,86,67,67
+0,2013,Cadillac,CTS Sedan,82,86,67,67
+0,2013,Cadillac,CTS Wagon,82,86,67,67
+0,2013,Cadillac,CTS-V Coupe,82,86,67,67
+0,2013,Cadillac,CTS-V Sedan,82,86,67,67
+0,2013,Cadillac,CTS-V Wagon,82,86,67,67
+0,2013,Cadillac,Escalade,86,85,68,73
+0,2013,Cadillac,Escalade ESV,86,85,68,73
+0,2013,Cadillac,Escalade EXT,86,85,68,73
+0,2013,Cadillac,Escalade Hybrid,86,85,68,73
+0,2013,Cadillac,SRX,81,76,75,70
+0,2013,Cadillac,XTS,79,75,76,65
+0,2013,Chevrolet,Camaro,78,82,72,76
+0,2013,Chevrolet,Corvette,79,76,66,83
+0,2013,Chevrolet,Cruze,72,76,76,70
+0,2013,Chevrolet,Equinox,81,91,74,72
+0,2013,Chevrolet,Impala,63,74,40,68
+0,2013,Chevrolet,Impala Police,63,74,40,68
+0,2013,Chevrolet,Malibu,78,82,72,74
+0,2013,Chevrolet,Silverado 1500,81,82,61,89
+0,2013,Chevrolet,Silverado 2500HD,81,83,60,90
+0,2013,Chevrolet,Sonic,71,78,79,68
+0,2013,Chevrolet,Spark,52,55,70,65
+0,2013,Chevrolet,Suburban,74,74,62,77
+0,2013,Chevrolet,Tahoe,78,78,63,84
+0,2013,Chevrolet,Tahoe Hybrid,78,78,63,84
+0,2013,Chevrolet,Traverse,79,80,77,72
+0,2013,Chevrolet,Volt,74,78,77,69
+0,2013,Chrysler,200,68,70,69,70
+0,2013,Chrysler,300,78,71,78,73
+0,2013,Chrysler,Town and Country,69,74,67,69
+0,2013,Dodge,Avenger,66,68,69,69
+0,2013,Dodge,Challenger,76,72,75,84
+0,2013,Dodge,Charger,76,64,83,75
+0,2013,Dodge,Dart,55,43,80,73
+0,2013,Dodge,Grand Caravan,59,67,56,69
+0,2013,Dodge,Journey,62,67,64,67
+0,2013,FIAT,500,66,70,77,67
+0,2013,Ford,C-Max Energi,57,57,71,67
+0,2013,Ford,C-Max Hybrid,57,57,71,67
+0,2013,Ford,Edge,75,76,74,72
+0,2013,Ford,Escape,61,57,75,74
+0,2013,Ford,Expedition,66,61,61,76
+0,2013,Ford,Explorer,64,56,74,76
+0,2013,Ford,F-150,82,76,73,85
+0,2013,Ford,Fiesta,38,33,70,66
+0,2013,Ford,Flex,72,69,77,73
+0,2013,Ford,Focus,53,53,68,67
+0,2013,Ford,Focus Electric,53,53,68,67
+0,2013,Ford,Fusion,68,64,74,73
+0,2013,Ford,Fusion Energi,68,64,74,73
+0,2013,Ford,Mustang,76,76,76,74
+0,2013,Ford,Super Duty F-250 SRW,82,77,71,90
+0,2013,Ford,Super Duty F-350 DRW,82,77,71,90
+0,2013,Ford,Super Duty F-350 SRW,82,77,71,90
+0,2013,Ford,Taurus,72,70,67,69
+0,2013,GMC,Acadia,75,75,76,71
+0,2013,GMC,Sierra 1500,81,85,57,89
+0,2013,GMC,Sierra 3500HD,80,80,60,90
+0,2013,GMC,Terrain,79,84,78,73
+0,2013,GMC,Yukon,79,80,65,78
+0,2013,GMC,Yukon Hybrid,79,80,65,78
+0,2013,GMC,Yukon XL,79,80,65,78
+0,2013,Honda,Accord Sdn,79,79,76,79
+0,2013,Honda,CR-V,79,85,74,81
+0,2013,Honda,Civic Cpe,80,86,77,77
+0,2013,Honda,Civic Hybrid,80,86,77,77
+0,2013,Honda,Civic Sdn,80,86,77,77
+0,2013,Honda,Crosstour,79,80,77,72
+0,2013,Honda,Fit,69,84,66,77
+0,2013,Honda,Odyssey,72,73,72,74
+0,2013,Honda,Pilot,73,74,73,75
+0,2013,Honda,Ridgeline,80,86,71,79
+0,2013,Hyundai,Accent,70,81,75,67
+0,2013,Hyundai,Azera,77,72,78,68
+0,2013,Hyundai,Elantra,69,71,75,73
+0,2013,Hyundai,Elantra Coupe,69,71,75,73
+0,2013,Hyundai,Elantra GT,69,71,75,73
+0,2013,Hyundai,Genesis,81,78,73,70
+0,2013,Hyundai,Santa Fe,70,66,74,78
+0,2013,Hyundai,Sonata,78,82,74,72
+0,2013,Hyundai,Sonata Hybrid,78,82,74,72
+0,2013,Hyundai,Tucson,72,71,84,74
+0,2013,Hyundai,Veloster,60,54,78,72
+0,2013,Jeep,Compass,63,71,72,70
+0,2013,Jeep,Grand Cherokee,74,72,75,77
+0,2013,Jeep,Patriot,61,70,70,68
+0,2013,Jeep,Wrangler,64,63,69,88
+0,2013,Jeep,Wrangler Unlimited,64,63,69,88
+0,2013,Kia,Forte,76,83,77,67
+0,2013,Kia,Forte 5-Door,76,83,77,67
+0,2013,Kia,Forte Koup,76,83,77,67
+0,2013,Kia,Optima,76,75,79,72
+0,2013,Kia,Optima Hybrid,76,75,79,72
+0,2013,Kia,Rio,67,74,77,64
+0,2013,Kia,Sorento,69,68,73,70
+0,2013,Kia,Soul,76,79,76,76
+0,2013,Kia,Sportage,72,73,83,74
+0,2013,Land Rover,Range Rover Sport,76,67,78,68
+0,2013,Lexus,IS 250,72,67,76,95
+0,2013,Lexus,IS 250C,72,67,76,95
+0,2013,Lexus,IS 350,72,67,76,95
+0,2013,Lexus,IS 350C,72,67,76,95
+0,2013,Lincoln,MKS,81,79,74,66
+0,2013,Lincoln,MKX,83,82,73,72
+0,2013,Mazda,CX-5,68,68,76,76
+0,2013,Mazda,CX-9,71,74,72,67
+0,2013,Mazda,Mazda3,69,78,68,72
+0,2013,Mazda,Mazda6,70,76,67,70
+0,2013,Mercedes-Benz,C-Class,81,80,74,72
+0,2013,Mercedes-Benz,E-Class,84,84,74,67
+0,2013,Mercedes-Benz,GL-Class,77,67,74,69
+0,2013,Mercedes-Benz,GLK-Class,85,84,77,71
+0,2013,Mercedes-Benz,M-Class,78,73,74,70
+0,2013,MINI,Cooper Clubman,68,73,73,65
+0,2013,MINI,Cooper Convertible,68,73,73,65
+0,2013,MINI,Cooper Countryman,78,82,81,93
+0,2013,MINI,Cooper Coupe,68,73,73,65
+0,2013,MINI,Cooper Hardtop,68,73,73,65
+0,2013,MINI,Cooper Paceman,68,73,73,65
+0,2013,Nissan,Altima,71,69,75,73
+0,2013,Nissan,JUKE,70,74,80,70
+0,2013,Nissan,Maxima,81,79,74,69
+0,2013,Nissan,Murano,88,91,82,66
+0,2013,Nissan,Murano CrossCabriolet,88,91,82,66
+0,2013,Nissan,Pathfinder,58,49,74,71
+0,2013,Nissan,Rogue,68,75,70,70
+0,2013,Nissan,Sentra,67,67,77,71
+0,2013,Nissan,Versa,67,81,69,68
+0,2013,Porsche,911,89,90,76,68
+0,2013,Porsche,Boxster,92,90,81,82
+0,2013,Porsche,Cayenne,93,87,88,69
+0,2013,Scion,FR-S,61,67,65,73
+0,2013,Scion,tC,69,71,77,67
+0,2013,smart,fortwo,55,64,67,65
+0,2013,smart,fortwo electric drive,55,64,67,65
+0,2013,Subaru,BRZ,54,55,67,71
+0,2013,Subaru,Forester,64,70,66,74
+0,2013,Subaru,Impreza Sedan,61,64,68,75
+0,2013,Subaru,Impreza Sedan WRX,61,64,68,75
+0,2013,Subaru,Impreza Wagon,61,64,68,75
+0,2013,Subaru,Impreza Wagon WRX,61,64,68,75
+0,2013,Subaru,Legacy,76,80,71,76
+0,2013,Subaru,XV Crosstrek,61,66,71,76
+0,2013,Toyota,4Runner,80,81,72,88
+0,2013,Toyota,Avalon,81,79,73,74
+0,2013,Toyota,Avalon Hybrid,81,79,73,74
+0,2013,Toyota,Camry,79,81,74,78
+0,2013,Toyota,Camry Hybrid,79,81,74,78
+0,2013,Toyota,Corolla,79,90,70,78
+0,2013,Toyota,FJ Cruiser,80,88,73,78
+0,2013,Toyota,Highlander,74,78,69,78
+0,2013,Toyota,Highlander Hybrid,74,78,69,78
+0,2013,Toyota,Prius,72,87,62,75
+0,2013,Toyota,Prius Plug-In,72,87,62,75
+0,2013,Toyota,RAV4,80,85,75,83
+0,2013,Toyota,RAV4 EV,80,85,75,83
+0,2013,Toyota,Sienna,75,75,73,77
+0,2013,Toyota,Tacoma,78,85,63,89
+0,2013,Toyota,Tundra 2WD Truck,87,89,65,89
+0,2013,Toyota,Tundra 4WD Truck,87,89,65,89
+0,2013,Toyota,Venza,81,86,73,76
+0,2013,Volkswagen,Beetle Convertible,71,69,80,73
+0,2013,Volkswagen,Beetle Coupe,71,69,80,73
+0,2013,Volkswagen,CC,75,75,70,66
+0,2013,Volkswagen,GTI,74,71,84,71
+0,2013,Volkswagen,Golf,74,73,81,70
+0,2013,Volkswagen,Golf R,74,73,81,70
+0,2013,Volkswagen,Jetta Sedan,69,70,77,70
+0,2013,Volkswagen,Jetta SportWagen,69,70,77,70
+0,2013,Volkswagen,Passat,72,69,78,69
+0,2013,Volkswagen,Tiguan,78,81,86,69
+0,2013,Volkswagen,Touareg,81,76,77,69
+0,2013,Volvo,S60,77,76,71,68
+0,2013,Volvo,XC60,74,72,67,71
+0,2013,Volvo,XC70,77,80,63,69
+0,2013,Volvo,XC90,67,72,50,71
+0,2012,Acura,MDX,79,76,69,74
+0,2012,Acura,RDX,78,81,66,69
+0,2012,Acura,TL,85,85,73,73
+0,2012,Acura,TSX,81,82,67,74
+0,2012,Acura,TSX Sport Wagon,81,82,67,74
+0,2012,Audi,A3,77,78,69,69
+0,2012,Audi,A6,84,76,83,68
+0,2012,Audi,A7,84,77,83,67
+0,2012,Audi,Q5,77,75,74,67
+0,2012,Audi,Q7,73,62,76,70
+0,2012,BMW,1 Series,84,80,78,75
+0,2012,BMW,3 Series,82,78,82,67
+0,2012,BMW,5 Series,85,79,82,67
+0,2012,BMW,5 Series Gran Turismo,85,79,82,67
+0,2012,BMW,X3,79,77,77,65
+0,2012,BMW,X5,79,73,77,67
+0,2012,BMW,X5 M,79,73,77,67
+0,2012,Buick,Enclave,77,86,69,68
+0,2012,Buick,LaCrosse,78,86,57,73
+0,2012,Buick,Regal,72,79,67,70
+0,2012,Buick,Verano,78,86,76,71
+0,2012,Cadillac,CTS Coupe,82,87,66,68
+0,2012,Cadillac,CTS Sedan,82,87,66,68
+0,2012,Cadillac,CTS Wagon,82,87,66,68
+0,2012,Cadillac,CTS-V Coupe,82,87,66,68
+0,2012,Cadillac,CTS-V Sedan,82,87,66,68
+0,2012,Cadillac,CTS-V Wagon,82,87,66,68
+0,2012,Cadillac,Escalade ESV,78,67,73,93
+0,2012,Cadillac,Escalade EXT,78,67,73,93
+0,2012,Cadillac,SRX,82,83,68,71
+0,2012,Chevrolet,Camaro,80,87,71,76
+0,2012,Chevrolet,Colorado,61,78,46,77
+0,2012,Chevrolet,Corvette,85,79,74,83
+0,2012,Chevrolet,Cruze,69,78,68,70
+0,2012,Chevrolet,Equinox,75,83,73,72
+0,2012,Chevrolet,Impala,69,81,44,69
+0,2012,Chevrolet,Impala Police,69,81,44,69
+0,2012,Chevrolet,Malibu,78,91,64,71
+0,2012,Chevrolet,Silverado 1500,82,86,56,89
+0,2012,Chevrolet,Silverado 1500 Hybrid,82,86,56,89
+0,2012,Chevrolet,Sonic,59,62,75,68
+0,2012,Chevrolet,Suburban,77,79,63,77
+0,2012,Chevrolet,Tahoe,77,81,56,84
+0,2012,Chevrolet,Traverse,74,84,65,71
+0,2012,Chevrolet,Volt,81,83,85,69
+0,2012,Chrysler,200,66,68,67,70
+0,2012,Chrysler,300,76,71,74,73
+0,2012,Chrysler,Town and Country,68,71,69,69
+0,2012,Dodge,Avenger,66,69,68,70
+0,2012,Dodge,Caliber,61,77,57,67
+0,2012,Dodge,Challenger,74,66,79,84
+0,2012,Dodge,Charger,70,60,75,74
+0,2012,Dodge,Durango,75,72,77,77
+0,2012,Dodge,Grand Caravan,58,66,56,69
+0,2012,Dodge,Journey,56,60,60,67
+0,2012,FIAT,500,47,46,71,68
+0,2012,Ford,Edge,72,70,76,71
+0,2012,Ford,Escape,63,69,67,71
+0,2012,Ford,Expedition,77,73,70,75
+0,2012,Ford,Expedition EL,77,73,70,75
+0,2012,Ford,Explorer,70,71,70,75
+0,2012,Ford,F-150,78,70,72,85
+0,2012,Ford,Fiesta,51,56,68,67
+0,2012,Ford,Flex,80,79,81,72
+0,2012,Ford,Focus,47,41,69,67
+0,2012,Ford,Focus Electric,47,41,69,67
+0,2012,Ford,Fusion,70,74,69,71
+0,2012,Ford,Mustang,78,79,76,74
+0,2012,Ford,Super Duty F-250 SRW,79,71,73,90
+0,2012,Ford,Super Duty F-350 DRW,79,71,73,90
+0,2012,Ford,Super Duty F-350 SRW,79,71,73,90
+0,2012,Ford,Taurus,80,83,68,69
+0,2012,GMC,Acadia,65,65,70,70
+0,2012,GMC,Canyon,62,80,47,76
+0,2012,GMC,Sierra 1500,85,92,57,89
+0,2012,GMC,Terrain,79,90,72,72
+0,2012,GMC,Yukon,80,82,65,77
+0,2012,GMC,Yukon Hybrid,80,82,65,77
+0,2012,GMC,Yukon XL,80,82,65,77
+0,2012,Honda,Accord Sdn,75,86,63,78
+0,2012,Honda,CR-V,75,82,70,81
+0,2012,Honda,Civic Cpe,73,86,64,76
+0,2012,Honda,Civic Hybrid,73,86,64,76
+0,2012,Honda,Civic Sdn,73,86,64,76
+0,2012,Honda,Crosstour,82,83,79,72
+0,2012,Honda,Fit,68,84,65,77
+0,2012,Honda,Insight,61,77,56,71
+0,2012,Honda,Odyssey,77,78,76,74
+0,2012,Honda,Pilot,76,77,75,74
+0,2012,Honda,Ridgeline,79,89,67,78
+0,2012,Hyundai,Accent,64,78,67,67
+0,2012,Hyundai,Elantra,63,65,71,72
+0,2012,Hyundai,Elantra Touring,63,65,71,72
+0,2012,Hyundai,Genesis,78,71,75,70
+0,2012,Hyundai,Santa Fe,66,70,65,70
+0,2012,Hyundai,Sonata,66,65,71,72
+0,2012,Hyundai,Tucson,68,75,74,74
+0,2012,Hyundai,Veloster,49,38,74,72
+0,2012,Jeep,Compass,61,74,66,70
+0,2012,Jeep,Grand Cherokee,69,63,75,77
+0,2012,Jeep,Liberty,63,72,62,74
+0,2012,Jeep,Patriot,60,74,65,68
+0,2012,Jeep,Wrangler,60,60,65,88
+0,2012,Jeep,Wrangler Unlimited,60,60,65,88
+0,2012,Kia,Forte,66,75,66,67
+0,2012,Kia,Forte 5-Door,66,75,66,67
+0,2012,Kia,Forte Koup,66,75,66,67
+0,2012,Kia,Optima,74,70,79,72
+0,2012,Kia,Rio,63,76,69,65
+0,2012,Kia,Sedona,59,65,61,68
+0,2012,Kia,Sorento,71,75,69,70
+0,2012,Kia,Soul,68,72,71,76
+0,2012,Kia,Sportage,74,81,79,73
+0,2012,Lexus,IS 250,86,86,73,76
+0,2012,Lexus,IS 250C,86,86,73,76
+0,2012,Lexus,IS 350,86,86,73,76
+0,2012,Lexus,IS 350C,86,86,73,76
+0,2012,Lexus,IS F,86,86,73,76
+0,2012,Lincoln,MKS,85,86,73,67
+0,2012,Lincoln,MKX,75,71,69,72
+0,2012,Lincoln,MKZ,82,92,60,68
+0,2012,Mazda,CX-9,74,79,72,67
+0,2012,Mazda,Mazda5,62,80,56,64
+0,2012,Mazda,Mazda6,67,72,66,71
+0,2012,Mercedes-Benz,C-Class,83,83,73,72
+0,2012,Mercedes-Benz,E-Class,90,90,79,68
+0,2012,Mercedes-Benz,GL-Class,76,76,57,68
+0,2012,Mercedes-Benz,GLK-Class,80,86,64,70
+0,2012,Mercedes-Benz,M-Class,83,79,77,70
+0,2012,MINI,Cooper Clubman,67,69,76,66
+0,2012,MINI,Cooper Convertible,67,69,76,66
+0,2012,MINI,Cooper Countryman,65,58,85,93
+0,2012,MINI,Cooper Coupe,67,69,76,66
+0,2012,MINI,Cooper Hardtop,67,69,76,66
+0,2012,Nissan,Altima,77,87,68,71
+0,2012,Nissan,Frontier,78,85,66,82
+0,2012,Nissan,JUKE,64,69,76,69
+0,2012,Nissan,LEAF,78,88,74,69
+0,2012,Nissan,Maxima,80,81,71,69
+0,2012,Nissan,Murano,80,88,72,67
+0,2012,Nissan,Murano CrossCabriolet,80,88,72,67
+0,2012,Nissan,Pathfinder,70,80,62,71
+0,2012,Nissan,Rogue,70,82,67,69
+0,2012,Nissan,Sentra,65,73,68,68
+0,2012,Nissan,Versa,56,72,59,68
+0,2012,Nissan,Xterra,69,81,64,73
+0,2012,Porsche,Cayenne,87,79,86,69
+0,2012,Scion,tC,74,81,74,67
+0,2012,Scion,xB,72,82,68,75
+0,2012,Scion,xD,71,92,65,69
+0,2012,Subaru,Forester,66,77,62,73
+0,2012,Subaru,Impreza Sedan,56,56,68,74
+0,2012,Subaru,Impreza Sedan WRX,56,56,68,74
+0,2012,Subaru,Impreza Wagon,56,56,68,74
+0,2012,Subaru,Impreza Wagon WRX,56,56,68,74
+0,2012,Subaru,Legacy,71,78,64,75
+0,2012,Toyota,4Runner,80,82,71,88
+0,2012,Toyota,Avalon,82,86,66,73
+0,2012,Toyota,Camry,81,87,72,78
+0,2012,Toyota,Camry Hybrid,81,87,72,78
+0,2012,Toyota,Corolla,76,89,65,78
+0,2012,Toyota,FJ Cruiser,78,88,70,78
+0,2012,Toyota,Highlander,79,85,71,77
+0,2012,Toyota,Highlander Hybrid,79,85,71,77
+0,2012,Toyota,Prius,72,86,64,74
+0,2012,Toyota,Prius Plug-In,72,86,64,74
+0,2012,Toyota,RAV4,72,86,61,80
+0,2012,Toyota,Sequoia,77,74,72,74
+0,2012,Toyota,Sienna,80,83,74,77
+0,2012,Toyota,Tacoma,73,83,58,89
+0,2012,Toyota,Tundra 2WD Truck,81,81,61,89
+0,2012,Toyota,Tundra 4WD Truck,81,81,61,89
+0,2012,Toyota,Venza,78,85,70,75
+0,2012,Toyota,Yaris,69,88,65,71
+0,2012,Volkswagen,Beetle,68,67,77,72
+0,2012,Volkswagen,CC,72,68,73,67
+0,2012,Volkswagen,Eos,71,73,77,69
+0,2012,Volkswagen,GTI,72,67,85,70
+0,2012,Volkswagen,Golf,79,81,82,70
+0,2012,Volkswagen,Golf R,79,81,82,70
+0,2012,Volkswagen,Jetta Sedan,70,73,75,70
+0,2012,Volkswagen,Jetta SportWagen,70,73,75,70
+0,2012,Volkswagen,Passat,74,73,78,69
+0,2012,Volkswagen,Tiguan,72,71,85,69
+0,2012,Volkswagen,Touareg,74,66,75,70
+0,2012,Volvo,S60,75,76,66,68
+0,2012,Volvo,XC60,69,64,67,70
+0,2012,Volvo,XC70,76,77,64,69
+0,2012,Volvo,XC90,63,61,56,71
+0,2011,Acura,MDX,82,82,69,73
+0,2011,Acura,RDX,79,85,61,69
+0,2011,Acura,TL,84,88,67,73
+0,2011,Acura,TSX,82,82,71,74
+0,2011,Acura,TSX Sport Wagon,82,82,71,74
+0,2011,Audi,A3,74,76,64,69
+0,2011,Audi,A6,81,82,70,67
+0,2011,Audi,Q5,77,73,75,68
+0,2011,Audi,Q7,68,55,75,70
+0,2011,BMW,1 Series,77,75,68,75
+0,2011,BMW,3 Series,79,79,74,66
+0,2011,BMW,5 Series,85,81,80,66
+0,2011,BMW,5 Series Gran Turismo,85,81,80,66
+0,2011,BMW,7 Series,90,83,84,65
+0,2011,BMW,X3,79,76,78,66
+0,2011,BMW,X5,79,74,76,67
+0,2011,BMW,X5 M,79,74,76,67
+0,2011,BMW,X6 M,86,86,69,93
+0,2011,Buick,Enclave,79,84,73,69
+0,2011,Buick,LaCrosse,79,85,59,73
+0,2011,Buick,Lucerne,79,92,50,71
+0,2011,Buick,Regal,66,69,68,70
+0,2011,Cadillac,CTS Coupe,84,89,68,68
+0,2011,Cadillac,CTS Sedan,84,89,68,68
+0,2011,Cadillac,CTS Wagon,84,89,68,68
+0,2011,Cadillac,CTS-V Coupe,84,89,68,68
+0,2011,Cadillac,CTS-V Sedan,84,89,68,68
+0,2011,Cadillac,CTS-V Wagon,84,89,68,68
+0,2011,Cadillac,DTS,89,94,61,70
+0,2011,Cadillac,Escalade,86,87,64,73
+0,2011,Cadillac,Escalade ESV,86,87,64,73
+0,2011,Cadillac,Escalade EXT,86,87,64,73
+0,2011,Cadillac,Escalade Hybrid,86,87,64,73
+0,2011,Cadillac,SRX,74,77,61,71
+0,2011,Chevrolet,Camaro,82,83,78,76
+0,2011,Chevrolet,Colorado,65,78,54,77
+0,2011,Chevrolet,Corvette,87,84,72,83
+0,2011,Chevrolet,Cruze,67,72,70,70
+0,2011,Chevrolet,Equinox,69,76,70,73
+0,2011,Chevrolet,HHR,65,76,61,75
+0,2011,Chevrolet,Impala,70,83,43,70
+0,2011,Chevrolet,Impala Police,70,83,43,70
+0,2011,Chevrolet,Malibu,74,85,64,73
+0,2011,Chevrolet,Silverado 1500,76,78,54,89
+0,2011,Chevrolet,Silverado 1500 Hybrid,76,78,54,89
+0,2011,Chevrolet,Suburban,72,74,58,77
+0,2011,Chevrolet,Tahoe,80,80,63,84
+0,2011,Chevrolet,Tahoe Hybrid,80,80,63,84
+0,2011,Chevrolet,Traverse,68,72,66,72
+0,2011,Chevrolet,Volt,84,90,81,69
+0,2011,Chrysler,Town and Country,64,68,65,69
+0,2011,Dodge,Caliber,59,76,54,67
+0,2011,Dodge,Durango,82,76,84,79
+0,2011,Dodge,Grand Caravan,56,63,56,69
+0,2011,Dodge,Grand Caravan Cargo Van,56,63,56,69
+0,2011,Dodge,Journey,64,69,65,67
+0,2011,Dodge,Nitro,54,54,61,87
+0,2011,Ford,Edge,72,72,73,73
+0,2011,Ford,Escape,69,79,66,73
+0,2011,Ford,Expedition,72,71,63,76
+0,2011,Ford,Expedition EL,72,71,63,76
+0,2011,Ford,Explorer,68,60,78,76
+0,2011,Ford,F-150,82,77,72,86
+0,2011,Ford,Fiesta,58,63,73,67
+0,2011,Ford,Flex,72,64,81,73
+0,2011,Ford,Focus,67,82,61,68
+0,2011,Ford,Fusion,76,81,71,72
+0,2011,Ford,Mustang,77,79,74,74
+0,2011,Ford,Ranger,65,85,43,85
+0,2011,Ford,Super Duty F-250 SRW,75,68,67,90
+0,2011,Ford,Super Duty F-350 DRW,75,68,67,90
+0,2011,Ford,Super Duty F-350 SRW,75,68,67,90
+0,2011,Ford,Taurus,82,85,69,69
+0,2011,GMC,Acadia,67,69,70,71
+0,2011,GMC,Sierra 1500,80,82,57,89
+0,2011,GMC,Sierra 1500 Hybrid,80,82,57,89
+0,2011,GMC,Terrain,71,77,71,73
+0,2011,GMC,Yukon,80,86,60,78
+0,2011,GMC,Yukon Hybrid,80,86,60,78
+0,2011,GMC,Yukon XL,80,86,60,78
+0,2011,Honda,Accord Crosstour,78,85,68,79
+0,2011,Honda,Accord Sdn,78,85,68,79
+0,2011,Honda,CR-V,77,90,65,81
+0,2011,Honda,CR-Z,70,79,68,73
+0,2011,Honda,Civic Hybrid,69,86,58,77
+0,2011,Honda,Civic Sdn,69,86,58,77
+0,2011,Honda,Element,69,79,72,77
+0,2011,Honda,Fit,67,81,67,77
+0,2011,Honda,Insight,62,80,53,71
+0,2011,Honda,Odyssey,71,71,72,74
+0,2011,Honda,Pilot,68,70,68,74
+0,2011,Honda,Ridgeline,78,86,67,79
+0,2011,Hyundai,Accent,51,69,56,68
+0,2011,Hyundai,Azera,74,80,58,68
+0,2011,Hyundai,Elantra,63,66,70,74
+0,2011,Hyundai,Elantra Touring,63,66,70,74
+0,2011,Hyundai,Genesis,82,82,71,70
+0,2011,Hyundai,Santa Fe,70,76,64,77
+0,2011,Hyundai,Sonata,70,68,74,73
+0,2011,Hyundai,Tucson,66,67,78,75
+0,2011,Hyundai,Veracruz,68,70,71,65
+0,2011,INFINITI,QX56,77,70,69,72
+0,2011,Jaguar,XF,83,83,74,67
+0,2011,Jaguar,XJ,81,75,74,67
+0,2011,Jeep,Compass,64,75,70,71
+0,2011,Jeep,Grand Cherokee,72,69,75,78
+0,2011,Jeep,Liberty,56,63,60,74
+0,2011,Jeep,Patriot,63,76,67,68
+0,2011,Jeep,Wrangler,59,63,61,88
+0,2011,Jeep,Wrangler Unlimited,59,63,61,88
+0,2011,Kia,Forte,66,74,67,69
+0,2011,Kia,Forte 5-Door,66,74,67,69
+0,2011,Kia,Forte Koup,66,74,67,69
+0,2011,Kia,Optima,68,66,73,73
+0,2011,Kia,Rio,64,80,66,65
+0,2011,Kia,Sedona,57,65,56,67
+0,2011,Kia,Sorento,68,71,70,70
+0,2011,Kia,Soul,71,80,67,79
+0,2011,Kia,Sportage,69,76,75,74
+0,2011,Lexus,IS 250,89,91,76,76
+0,2011,Lexus,IS 250C,89,91,76,76
+0,2011,Lexus,IS 350,89,91,76,76
+0,2011,Lexus,IS 350C,89,91,76,76
+0,2011,Lexus,IS F,89,91,76,76
+0,2011,Lincoln,MKS,84,86,71,66
+0,2011,Lincoln,MKX,76,74,68,72
+0,2011,Lincoln,MKZ,83,90,65,69
+0,2011,Lincoln,Navigator,75,70,63,73
+0,2011,Lincoln,Navigator L,75,70,63,73
+0,2011,Mazda,CX-7,66,76,68,64
+0,2011,Mazda,CX-9,74,82,69,67
+0,2011,Mazda,Mazda6,67,71,67,71
+0,2011,Mercedes-Benz,C-Class,80,84,65,72
+0,2011,Mercedes-Benz,E-Class,86,88,72,68
+0,2011,Mercedes-Benz,GL-Class,83,81,67,69
+0,2011,Mercedes-Benz,GLK-Class,79,82,65,71
+0,2011,Mercedes-Benz,M-Class,81,81,70,70
+0,2011,MINI,Cooper Clubman,66,67,78,65
+0,2011,MINI,Cooper Convertible,66,67,78,65
+0,2011,MINI,Cooper Countryman,66,57,88,93
+0,2011,MINI,Cooper Hardtop,66,67,78,65
+0,2011,Nissan,Altima,74,80,68,73
+0,2011,Nissan,Armada,67,59,69,76
+0,2011,Nissan,Frontier,71,84,56,82
+0,2011,Nissan,JUKE,62,67,74,70
+0,2011,Nissan,Maxima,76,76,68,69
+0,2011,Nissan,Murano,79,85,73,67
+0,2011,Nissan,Murano CrossCabriolet,79,85,73,67
+0,2011,Nissan,Pathfinder,68,74,65,71
+0,2011,Nissan,Rogue,65,75,65,72
+0,2011,Nissan,Sentra,66,76,65,70
+0,2011,Nissan,Titan,74,70,63,85
+0,2011,Nissan,Xterra,69,81,63,73
+0,2011,Porsche,911,91,91,78,69
+0,2011,Porsche,Cayenne,86,76,87,69
+0,2011,Scion,tC,63,60,78,68
+0,2011,Scion,xB,72,81,69,75
+0,2011,Subaru,Forester,66,80,60,74
+0,2011,Subaru,Impreza Sedan,68,74,68,75
+0,2011,Subaru,Impreza Sedan WRX,68,74,68,75
+0,2011,Subaru,Impreza Wagon,68,74,68,75
+0,2011,Subaru,Impreza Wagon WRX,68,74,68,75
+0,2011,Subaru,Legacy,72,76,68,76
+0,2011,Toyota,4Runner,79,85,66,88
+0,2011,Toyota,Avalon,84,90,64,74
+0,2011,Toyota,Camry,76,86,64,78
+0,2011,Toyota,Camry Hybrid,76,86,64,78
+0,2011,Toyota,Corolla,72,86,62,80
+0,2011,Toyota,FJ Cruiser,77,86,70,78
+0,2011,Toyota,Highlander,74,79,68,78
+0,2011,Toyota,Highlander Hybrid,74,79,68,78
+0,2011,Toyota,Prius,69,85,59,75
+0,2011,Toyota,RAV4,72,82,64,81
+0,2011,Toyota,Sequoia,78,79,65,74
+0,2011,Toyota,Sienna,73,75,70,77
+0,2011,Toyota,Tacoma,67,75,56,89
+0,2011,Toyota,Tundra 2WD Truck,79,81,57,89
+0,2011,Toyota,Tundra 4WD Truck,79,81,57,89
+0,2011,Toyota,Venza,75,82,66,76
+0,2011,Volkswagen,CC,75,72,73,66
+0,2011,Volkswagen,GTI,73,65,88,71
+0,2011,Volkswagen,Golf,69,71,75,70
+0,2011,Volkswagen,Jetta Sedan,68,74,72,71
+0,2011,Volkswagen,Jetta SportWagen,68,74,72,71
+0,2011,Volkswagen,Tiguan,67,68,81,69
+0,2011,Volkswagen,Touareg,77,73,73,70
+0,2011,Volvo,C30,74,73,67,70
+0,2011,Volvo,C70,65,63,61,69
+0,2011,Volvo,S60,79,77,75,68
+0,2011,Volvo,S80,79,83,64,68
+0,2011,Volvo,XC60,78,78,69,71
+0,2011,Volvo,XC70,74,80,57,69
+0,2011,Volvo,XC90,63,63,55,71
+0,2010,Acura,MDX,77,74,69,73
+0,2010,Acura,RDX,81,84,69,69
+0,2010,Acura,TL,86,87,75,73
+0,2010,Acura,TSX,79,78,69,74
+0,2010,Audi,A6,85,90,69,67
+0,2010,Audi,Q5,80,78,75,68
+0,2010,BMW,1 Series,78,74,73,75
+0,2010,BMW,3 Series,79,78,74,66
+0,2010,BMW,5 Series,83,80,77,66
+0,2010,BMW,5 Series Gran Turismo,83,80,77,66
+0,2010,BMW,7 Series,85,81,76,65
+0,2010,BMW,X5,79,74,76,67
+0,2010,BMW,X5 M,79,74,76,67
+0,2010,Buick,Enclave,73,74,75,69
+0,2010,Buick,LaCrosse,81,85,65,73
+0,2010,Buick,Lucerne,80,93,53,71
+0,2010,Cadillac,CTS Sedan,83,87,68,68
+0,2010,Cadillac,CTS Wagon,83,87,68,68
+0,2010,Cadillac,CTS-V,83,87,68,68
+0,2010,Cadillac,DTS,84,89,59,70
+0,2010,Cadillac,Escalade ESV,72,59,73,93
+0,2010,Cadillac,Escalade EXT,72,59,73,93
+0,2010,Cadillac,SRX,73,73,63,71
+0,2010,Chevrolet,Camaro,85,89,78,76
+0,2010,Chevrolet,Cobalt,65,80,57,75
+0,2010,Chevrolet,Colorado,66,82,52,77
+0,2010,Chevrolet,Corvette,89,84,76,83
+0,2010,Chevrolet,Equinox,69,71,75,73
+0,2010,Chevrolet,HHR,66,75,65,75
+0,2010,Chevrolet,Impala,71,85,42,70
+0,2010,Chevrolet,Malibu,74,82,66,73
+0,2010,Chevrolet,Malibu Hybrid,74,82,66,73
+0,2010,Chevrolet,Silverado 1500,79,80,59,89
+0,2010,Chevrolet,Silverado 1500 Hybrid,79,80,59,89
+0,2010,Chevrolet,Suburban,73,73,60,77
+0,2010,Chevrolet,Tahoe,80,82,61,84
+0,2010,Chevrolet,Tahoe Hybrid,80,82,61,84
+0,2010,Chevrolet,Traverse,71,74,71,72
+0,2010,Chrysler,300,77,82,59,73
+0,2010,Chrysler,PT Cruiser Classic,56,69,56,85
+0,2010,Chrysler,Sebring,68,81,56,72
+0,2010,Chrysler,Town and Country,62,70,60,69
+0,2010,Dodge,Avenger,61,72,55,70
+0,2010,Dodge,Challenger,80,78,76,84
+0,2010,Dodge,Charger,67,66,57,75
+0,2010,Dodge,Grand Caravan,56,66,54,69
+0,2010,Dodge,Journey,48,48,59,67
+0,2010,Dodge,Nitro,64,68,65,87
+0,2010,Ford,Edge,76,79,73,73
+0,2010,Ford,Escape,67,72,70,73
+0,2010,Ford,Expedition,69,64,66,76
+0,2010,Ford,Expedition EL,69,64,66,76
+0,2010,Ford,Explorer,72,79,63,76
+0,2010,Ford,Explorer Sport Trac,72,79,63,76
+0,2010,Ford,F-150,82,79,70,86
+0,2010,Ford,Flex,70,62,80,73
+0,2010,Ford,Focus,70,84,65,68
+0,2010,Ford,Fusion,81,87,74,72
+0,2010,Ford,Mustang,83,87,76,74
+0,2010,Ford,Ranger,68,88,45,85
+0,2010,Ford,Super Duty F-250 SRW,73,73,54,90
+0,2010,Ford,Super Duty F-350 DRW,73,73,54,90
+0,2010,Ford,Taurus,85,84,78,69
+0,2010,GMC,Acadia,74,78,71,71
+0,2010,GMC,Canyon,59,73,49,76
+0,2010,GMC,Sierra 1500,82,84,59,89
+0,2010,GMC,Sierra 1500 Hybrid,82,84,59,89
+0,2010,GMC,Terrain,73,74,78,73
+0,2010,GMC,Yukon,78,81,61,78
+0,2010,GMC,Yukon Hybrid,78,81,61,78
+0,2010,Honda,Accord Crosstour,76,84,66,79
+0,2010,Honda,Accord Sdn,76,84,66,79
+0,2010,Honda,CR-V,74,87,63,81
+0,2010,Honda,Civic Hybrid,71,81,65,77
+0,2010,Honda,Civic Sdn,71,81,65,77
+0,2010,Honda,Element,67,82,66,77
+0,2010,Honda,Fit,63,73,68,77
+0,2010,Honda,Insight,59,76,52,71
+0,2010,Honda,Odyssey,70,72,69,74
+0,2010,Honda,Pilot,76,78,73,74
+0,2010,Honda,Ridgeline,76,82,67,79
+0,2010,Hyundai,Elantra,63,72,62,74
+0,2010,Hyundai,Elantra Touring,63,72,62,74
+0,2010,Hyundai,Genesis,72,63,74,70
+0,2010,Hyundai,Santa Fe,65,66,65,77
+0,2010,Hyundai,Sonata,74,87,62,73
+0,2010,Hyundai,Tucson,69,72,79,75
+0,2010,Hyundai,Veracruz,68,71,70,65
+0,2010,Jaguar,XF,76,69,77,67
+0,2010,Jeep,Compass,56,67,65,71
+0,2010,Jeep,Grand Cherokee,64,69,60,78
+0,2010,Jeep,Liberty,61,69,62,74
+0,2010,Jeep,Patriot,58,73,63,68
+0,2010,Jeep,Wrangler,58,63,58,88
+0,2010,Jeep,Wrangler Unlimited,58,63,58,88
+0,2010,Kia,Forte,68,77,69,69
+0,2010,Kia,Forte Koup,68,77,69,69
+0,2010,Kia,Soul,66,74,65,79
+0,2010,Lexus,IS 250,82,84,67,76
+0,2010,Lexus,IS 250C,82,84,67,76
+0,2010,Lexus,IS 350,82,84,67,76
+0,2010,Lexus,IS 350C,82,84,67,76
+0,2010,Lexus,IS F,82,84,67,76
+0,2010,Lincoln,MKS,81,84,68,66
+0,2010,Lincoln,MKT,78,72,74,72
+0,2010,Lincoln,MKX,78,78,66,72
+0,2010,Lincoln,MKZ,83,90,65,69
+0,2010,Lincoln,Navigator,82,81,61,73
+0,2010,Lincoln,Navigator L,82,81,61,73
+0,2010,Mazda,CX-7,66,75,68,64
+0,2010,Mazda,CX-9,77,83,73,67
+0,2010,Mazda,MX-5 Miata,73,85,68,69
+0,2010,Mazda,Mazda3,74,81,72,72
+0,2010,Mazda,Mazda5,57,70,58,65
+0,2010,Mazda,Mazda6,74,82,67,71
+0,2010,Mercedes-Benz,C-Class,82,84,71,72
+0,2010,Mercedes-Benz,E-Class,86,85,77,68
+0,2010,Mercedes-Benz,GL-Class,78,74,66,69
+0,2010,Mercedes-Benz,GLK-Class,76,75,69,71
+0,2010,Mercedes-Benz,M-Class,80,79,71,70
+0,2010,MINI,Cooper Clubman,71,74,78,65
+0,2010,MINI,Cooper Convertible,71,74,78,65
+0,2010,MINI,Cooper Hardtop,71,74,78,65
+0,2010,Mitsubishi,Lancer,60,62,70,68
+0,2010,Mitsubishi,Outlander,67,74,70,71
+0,2010,Nissan,Altima,74,83,64,73
+0,2010,Nissan,Armada,63,53,67,76
+0,2010,Nissan,Frontier,68,80,54,82
+0,2010,Nissan,Maxima,78,78,70,69
+0,2010,Nissan,Murano,76,83,70,67
+0,2010,Nissan,Pathfinder,61,67,59,71
+0,2010,Nissan,Rogue,67,80,61,72
+0,2010,Nissan,Sentra,63,76,61,70
+0,2010,Nissan,Titan,72,70,59,85
+0,2010,Nissan,Xterra,61,68,64,73
+0,2010,Scion,tC,71,73,78,68
+0,2010,Scion,xB,68,77,65,75
+0,2010,Scion,xD,67,83,66,69
+0,2010,Subaru,Forester,70,83,63,74
+0,2010,Subaru,Impreza Sedan,60,67,62,75
+0,2010,Subaru,Impreza Sedan WRX,60,67,62,75
+0,2010,Subaru,Impreza Wagon,60,67,62,75
+0,2010,Subaru,Impreza Wagon WRX,60,67,62,75
+0,2010,Subaru,Legacy,70,76,64,76
+0,2010,Toyota,4Runner,79,84,66,88
+0,2010,Toyota,Avalon,82,90,60,74
+0,2010,Toyota,Camry,72,84,58,78
+0,2010,Toyota,Camry Hybrid,72,84,58,78
+0,2010,Toyota,Corolla,65,80,55,80
+0,2010,Toyota,FJ Cruiser,76,86,69,78
+0,2010,Toyota,Highlander,74,84,62,78
+0,2010,Toyota,Highlander Hybrid,74,84,62,78
+0,2010,Toyota,Matrix,62,81,52,71
+0,2010,Toyota,Prius,71,87,60,75
+0,2010,Toyota,RAV4,73,89,60,81
+0,2010,Toyota,Sequoia,78,78,66,74
+0,2010,Toyota,Sienna,68,75,62,77
+0,2010,Toyota,Tacoma,65,73,54,89
+0,2010,Toyota,Tundra 2WD Truck,79,81,56,89
+0,2010,Toyota,Tundra 4WD Truck,79,81,56,89
+0,2010,Toyota,Venza,77,85,68,76
+0,2010,Toyota,Yaris,64,80,63,72
+0,2010,Volkswagen,CC,70,68,67,66
+0,2010,Volkswagen,GTI,70,62,87,71
+0,2010,Volkswagen,Golf,67,69,75,70
+0,2010,Volkswagen,Jetta Sedan,64,68,70,71
+0,2010,Volkswagen,Jetta SportWagen,64,68,70,71
+0,2010,Volkswagen,Passat Sedan,70,73,71,69
+0,2010,Volkswagen,Passat Wagon,70,73,71,69
+0,2010,Volkswagen,Tiguan,72,74,84,69
+0,2010,Volvo,C70,78,82,64,69
+0,2010,Volvo,S40,69,72,56,70
+0,2010,Volvo,S80,81,87,62,68
+0,2010,Volvo,XC60,73,72,66,71
+0,2010,Volvo,XC70,76,83,57,69
+0,2010,Volvo,XC90,64,63,56,71
+0,2009,Acura,MDX,75,74,64,73
+0,2009,Acura,RDX,71,73,59,69
+0,2009,Acura,TL,88,88,78,73
+0,2009,Acura,TSX,76,75,67,74
+0,2009,BMW,1 Series,69,61,71,75
+0,2009,BMW,3 Series,76,74,74,66
+0,2009,BMW,5 Series,81,81,73,66
+0,2009,BMW,X5,73,63,78,67
+0,2009,Buick,Enclave,76,75,78,69
+0,2009,Buick,LaCrosse,73,83,48,73
+0,2009,Buick,Lucerne,81,89,60,71
+0,2009,Cadillac,CTS,86,85,81,68
+0,2009,Cadillac,CTS-V,86,85,81,68
+0,2009,Cadillac,DTS,85,89,60,70
+0,2009,Cadillac,Escalade,84,77,72,73
+0,2009,Cadillac,Escalade ESV,84,77,72,73
+0,2009,Cadillac,Escalade EXT,84,77,72,73
+0,2009,Cadillac,Escalade Hybrid,84,77,72,73
+0,2009,Cadillac,STS,73,75,60,70
+0,2009,Cadillac,STS-V,73,75,60,70
+0,2009,Chevrolet,Cobalt,57,70,55,75
+0,2009,Chevrolet,Colorado,58,73,48,77
+0,2009,Chevrolet,Corvette,90,86,77,83
+0,2009,Chevrolet,Equinox,72,87,62,73
+0,2009,Chevrolet,HHR,66,75,64,75
+0,2009,Chevrolet,Impala,72,83,46,70
+0,2009,Chevrolet,Impala Police,72,83,46,70
+0,2009,Chevrolet,Malibu,73,80,67,73
+0,2009,Chevrolet,Silverado 1500,75,78,51,89
+0,2009,Chevrolet,Silverado 1500 Hybrid,75,78,51,89
+0,2009,Chevrolet,Suburban,73,70,65,77
+0,2009,Chevrolet,Tahoe,76,74,64,84
+0,2009,Chevrolet,Tahoe Hybrid,76,74,64,84
+0,2009,Chevrolet,TrailBlazer,71,76,62,85
+0,2009,Chevrolet,Traverse,74,78,72,72
+0,2009,Chrysler,300,75,80,59,73
+0,2009,Chrysler,Sebring,63,75,55,72
+0,2009,Chrysler,Town and Country,53,54,61,69
+0,2009,Dodge,Avenger,65,74,60,70
+0,2009,Dodge,Caliber,61,75,58,67
+0,2009,Dodge,Challenger,85,81,82,84
+0,2009,Dodge,Charger,79,82,64,75
+0,2009,Dodge,Grand Caravan,53,61,53,69
+0,2009,Dodge,Grand Caravan Cargo Van,53,61,53,69
+0,2009,Dodge,Journey,43,41,58,67
+0,2009,Ford,Edge,77,80,73,73
+0,2009,Ford,Escape,67,76,67,73
+0,2009,Ford,Expedition EL,70,65,76,93
+0,2009,Ford,Explorer,76,84,67,76
+0,2009,Ford,F-150,82,78,71,86
+0,2009,Ford,Flex,73,65,82,73
+0,2009,Ford,Fusion,78,87,69,72
+0,2009,Ford,Mustang,79,84,71,74
+0,2009,Ford,Ranger,67,86,45,85
+0,2009,Ford,Super Duty F-250 SRW,75,74,56,90
+0,2009,Ford,Super Duty F-350 DRW,75,74,56,90
+0,2009,Ford,Super Duty F-350 SRW,75,74,56,90
+0,2009,Ford,Taurus,76,85,54,69
+0,2009,Ford,Taurus X,74,77,66,85
+0,2009,GMC,Acadia,65,65,69,71
+0,2009,GMC,Canyon,66,79,55,76
+0,2009,GMC,Envoy,75,82,64,84
+0,2009,GMC,Sierra 1500,76,75,59,89
+0,2009,GMC,Sierra 1500 Hybrid,76,75,59,89
+0,2009,GMC,Yukon,78,77,66,78
+0,2009,GMC,Yukon Denali,78,77,66,78
+0,2009,GMC,Yukon Hybrid,78,77,66,78
+0,2009,GMC,Yukon XL,78,77,66,78
+0,2009,GMC,Yukon XL Denali,78,77,66,78
+0,2009,Honda,Accord Sdn,75,77,70,79
+0,2009,Honda,CR-V,74,84,67,81
+0,2009,Honda,Civic Hybrid,71,81,67,77
+0,2009,Honda,Civic Sdn,71,81,67,77
+0,2009,Honda,Fit,69,81,68,77
+0,2009,Honda,Odyssey,72,70,74,74
+0,2009,Honda,Pilot,70,67,75,74
+0,2009,Honda,Ridgeline,80,85,70,79
+0,2009,Hyundai,Azera,76,80,62,68
+0,2009,Hyundai,Genesis,91,90,80,70
+0,2009,Hyundai,Sonata,68,78,60,73
+0,2009,Jaguar,XF,75,65,78,67
+0,2009,Jeep,Compass,59,75,63,71
+0,2009,Jeep,Grand Cherokee,68,74,63,78
+0,2009,Jeep,Liberty,55,62,60,74
+0,2009,Jeep,Patriot,58,72,63,68
+0,2009,Jeep,Wrangler,57,62,57,88
+0,2009,Jeep,Wrangler Unlimited,57,62,57,88
+0,2009,Kia,Borrego,69,72,69,71
+0,2009,Lexus,IS 250,87,87,76,76
+0,2009,Lexus,IS 350,87,87,76,76
+0,2009,Lexus,IS F,87,87,76,76
+0,2009,Lincoln,MKS,76,74,70,66
+0,2009,Lincoln,MKX,83,87,66,72
+0,2009,Lincoln,MKZ,82,90,61,69
+0,2009,Mazda,CX-7,70,79,71,64
+0,2009,Mazda,Mazda3,67,70,72,72
+0,2009,Mazda,Mazda5,47,55,57,65
+0,2009,Mazda,Mazda6,73,75,72,71
+0,2009,Mercedes-Benz,C-Class,85,85,74,72
+0,2009,Mercedes-Benz,CLK-Class,69,65,64,71
+0,2009,Mercedes-Benz,E-Class,85,90,69,68
+0,2009,Mercedes-Benz,M-Class,80,79,71,70
+0,2009,MINI,Cooper Clubman,69,71,78,65
+0,2009,MINI,Cooper Convertible,69,71,78,65
+0,2009,MINI,Cooper Hardtop,69,71,78,65
+0,2009,Mitsubishi,Galant,69,85,55,72
+0,2009,Mitsubishi,Lancer,64,66,73,68
+0,2009,Mitsubishi,Outlander,65,74,65,71
+0,2009,Nissan,Altima,70,75,66,73
+0,2009,Nissan,Frontier,72,87,54,82
+0,2009,Nissan,Maxima,79,79,70,69
+0,2009,Nissan,Murano,76,84,70,67
+0,2009,Nissan,Rogue,59,67,63,72
+0,2009,Nissan,Sentra,63,75,60,70
+0,2009,Nissan,Titan,70,65,61,85
+0,2009,Nissan,Xterra,60,64,66,73
+0,2009,Porsche,911,89,88,78,69
+0,2009,Saturn,VUE Hybrid,58,70,74,93
+0,2009,Scion,xB,73,85,65,75
+0,2009,Subaru,Forester,65,74,64,74
+0,2009,Subaru,Impreza Sedan,62,69,63,75
+0,2009,Subaru,Impreza Sedan WRX,62,69,63,75
+0,2009,Subaru,Impreza Wagon,62,69,63,75
+0,2009,Subaru,Impreza Wagon WRX,62,69,63,75
+0,2009,Subaru,Legacy,66,74,60,76
+0,2009,Toyota,Avalon,82,86,65,74
+0,2009,Toyota,Camry,73,84,60,78
+0,2009,Toyota,Camry Hybrid,73,84,60,78
+0,2009,Toyota,Corolla,72,87,60,80
+0,2009,Toyota,Highlander,77,83,69,78
+0,2009,Toyota,Highlander Hybrid,77,83,69,78
+0,2009,Toyota,Matrix,67,81,61,71
+0,2009,Toyota,Prius,75,90,64,75
+0,2009,Toyota,RAV4,73,81,68,81
+0,2009,Toyota,Sienna,74,80,67,77
+0,2009,Toyota,Tacoma,69,78,56,89
+0,2009,Toyota,Tundra 2WD Truck,81,83,59,89
+0,2009,Toyota,Tundra 4WD Truck,81,83,59,89
+0,2009,Toyota,Venza,80,82,76,76
+0,2009,Toyota,Yaris,69,86,67,72
+0,2009,Volkswagen,CC,79,74,83,66
+0,2009,Volkswagen,Eos,63,59,78,69
+0,2009,Volkswagen,GTI,71,63,87,71
+0,2009,Volkswagen,Jetta Sedan,71,72,77,71
+0,2009,Volkswagen,Jetta SportWagen,71,72,77,71
+0,2009,Volkswagen,New Beetle Convertible,69,76,71,70
+0,2009,Volkswagen,New Beetle Coupe,69,76,71,70
+0,2009,Volkswagen,Passat Sedan,72,71,75,69
+0,2009,Volkswagen,Passat Wagon,72,71,75,69
+0,2009,Volkswagen,Rabbit,71,76,73,70
+0,2009,Volkswagen,Routan,40,25,69,67
+0,2009,Volkswagen,Tiguan,70,67,86,69
+0,2009,Volvo,S80,77,84,59,68
+0,2008,Acura,MDX,79,80,66,73
+0,2008,Acura,RDX,71,74,57,69
+0,2008,Acura,RL,85,89,69,69
+0,2008,Acura,TL,81,82,70,73
+0,2008,Acura,TSX,79,82,63,74
+0,2008,Audi,A3,60,53,62,69
+0,2008,Audi,A6,77,75,71,67
+0,2008,Audi,Q7,72,64,72,70
+0,2008,Audi,TT,69,59,68,83
+0,2008,BMW,3 Series,74,70,75,66
+0,2008,BMW,5 Series,78,71,78,66
+0,2008,BMW,7 Series,84,79,75,65
+0,2008,BMW,X3,76,78,66,66
+0,2008,BMW,X5,70,61,73,67
+0,2008,Buick,Enclave,71,69,76,69
+0,2008,Buick,LaCrosse,74,86,45,73
+0,2008,Buick,Lucerne,74,88,44,71
+0,2008,Cadillac,CTS,80,81,72,68
+0,2008,Cadillac,DTS,85,88,62,70
+0,2008,Cadillac,Escalade,72,65,62,73
+0,2008,Cadillac,Escalade ESV,72,65,62,73
+0,2008,Cadillac,Escalade EXT,72,65,62,73
+0,2008,Cadillac,SRX,77,79,64,71
+0,2008,Cadillac,STS,76,76,65,70
+0,2008,Cadillac,STS-V,76,76,65,70
+0,2008,Chevrolet,Cobalt,58,72,53,75
+0,2008,Chevrolet,Colorado,48,59,44,77
+0,2008,Chevrolet,Corvette,85,79,74,83
+0,2008,Chevrolet,Equinox,58,69,57,73
+0,2008,Chevrolet,HHR,55,59,61,75
+0,2008,Chevrolet,Impala,71,84,44,70
+0,2008,Chevrolet,Impala Police,71,84,44,70
+0,2008,Chevrolet,Malibu,68,65,74,73
+0,2008,Chevrolet,Malibu Classic,68,65,74,73
+0,2008,Chevrolet,Silverado 1500,75,74,57,89
+0,2008,Chevrolet,Silverado 2500HD,75,75,56,90
+0,2008,Chevrolet,Suburban,68,65,62,77
+0,2008,Chevrolet,Tahoe,75,72,64,84
+0,2008,Chevrolet,Tahoe Hybrid,75,72,64,84
+0,2008,Chevrolet,Tahoe Police,75,72,64,84
+0,2008,Chevrolet,Tahoe Special Service Veh,75,72,64,84
+0,2008,Chevrolet,TrailBlazer,72,80,59,85
+0,2008,Chrysler,300,73,76,59,73
+0,2008,Chrysler,Aspen,71,71,72,72
+0,2008,Chrysler,Pacifica,64,71,61,72
+0,2008,Chrysler,Sebring,60,66,59,72
+0,2008,Chrysler,Town and Country,53,52,64,69
+0,2008,Dodge,Avenger,53,53,61,70
+0,2008,Dodge,Caliber,56,65,60,67
+0,2008,Dodge,Charger,70,67,63,75
+0,2008,Dodge,Durango,66,71,61,79
+0,2008,Dodge,Grand Caravan,52,53,60,69
+0,2008,Dodge,Grand Caravan Cargo Van,52,53,60,69
+0,2008,Dodge,Nitro,65,72,61,87
+0,2008,Ford,Edge,78,83,72,73
+0,2008,Ford,Escape,64,73,63,73
+0,2008,Ford,Expedition,66,64,59,76
+0,2008,Ford,Expedition EL,66,64,59,76
+0,2008,Ford,Explorer,65,71,61,76
+0,2008,Ford,Explorer Sport Trac,65,71,61,76
+0,2008,Ford,F-150,77,80,55,86
+0,2008,Ford,Fusion,77,87,65,72
+0,2008,Ford,Mustang,80,84,74,74
+0,2008,Ford,Ranger,59,76,42,85
+0,2008,Ford,Taurus X,72,77,64,85
+0,2008,GMC,Acadia,58,52,70,71
+0,2008,GMC,Canyon,55,69,45,76
+0,2008,GMC,Envoy,72,80,61,84
+0,2008,GMC,Sierra 1500,73,69,60,89
+0,2008,GMC,Sierra 2500HD,74,73,56,90
+0,2008,GMC,Sierra Denali,73,69,60,89
+0,2008,GMC,Yukon,73,71,64,78
+0,2008,GMC,Yukon Denali,73,71,64,78
+0,2008,GMC,Yukon Hybrid,73,71,64,78
+0,2008,GMC,Yukon XL,73,71,64,78
+0,2008,GMC,Yukon XL Denali,73,71,64,78
+0,2008,Honda,Accord Sdn,70,72,69,79
+0,2008,Honda,CR-V,75,90,62,81
+0,2008,Honda,Civic Cpe,66,73,66,77
+0,2008,Honda,Civic Hybrid,66,73,66,77
+0,2008,Honda,Civic Sdn,66,73,66,77
+0,2008,Honda,Element,68,78,71,77
+0,2008,Honda,Odyssey,65,64,70,74
+0,2008,Honda,Pilot,73,81,66,74
+0,2008,Honda,Ridgeline,72,77,66,79
+0,2008,Hyundai,Santa Fe,78,84,70,77
+0,2008,Hyundai,Tucson,64,77,66,75
+0,2008,Hyundai,Veracruz,68,67,74,65
+0,2008,INFINITI,QX56,71,63,62,72
+0,2008,Jeep,Commander,62,68,59,77
+0,2008,Jeep,Compass,56,72,59,71
+0,2008,Jeep,Grand Cherokee,65,72,60,78
+0,2008,Jeep,Liberty,55,60,61,74
+0,2008,Jeep,Patriot,55,67,64,68
+0,2008,Jeep,Wrangler,44,44,54,88
+0,2008,Kia,Sportage,62,74,66,74
+0,2008,Land Rover,LR2,72,74,61,66
+0,2008,Land Rover,Range Rover Sport,63,51,71,69
+0,2008,Lexus,IS 250,80,76,76,76
+0,2008,Lexus,IS 350,80,76,76,76
+0,2008,Lexus,IS F,80,76,76,76
+0,2008,Lincoln,MKX,77,81,60,72
+0,2008,Lincoln,Navigator,81,78,65,73
+0,2008,Lincoln,Navigator L,81,78,65,73
+0,2008,Mazda,CX-7,63,66,72,64
+0,2008,Mazda,CX-9,66,62,75,67
+0,2008,Mazda,Mazda3,64,66,72,72
+0,2008,Mazda,Mazda6,70,78,64,71
+0,2008,Mazda,Tribute,56,64,60,70
+0,2008,Mercedes-Benz,C-Class,79,78,71,72
+0,2008,Mercedes-Benz,CLK-Class,84,86,73,71
+0,2008,Mercedes-Benz,E-Class,81,81,71,68
+0,2008,Mercedes-Benz,GL-Class,75,71,64,69
+0,2008,Mercedes-Benz,M-Class,77,76,68,70
+0,2008,Mercedes-Benz,R-Class,72,67,67,70
+0,2008,Mercedes-Benz,S-Class,93,86,86,66
+0,2008,Mercury,Mariner,68,78,65,74
+0,2008,Mercury,Milan,80,92,66,74
+0,2008,Mercury,Mountaineer,70,76,66,74
+0,2008,MINI,Cooper Clubman,62,57,81,65
+0,2008,MINI,Cooper Convertible,62,57,81,65
+0,2008,MINI,Cooper Hardtop,62,57,81,65
+0,2008,Mitsubishi,Eclipse,66,72,65,68
+0,2008,Mitsubishi,Lancer,57,56,71,68
+0,2008,Nissan,Altima,64,66,66,73
+0,2008,Nissan,Armada,65,55,70,76
+0,2008,Nissan,Frontier,61,72,51,82
+0,2008,Nissan,Maxima,69,72,57,69
+0,2008,Nissan,Pathfinder,62,67,61,71
+0,2008,Nissan,Quest,57,54,68,67
+0,2008,Nissan,Rogue,62,66,68,72
+0,2008,Nissan,Sentra,62,69,66,70
+0,2008,Nissan,Titan,62,54,59,85
+0,2008,Nissan,Xterra,58,65,62,73
+0,2008,Porsche,911,90,93,73,69
+0,2008,Porsche,Cayenne,78,70,77,69
+0,2008,Saab,9-3,74,76,63,69
+0,2008,Subaru,Forester,66,86,53,74
+0,2008,Subaru,Impreza Sedan,55,59,62,75
+0,2008,Subaru,Impreza Wagon,55,59,62,75
+0,2008,Subaru,Legacy,62,70,58,76
+0,2008,Subaru,Tribeca,64,71,63,66
+0,2008,Suzuki,Grand Vitara,57,62,64,71
+0,2008,Toyota,4Runner,80,85,68,88
+0,2008,Toyota,Avalon,76,81,58,74
+0,2008,Toyota,Camry,72,80,62,78
+0,2008,Toyota,Camry Hybrid,72,80,62,78
+0,2008,Toyota,Corolla,63,77,56,80
+0,2008,Toyota,FJ Cruiser,75,82,71,78
+0,2008,Toyota,Highlander,77,82,70,78
+0,2008,Toyota,Highlander Hybrid,77,82,70,78
+0,2008,Toyota,Matrix,62,77,56,71
+0,2008,Toyota,Prius,73,86,64,75
+0,2008,Toyota,RAV4,73,83,67,81
+0,2008,Toyota,Sequoia,75,70,72,74
+0,2008,Toyota,Sienna,70,74,66,77
+0,2008,Toyota,Tacoma,75,83,60,89
+0,2008,Toyota,Tundra 4WD Truck,83,81,66,89
+0,2008,Volkswagen,Eos,45,34,73,69
+0,2008,Volkswagen,GTI,67,57,85,71
+0,2008,Volkswagen,Jetta Sedan,68,70,76,71
+0,2008,Volkswagen,New Beetle Convertible,61,63,71,70
+0,2008,Volkswagen,New Beetle Coupe,61,63,71,70
+0,2008,Volkswagen,Passat Sedan,68,62,78,69
+0,2008,Volkswagen,Passat Wagon,68,62,78,69
+0,2008,Volvo,C30,72,69,67,70
+0,2008,Volvo,C70,67,68,58,69
+0,2008,Volvo,S40,76,79,63,70
+0,2008,Volvo,S60,69,75,51,68
+0,2008,Volvo,S80,77,79,66,68
+0,2008,Volvo,XC70,77,83,58,69
+0,2008,Volvo,XC90,65,65,57,71
+0,2007,Acura,MDX,78,74,70,73
+0,2007,Acura,RDX,76,77,65,69
+0,2007,Acura,TL,76,72,72,73
+0,2007,Acura,TSX,81,81,69,74
+0,2007,Audi,A3,63,56,66,69
+0,2007,Audi,A4,69,64,68,68
+0,2007,Audi,A6,83,85,71,67
+0,2007,Audi,Q7,71,60,75,70
+0,2007,BMW,3 Series,76,67,84,66
+0,2007,BMW,5 Series,80,78,73,66
+0,2007,BMW,6 Series,84,79,81,67
+0,2007,BMW,7 Series,87,79,84,65
+0,2007,BMW,X3,68,65,65,66
+0,2007,BMW,X5,68,56,76,67
+0,2007,BMW,Z4,79,80,62,82
+0,2007,Buick,LaCrosse,74,89,42,73
+0,2007,Buick,Rainier,72,80,66,71
+0,2007,Buick,Rendezvous,64,72,59,71
+0,2007,Cadillac,CTS,75,79,61,68
+0,2007,Cadillac,Escalade,71,61,65,73
+0,2007,Cadillac,Escalade ESV,71,61,65,73
+0,2007,Cadillac,Escalade EXT,71,61,65,73
+0,2007,Cadillac,SRX,72,72,64,71
+0,2007,Cadillac,STS-V,77,81,60,70
+0,2007,Chevrolet,Cobalt,60,72,56,75
+0,2007,Chevrolet,Colorado,50,58,49,77
+0,2007,Chevrolet,Corvette,85,78,76,83
+0,2007,Chevrolet,Express Passenger,47,65,17,61
+0,2007,Chevrolet,Malibu,63,74,57,73
+0,2007,Chevrolet,Malibu Maxx,63,74,57,73
+0,2007,Chevrolet,Monte Carlo,73,78,67,75
+0,2007,Chevrolet,Silverado 1500,74,67,65,89
+0,2007,Chevrolet,Silverado 1500 Classic,74,67,65,89
+0,2007,Chevrolet,Silverado 1500HD Classic,74,67,65,89
+0,2007,Chevrolet,Suburban,63,55,62,78
+0,2007,Chevrolet,Tahoe,67,58,64,84
+0,2007,Chevrolet,Tahoe Police,67,58,64,84
+0,2007,Chevrolet,TrailBlazer,65,67,62,85
+0,2007,Chrysler,300,74,78,57,73
+0,2007,Chrysler,Aspen,69,68,72,72
+0,2007,Chrysler,Pacifica,65,76,57,72
+0,2007,Dodge,Charger,69,65,64,75
+0,2007,Dodge,Nitro,50,47,62,87
+0,2007,Ford,Edge,77,73,80,73
+0,2007,Ford,Escape,60,75,54,73
+0,2007,Ford,Expedition,66,62,61,76
+0,2007,Ford,Expedition EL,66,62,61,76
+0,2007,Ford,Explorer,69,80,59,76
+0,2007,Ford,Explorer Sport Trac,69,80,59,76
+0,2007,Ford,F-150,74,77,53,86
+0,2007,Ford,Freestar Wagon,61,76,51,80
+0,2007,Ford,Mustang,73,73,74,74
+0,2007,Ford,Ranger,61,79,43,85
+0,2007,Ford,Super Duty F-250,68,72,43,90
+0,2007,Ford,Super Duty F-350 DRW,68,72,43,90
+0,2007,Ford,Super Duty F-350 SRW,68,72,43,90
+0,2007,GMC,Acadia,62,55,75,71
+0,2007,GMC,Canyon,53,65,46,76
+0,2007,GMC,Envoy,72,76,64,84
+0,2007,GMC,Sierra 1500,78,71,69,89
+0,2007,GMC,Sierra Denali Classic,78,71,69,89
+0,2007,GMC,Yukon,71,69,63,77
+0,2007,GMC,Yukon Denali,71,69,63,77
+0,2007,GMC,Yukon XL,71,69,63,77
+0,2007,GMC,Yukon XL Denali,71,69,63,77
+0,2007,Honda,Accord Cpe,76,85,65,79
+0,2007,Honda,Accord Hybrid,76,85,65,79
+0,2007,Honda,Accord Sdn,76,85,65,79
+0,2007,Honda,CR-V,77,82,73,81
+0,2007,Honda,Civic Hybrid,70,74,72,77
+0,2007,Honda,Civic Si,70,74,72,77
+0,2007,Honda,Element,64,71,71,77
+0,2007,Honda,Odyssey,67,64,72,74
+0,2007,Honda,Pilot,70,76,65,74
+0,2007,Honda,Ridgeline,77,83,68,79
+0,2007,HUMMER,H3,66,72,63,74
+0,2007,Hyundai,Santa Fe,73,75,70,77
+0,2007,Hyundai,Tucson,66,78,69,75
+0,2007,Jeep,Commander,58,68,52,77
+0,2007,Jeep,Compass,56,66,64,71
+0,2007,Jeep,Grand Cherokee,59,67,55,78
+0,2007,Jeep,Liberty,48,61,48,74
+0,2007,Jeep,Wrangler,44,38,60,88
+0,2007,Kia,Sorento,57,62,59,70
+0,2007,Kia,Sportage,66,76,71,74
+0,2007,Lincoln,MKX,80,79,70,72
+0,2007,Lincoln,Mark LT,81,81,63,71
+0,2007,Lincoln,Navigator,79,76,64,73
+0,2007,Lincoln,Town Car,75,84,43,71
+0,2007,Mazda,Mazda3,64,64,73,72
+0,2007,Mazda,Mazda6,66,69,68,71
+0,2007,Mercedes-Benz,C-Class,76,76,66,72
+0,2007,Mercedes-Benz,CLK-Class,79,79,70,71
+0,2007,Mercedes-Benz,CLS-Class,80,75,77,67
+0,2007,Mercedes-Benz,E-Class,82,80,75,68
+0,2007,Mercedes-Benz,GL-Class,73,65,67,69
+0,2007,Mercedes-Benz,M-Class,77,71,73,70
+0,2007,Mercedes-Benz,R-Class,67,59,70,70
+0,2007,Mercedes-Benz,S-Class,92,84,87,66
+0,2007,Mercedes-Benz,SL-Class,86,83,78,70
+0,2007,Mercedes-Benz,SLK-Class,78,78,62,83
+0,2007,Mercury,Mariner,62,74,58,74
+0,2007,Mercury,Mountaineer,68,72,65,74
+0,2007,Mitsubishi,Eclipse,64,67,67,68
+0,2007,Mitsubishi,Endeavor,55,53,66,70
+0,2007,Mitsubishi,Outlander,56,56,68,71
+0,2007,Nissan,Altima,71,69,74,73
+0,2007,Nissan,Armada,66,55,70,76
+0,2007,Nissan,Frontier,64,72,56,82
+0,2007,Nissan,Murano,70,72,72,67
+0,2007,Nissan,Pathfinder,64,66,66,71
+0,2007,Nissan,Sentra,60,61,70,70
+0,2007,Nissan,Titan,72,69,59,85
+0,2007,Nissan,Xterra,66,73,67,73
+0,2007,Pontiac,G6,59,58,64,74
+0,2007,Pontiac,Grand Prix,76,82,55,74
+0,2007,Pontiac,Solstice,64,68,71,71
+0,2007,Porsche,911,80,81,67,69
+0,2007,Saturn,Outlook,66,60,75,74
+0,2007,Saturn,Sky,67,73,70,71
+0,2007,Saturn,VUE,59,67,62,74
+0,2007,Subaru,Forester,63,78,56,74
+0,2007,Subaru,Impreza Sedan,60,72,56,75
+0,2007,Subaru,Impreza Wagon,60,72,56,75
+0,2007,Subaru,Legacy Sedan,66,70,63,76
+0,2007,Subaru,Legacy Wagon,66,70,63,76
+0,2007,Suzuki,XL7,58,54,69,71
+0,2007,Toyota,4Runner,78,82,67,88
+0,2007,Toyota,Avalon,80,84,62,74
+0,2007,Toyota,Camry,71,76,65,78
+0,2007,Toyota,Camry Hybrid,71,76,65,78
+0,2007,Toyota,Camry Solara,71,76,65,78
+0,2007,Toyota,Corolla,70,84,61,80
+0,2007,Toyota,FJ Cruiser,71,77,69,78
+0,2007,Toyota,Highlander,71,84,58,78
+0,2007,Toyota,Highlander Hybrid,71,84,58,78
+0,2007,Toyota,Matrix,60,76,55,71
+0,2007,Toyota,Prius,71,85,63,75
+0,2007,Toyota,RAV4,66,73,65,81
+0,2007,Toyota,Sequoia,71,70,62,74
+0,2007,Toyota,Sienna,71,76,66,77
+0,2007,Toyota,Tacoma,72,77,62,89
+0,2007,Volkswagen,Eos,50,39,77,69
+0,2007,Volkswagen,GTI,63,50,88,71
+0,2007,Volkswagen,Jetta Sedan,63,59,78,71
+0,2007,Volkswagen,New Beetle Convertible,58,62,66,95
+0,2007,Volkswagen,New Beetle Coupe,58,62,66,95
+0,2007,Volkswagen,Passat Sedan,61,54,75,69
+0,2007,Volkswagen,Passat Wagon,61,54,75,69
+0,2007,Volkswagen,Touareg,70,63,70,70
+0,2007,Volvo,S60,73,76,60,68
+0,2007,Volvo,XC70,67,72,53,69
+0,2007,Volvo,XC90,67,66,60,71
+0,2006,Acura,MDX,77,80,61,73
+0,2006,Acura,RL,84,84,72,69
+0,2006,Acura,RSX,65,73,41,72
+0,2006,Acura,TL,75,72,71,73
+0,2006,Acura,TSX,73,71,66,74
+0,2006,Audi,A3,62,52,69,69
+0,2006,Audi,A6,79,76,72,67
+0,2006,BMW,3 Series,73,67,77,66
+0,2006,BMW,5 Series,77,74,72,66
+0,2006,BMW,7 Series,86,77,82,65
+0,2006,BMW,X3,70,69,66,66
+0,2006,BMW,X5,76,68,76,67
+0,2006,Buick,Rainier,73,77,71,71
+0,2006,Cadillac,CTS,69,76,49,68
+0,2006,Cadillac,Escalade,68,59,62,73
+0,2006,Cadillac,Escalade ESV,68,59,62,73
+0,2006,Cadillac,Escalade EXT,68,59,62,73
+0,2006,Cadillac,SRX,74,75,61,71
+0,2006,Chevrolet,Colorado,47,60,42,77
+0,2006,Chevrolet,Monte Carlo,70,67,74,75
+0,2006,Chevrolet,Silverado 1500,68,67,52,89
+0,2006,Chevrolet,Silverado 1500HD,68,67,52,89
+0,2006,Chevrolet,Silverado 2500HD,68,67,52,89
+0,2006,Chevrolet,Silverado SS,68,67,52,89
+0,2006,Chevrolet,Suburban,61,57,55,77
+0,2006,Chevrolet,Tahoe,65,61,56,84
+0,2006,Chevrolet,Tahoe Special Service Veh,65,61,56,84
+0,2006,Chevrolet,TrailBlazer,67,72,61,85
+0,2006,Chrysler,300,77,79,65,73
+0,2006,Chrysler,Pacifica,61,66,60,72
+0,2006,Chrysler,Town and Country LWB,53,63,52,80
+0,2006,Chrysler,Town and Country SWB,53,63,52,80
+0,2006,Dodge,Charger,66,58,67,75
+0,2006,Dodge,Durango,48,42,61,79
+0,2006,Dodge,Magnum,70,68,61,75
+0,2006,Ford,Expedition,64,60,58,77
+0,2006,Ford,Explorer,65,68,63,76
+0,2006,Ford,F-150,72,77,48,86
+0,2006,Ford,Freestar Wagon,54,70,47,80
+0,2006,Ford,Mustang,62,58,70,74
+0,2006,Ford,Ranger,63,81,44,85
+0,2006,Ford,Super Duty F-250,66,68,42,90
+0,2006,Ford,Super Duty F-350 DRW,66,68,42,90
+0,2006,Ford,Super Duty F-350 SRW,66,68,42,90
+0,2006,GMC,Canyon,54,69,45,76
+0,2006,GMC,Envoy,73,76,67,84
+0,2006,GMC,Envoy XL,73,76,67,84
+0,2006,GMC,Sierra 1500,70,71,51,88
+0,2006,GMC,Sierra 1500HD,70,71,51,88
+0,2006,GMC,Sierra 2500HD,72,68,58,90
+0,2006,GMC,Yukon,64,57,62,77
+0,2006,GMC,Yukon Denali,64,57,62,77
+0,2006,GMC,Yukon XL,64,57,62,77
+0,2006,GMC,Yukon XL Denali,64,57,62,77
+0,2006,Honda,Accord Cpe,76,81,69,79
+0,2006,Honda,Accord Hybrid,76,81,69,79
+0,2006,Honda,Accord Sdn,76,81,69,79
+0,2006,Honda,CR-V,67,78,60,81
+0,2006,Honda,Civic Hybrid,69,72,72,77
+0,2006,Honda,Civic Si,69,72,72,77
+0,2006,Honda,Element,69,80,71,77
+0,2006,Honda,Odyssey,68,63,76,74
+0,2006,Honda,Pilot,68,73,66,74
+0,2006,Honda,Ridgeline,78,76,78,79
+0,2006,HUMMER,H3,58,58,63,74
+0,2006,Hyundai,Santa Fe,64,72,57,77
+0,2006,Jeep,Commander,54,46,69,77
+0,2006,Jeep,Grand Cherokee,53,62,49,78
+0,2006,Jeep,Liberty,47,58,49,74
+0,2006,Jeep,Wrangler,50,62,45,88
+0,2006,Kia,Sorento,54,53,62,70
+0,2006,Lincoln,Mark LT,79,77,62,71
+0,2006,Lincoln,Navigator,67,60,58,73
+0,2006,Lincoln,Town Car,77,83,49,71
+0,2006,Mazda,MX-5 Miata,67,75,68,69
+0,2006,Mazda,Mazda6,59,54,70,71
+0,2006,Mercedes-Benz,C-Class,72,65,72,72
+0,2006,Mercedes-Benz,CLK-Class,67,63,65,71
+0,2006,Mercedes-Benz,CLS-Class,70,62,73,67
+0,2006,Mercedes-Benz,E-Class,74,71,69,68
+0,2006,Mercedes-Benz,M-Class,67,60,67,70
+0,2006,Mercedes-Benz,R-Class,67,57,70,70
+0,2006,Mercedes-Benz,S-Class,73,68,63,66
+0,2006,Mercedes-Benz,SLK-Class,80,76,68,83
+0,2006,Mercury,Mountaineer,63,65,64,74
+0,2006,MINI,Cooper Hardtop,65,61,78,95
+0,2006,Mitsubishi,Lancer,63,71,66,68
+0,2006,Nissan,Armada,60,49,66,76
+0,2006,Nissan,Frontier,57,61,55,82
+0,2006,Nissan,Murano,68,66,74,67
+0,2006,Nissan,Pathfinder,65,69,65,71
+0,2006,Nissan,Titan,62,51,62,85
+0,2006,Nissan,Xterra,60,60,71,73
+0,2006,Porsche,911,78,74,74,69
+0,2006,Subaru,Baja,58,71,49,75
+0,2006,Subaru,Forester,60,74,54,74
+0,2006,Subaru,Impreza Sedan,59,68,60,75
+0,2006,Subaru,Impreza Wagon,59,68,60,75
+0,2006,Subaru,Legacy Sedan,58,66,54,76
+0,2006,Toyota,4Runner,78,82,67,88
+0,2006,Toyota,Avalon,78,84,57,74
+0,2006,Toyota,Camry,73,85,60,78
+0,2006,Toyota,Camry Solara,73,85,60,78
+0,2006,Toyota,Corolla,63,73,59,80
+0,2006,Toyota,Highlander,74,84,63,78
+0,2006,Toyota,Highlander Hybrid,74,84,63,78
+0,2006,Toyota,Matrix,64,80,56,71
+0,2006,Toyota,RAV4,69,72,69,81
+0,2006,Toyota,Sequoia,69,70,55,74
+0,2006,Toyota,Sienna,67,66,69,77
+0,2006,Toyota,Tacoma,68,74,59,89
+0,2006,Toyota,Tundra,79,83,53,89
+0,2006,Volkswagen,New Beetle Coupe,46,51,59,95
+0,2006,Volkswagen,Touareg,57,46,64,70
+0,2006,Volvo,V50,58,59,47,70
+0,2006,Volvo,V70,69,72,57,70
+0,2006,Volvo,XC90,65,62,59,71

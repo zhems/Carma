@@ -43,6 +43,8 @@ for make in make_list:
     dict_make_model[make] = model_list[:-1]
 
 print('Make Model Matched!')
+
+quit
     
 KBB_ratings = pd.DataFrame(
     columns=['Make', 'Model', 'Year', 'Rating'])

@@ -103,6 +103,7 @@ $(document).on("click", "#search", function() {
 
     //Sample dataset for development purposes
     d3.json("../../data/sample.json").then(function(dump) {
+        console.log(dump)
         listings = dump.listings;
         nav(listings);
         draw(listings);

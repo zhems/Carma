@@ -23,8 +23,8 @@
                             </div>
                             <div class="col-sm-6">
                                 <select id="micro-genres" class="form-control">
-                                    <option>What do you use your car for</option>
-                                    <option>Off-road</option>
+                                    <option value="all">What do you use your car for</option>
+                                    <option value="offroad">Off-road</option>
                                 </select>
                             </div>
                             <div class="col-sm-2">
@@ -37,10 +37,14 @@
         </div>
         <div id="main" class="container-fluid px-0 h-100 collapse init">
             <div id="filter-bar" class="container-fluid collapse">
-                <form id="zip-nav" class="container-fluid px-0 my-2">
-                    <div class="row">
-                        <div class="col-12">
-                            <input id="zip" class="form-control w-100" placeholder="Zip Code">
+                <form id="filter-nav" class="container-fluid px-0 my-2">
+                    <div class="form-row pb-2">
+                        <div class="col-4">
+                            <input id="filter-zip" class="form-control" placeholder="Zip Code">
+                        </div>
+                        <div class="col-8">
+                            <select id="filter-genres" class="form-control">
+                            </select>
                         </div>
                     </div>
                 </form>

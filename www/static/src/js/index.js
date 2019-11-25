@@ -41,7 +41,7 @@ var tip = d3.tip()
                 "<span>No image available</span>" +
                 "</div>";
         } else {
-            var pic_width = Math.min(300,width - 20);
+            var pic_width = Math.min(500,width - 20);
             return "<div class=\"alert alert-dark\">" +
                 "<span>" + d.build.year + " " + d.build.make + " " + d.build.model + "</span>" +
                 "<br /><br />" +
@@ -56,11 +56,24 @@ var svg;
 var sim;
 
 var listings = [];
+var genres = [["all","All Cars"],["offroad","Off-road"],["family","Family Friendly"]];
 
 //$("#side-toggler").on("click", function() {
 //    console.log("toggle");
 //    $("#filter-bar").toggleClass("active");
 //});
+
+$('#filter-nav').change(function() {
+    var zip = 30318
+    var genre = document.getElementById("filter-genres").value;
+
+    d3.json("data/" + zip + "/" + genre).then(function(dump) {
+        console.log(dump)
+        listings = dump.listings;
+        nav(listings);
+        draw(listings);
+    });
+});
 
 $('#filter').change(function() {
     filter();
@@ -79,7 +92,7 @@ $(document).on("click", "#search", function() {
     var width = document.getElementById("testbed").clientWidth;
 
     //Clustering positions
-    var collisionForce = d3.forceCollide(20)
+    var collisionForce = d3.forceCollide(40)
         .iterations(5);
     var centeringForce = d3.forceCenter(width / 2,height / 2);
 
@@ -101,8 +114,12 @@ $(document).on("click", "#search", function() {
             resize(d,sim)
         });
 
+    var zip = document.getElementById("zip").value;
+    var genre = document.getElementById("micro-genres").value;
+    zip = 30318
+
     //Sample dataset for development purposes
-    d3.json("../../data/sample.json").then(function(dump) {
+    d3.json("data/" + zip + "/" + genre).then(function(dump) {
         console.log(dump)
         listings = dump.listings;
         nav(listings);
@@ -134,6 +151,17 @@ payload.send();
 
 //Dynamically build filter list
 function nav(listings) {
+
+    d3.select("#filter-genres")
+        .selectAll("option")
+        .data(genres)
+        .enter()
+        .append("option")
+        .attr("value",function(d) {
+            console.log(d)
+            return d[0]
+        })
+        .text(d => d[1]);
 
     var price = d3.extent(listings,function(d) {
         return d.price;
@@ -197,13 +225,21 @@ function nav(listings) {
 
 //Draw nodes
 function draw(f_listings) {
-    
+
+    var temp = d3.extent(f_listings,function(d) {
+        return d.build.year;
+    });   
+
+    //Circles
     svg.selectAll("text")
         .remove();
 
     console.log(f_listings);
 
     sim.nodes(d3.values(f_listings));
+    sim.force("collide").radius(function(d) {
+        return (((temp[1] - d.build.year) / (temp[1] - temp[0])) * 30) + 5
+    });
     sim.tick(10);
     sim.stop();
 
@@ -218,7 +254,9 @@ function draw(f_listings) {
 
     var nodes = circles.enter()
         .append("circle")
-        .attr("r",10)
+        .attr("r",function(d) {
+            return ((temp[1] - d.build.year) / (temp[1] - temp[0])) * 30;
+        })
         .attr("cx",function(d) {
             return d.x;
         })
@@ -248,7 +286,6 @@ function draw(f_listings) {
     sim.restart();
 
     if (f_listings.length == 0) {
-        console.log("test");
         svg_height = svg.attr("height");
         svg_width = svg.attr("width");
         svg.append("text")

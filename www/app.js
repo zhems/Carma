@@ -5,15 +5,9 @@ const port = 8000
 
 const mgd = new MongoClient('mongodb://localhost:27017')
 
-mgd.connect(function() {
-    console.log("Connected to local db");
-    const db = mgd.db("carma");
-    var cursor = db.collection('test').find().limit(1);
-    data = cursor.toArray()
-    payload = JSON.stringify(data)
-    app.listen(port);
-    mgd.close();
-});
+var data;
+
+app.listen(port)
     
 app.use('/', function(req,res,next) {
     console.log(req.path);
@@ -22,8 +16,23 @@ app.use('/', function(req,res,next) {
 
 app.use('/', express.static('static'));
 
-app.use('/data',function(req,res,next) {
-    console.log(data);
-    console.log(payload);
-    res.send(data);
+app.use('/data/:zip/:genre',function(req,res,next) {
+    mgd.connect(function() {
+        console.log("Connected to local db");
+        const db = mgd.db("carma");
+        var cursor;
+        console.log(req.params.genre);
+        if (req.params.genre == "offroad") {
+            cursor = db.collection('test').find({"build.make" : "Nissan"})
+        } else {
+            cursor = db.collection('test').find()
+        }
+        data = cursor.toArray();
+        data.then(function(data) {
+            payload = {"listings": data};
+            res.json(payload);
+        }, function(err) {
+            console.log("Error " + err)
+        });
+    });
 });

@@ -25,7 +25,7 @@ body {
     max-height: 900px;
 }
 
-#main {
+#main.show {
     display: flex;
 }
 
@@ -58,6 +58,10 @@ body {
     border-radius: 10px;
 }
 
+.tip {
+    border-radius: 20px;
+}
+
 h1 {
     color : #FFFFFF;
     font-size: 3rem;
@@ -69,6 +73,10 @@ h2 {
 
 h3 {
     color: #3F3F3F;
+    font-size: 1.5rem;
+}
+
+h4 {
     font-size: 1.5rem;
 }
 

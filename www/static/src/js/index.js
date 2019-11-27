@@ -31,19 +31,19 @@ var title_height = document.getElementById("controls").clientHeight;
 
 //Tooltip for each listing
 var tip = d3.tip()
-    .attr("class","tip")
     .direction("n")
     .html(function(d,width) {
         if (d.media.photo_links.length == 0) {
-            return "<div class=\"alert alert-dark\">" +
-                "<span>" + d.build.year + " " + d.build.make + " " + d.build.model + "</span>" +
+            return "<div class=\"tip alert alert-dark\">" +
+                "<h4>" + d.build.year + " " + d.build.make + " " + d.build.model + "</h4>" +
                 "<br /><br />" +
                 "<span>No image available</span>" +
                 "</div>";
         } else {
-            var pic_width = Math.min(500,width - 20);
-            return "<div class=\"alert alert-dark\">" +
-                "<span>" + d.build.year + " " + d.build.make + " " + d.build.model + "</span>" +
+            var pic_width = Math.min(300,(d3.select("#canvas").attr("width") - 20));
+            return "<div class=\"tip alert alert-dark\">" +
+                "<h4>" + d.build.year + " " + d.build.make + " " + d.build.model + "</h4>" +
+                "<span>Price: " + d.price + "</span>" + 
                 "<br /><br />" +
                 "<img " + 
                 "width=" + pic_width + " " +
@@ -71,7 +71,7 @@ $('#filter-nav').change(function() {
         console.log(dump)
         listings = dump.listings;
         nav(listings);
-        draw(listings);
+        filter(listings);
     });
 });
 
@@ -93,7 +93,7 @@ $(document).on("click", "#search", function() {
 
     //Clustering positions
     var collisionForce = d3.forceCollide(40)
-        .iterations(5);
+        .iterations(50);
     var centeringForce = d3.forceCenter(width / 2,height / 2);
 
     sim = d3.forceSimulation()
@@ -123,7 +123,7 @@ $(document).on("click", "#search", function() {
         console.log(dump)
         listings = dump.listings;
         nav(listings);
-        draw(listings);
+        filter(listings);
     });
 });
 
@@ -187,16 +187,22 @@ function nav(listings) {
                         .attr("max",year[1])
                         .attr("value",year[0]);
 
+    d3.select("#filter-make")
+        .selectAll("option")
+        .data([])
+        .exit().remove();
+
     var make = d3.set(listings,function(d) {
         return d.build.make;
     }).values().sort();
+    make.unshift("All Brands");
 
     var filter_make = d3.select("#filter-make")
         .selectAll("option")
         .data(make)
-        .enter();
 
-    filter_make.append("option")
+    filter_make.enter()
+        .append("option")
         .attr("value",function(d) {
             return d;
         })
@@ -204,16 +210,22 @@ function nav(listings) {
             return d;
         });
 
+    d3.select("#filter-style")
+        .selectAll("option")
+        .data([])
+        .exit().remove();
+
     var style = d3.set(listings,function(d) {
         return d.build.body_type;
     }).values().filter(x => x != "undefined").sort();
+    style.unshift("All Body Styles");
 
     var filter_style = d3.select("#filter-style")
         .selectAll("option")
         .data(style)
-        .enter();
 
-    filter_style.append("option")
+    filter_style.enter()
+        .append("option")
         .attr("value",function(d) {
             return d;
         })
@@ -236,7 +248,7 @@ function draw(f_listings) {
 
     console.log(f_listings);
 
-    sim.nodes(d3.values(f_listings));
+    sim.nodes(f_listings);
     sim.force("collide").radius(function(d) {
         return (((temp[1] - d.build.year) / (temp[1] - temp[0])) * 30) + 5
     });

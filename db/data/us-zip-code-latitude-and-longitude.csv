@@ -1,4 +1,4 @@
-Zip;City;State;Latitude;Longitude;Timezone;Daylight savings time flag;geopoint
+Zip;City;State;Latitude;Longitude;Timezone;Daylightsavingstimeflag;geopoint
 71937;Cove;AR;34.398483;-94.39398;-6;1;34.398483,-94.39398
 72044;Edgemont;AR;35.624351;-92.16056;-6;1;35.624351,-92.16056
 56171;Sherburn;MN;43.660847;-94.74357;-6;1;43.660847,-94.74357

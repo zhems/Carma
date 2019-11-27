@@ -1,0 +1,23 @@
+{
+  "name": "carma",
+  "version": "1.0.0",
+  "description": "Car matching algorithm webapp",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhems/Carma.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhems/Carma/issues"
+  },
+  "homepage": "https://github.com/zhems/Carma#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.3.4"
+  }
+}

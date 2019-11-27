@@ -75,23 +75,23 @@ Acura,NSX,1995,18
 Acura,NSX,1994,18
 Acura,NSX,1993,18
 Acura,NSX,1992,18
-Alfa-Romeo,Giulia,2019,27
-Alfa-Romeo,Giulia,2018,27
-Alfa-Romeo,Giulia,2017,26
-Alfa-Romeo,Stelvio,2019,25
-Alfa-Romeo,Stelvio,2018,24
-Alfa-Romeo,4C,2018,28
-Alfa-Romeo,4C,2017,28
-Alfa-Romeo,4C,2016,28
-Alfa-Romeo,4C,2015,28
-Alfa-Romeo,4C Spider,2019,28
-Alfa-Romeo,4C Spider,2018,28
-Alfa-Romeo,4C Spider,2015,28
-Aston-Martin,DB11,2018,20
-Aston-Martin,DB11,2017,17
-Aston-Martin,Vanquish S,2018,17
-Aston-Martin,Vanquish S,2006,12
-Aston-Martin,Vanquish S,2005,12
+Alfa Romeo,Giulia,2019,27
+Alfa Romeo,Giulia,2018,27
+Alfa Romeo,Giulia,2017,26
+Alfa Romeo,Stelvio,2019,25
+Alfa Romeo,Stelvio,2018,24
+Alfa Romeo,4C,2018,28
+Alfa Romeo,4C,2017,28
+Alfa Romeo,4C,2016,28
+Alfa Romeo,4C,2015,28
+Alfa Romeo,4C Spider,2019,28
+Alfa Romeo,4C Spider,2018,28
+Alfa Romeo,4C Spider,2015,28
+Aston Martin,DB11,2018,20
+Aston Martin,DB11,2017,17
+Aston Martin,Vanquish S,2018,17
+Aston Martin,Vanquish S,2006,12
+Aston Martin,Vanquish S,2005,12
 Audi,A3,2019,29
 Audi,A3,2018,27
 Audi,A3,2017,27
@@ -2623,84 +2623,84 @@ Lamborghini,Huracan,2018,16
 Lamborghini,Huracan,2017,17
 Lamborghini,Huracan,2016,17
 Lamborghini,Huracan,2015,16
-Land-Rover,Discovery,2020,18
-Land-Rover,Discovery,2019,18
-Land-Rover,Discovery,2018,18
-Land-Rover,Discovery,2017,18
-Land-Rover,Discovery,2004,12
-Land-Rover,Discovery,2003,12
-Land-Rover,Discovery,1999,14
-Land-Rover,Discovery,1998,14
-Land-Rover,Discovery,1997,13
-Land-Rover,Discovery,1996,13
-Land-Rover,Discovery,1995,13
-Land-Rover,Discovery,1994,13
-Land-Rover,Discovery Sport,2019,22
-Land-Rover,Discovery Sport,2018,22
-Land-Rover,Discovery Sport,2017,22
-Land-Rover,Discovery Sport,2016,22
-Land-Rover,Discovery Sport,2015,22
-Land-Rover,Range Rover,2019,19
-Land-Rover,Range Rover,2018,19
-Land-Rover,Range Rover,2017,19
-Land-Rover,Range Rover,2016,19
-Land-Rover,Range Rover,2015,19
-Land-Rover,Range Rover,2014,19
-Land-Rover,Range Rover,2013,16
-Land-Rover,Range Rover,2012,14
-Land-Rover,Range Rover,2011,14
-Land-Rover,Range Rover,2010,14
-Land-Rover,Range Rover,2009,14
-Land-Rover,Range Rover,2008,14
-Land-Rover,Range Rover,2007,14
-Land-Rover,Range Rover,2006,14
-Land-Rover,Range Rover,2005,13
-Land-Rover,Range Rover,2004,13
-Land-Rover,Range Rover,2003,13
-Land-Rover,Range Rover,2002,12
-Land-Rover,Range Rover,2001,12
-Land-Rover,Range Rover,2000,14
-Land-Rover,Range Rover,1999,13
-Land-Rover,Range Rover,1998,13
-Land-Rover,Range Rover,1997,13
-Land-Rover,Range Rover,1996,13
-Land-Rover,Range Rover,1995,13
-Land-Rover,Range Rover,1994,13
-Land-Rover,Range Rover,1993,12
-Land-Rover,Range Rover,1992,13
-Land-Rover,Range Rover Evoque,2020,23
-Land-Rover,Range Rover Evoque,2019,25
-Land-Rover,Range Rover Evoque,2018,25
-Land-Rover,Range Rover Evoque,2016,24
-Land-Rover,Range Rover Evoque,2015,24
-Land-Rover,Range Rover Evoque,2014,24
-Land-Rover,Range Rover Evoque,2013,23
-Land-Rover,Range Rover Evoque,2012,22
-Land-Rover,Range Rover Sport,2019,19
-Land-Rover,Range Rover Sport,2018,19
-Land-Rover,Range Rover Sport,2017,19
-Land-Rover,Range Rover Sport,2016,19
-Land-Rover,Range Rover Sport,2015,19
-Land-Rover,Range Rover Sport,2014,19
-Land-Rover,Range Rover Sport,2013,15
-Land-Rover,Range Rover Sport,2012,15
-Land-Rover,Range Rover Sport,2011,15
-Land-Rover,Range Rover Sport,2010,15
-Land-Rover,Range Rover Sport,2009,15
-Land-Rover,Range Rover Sport,2008,15
-Land-Rover,Range Rover Sport,2007,14
-Land-Rover,Range Rover Sport,2006,14
-Land-Rover,Range Rover Velar,2020,23
-Land-Rover,Range Rover Velar,2019,23
-Land-Rover,Range Rover Velar,2018,23
-Land-Rover,Range Rover Evoque,2020,23
-Land-Rover,Range Rover Evoque,2019,25
-Land-Rover,Range Rover Evoque,2018,25
-Land-Rover,Range Rover Evoque,2016,24
-Land-Rover,Range Rover Evoque,2015,24
-Land-Rover,Range Rover Evoque,2014,24
-Land-Rover,Range Rover Evoque,2013,23
-Land-Rover,Range Rover Evoque,2012,22
+Land Rover,Discovery,2020,18
+Land Rover,Discovery,2019,18
+Land Rover,Discovery,2018,18
+Land Rover,Discovery,2017,18
+Land Rover,Discovery,2004,12
+Land Rover,Discovery,2003,12
+Land Rover,Discovery,1999,14
+Land Rover,Discovery,1998,14
+Land Rover,Discovery,1997,13
+Land Rover,Discovery,1996,13
+Land Rover,Discovery,1995,13
+Land Rover,Discovery,1994,13
+Land Rover,Discovery Sport,2019,22
+Land Rover,Discovery Sport,2018,22
+Land Rover,Discovery Sport,2017,22
+Land Rover,Discovery Sport,2016,22
+Land Rover,Discovery Sport,2015,22
+Land Rover,Range Rover,2019,19
+Land Rover,Range Rover,2018,19
+Land Rover,Range Rover,2017,19
+Land Rover,Range Rover,2016,19
+Land Rover,Range Rover,2015,19
+Land Rover,Range Rover,2014,19
+Land Rover,Range Rover,2013,16
+Land Rover,Range Rover,2012,14
+Land Rover,Range Rover,2011,14
+Land Rover,Range Rover,2010,14
+Land Rover,Range Rover,2009,14
+Land Rover,Range Rover,2008,14
+Land Rover,Range Rover,2007,14
+Land Rover,Range Rover,2006,14
+Land Rover,Range Rover,2005,13
+Land Rover,Range Rover,2004,13
+Land Rover,Range Rover,2003,13
+Land Rover,Range Rover,2002,12
+Land Rover,Range Rover,2001,12
+Land Rover,Range Rover,2000,14
+Land Rover,Range Rover,1999,13
+Land Rover,Range Rover,1998,13
+Land Rover,Range Rover,1997,13
+Land Rover,Range Rover,1996,13
+Land Rover,Range Rover,1995,13
+Land Rover,Range Rover,1994,13
+Land Rover,Range Rover,1993,12
+Land Rover,Range Rover,1992,13
+Land Rover,Range Rover Evoque,2020,23
+Land Rover,Range Rover Evoque,2019,25
+Land Rover,Range Rover Evoque,2018,25
+Land Rover,Range Rover Evoque,2016,24
+Land Rover,Range Rover Evoque,2015,24
+Land Rover,Range Rover Evoque,2014,24
+Land Rover,Range Rover Evoque,2013,23
+Land Rover,Range Rover Evoque,2012,22
+Land Rover,Range Rover Sport,2019,19
+Land Rover,Range Rover Sport,2018,19
+Land Rover,Range Rover Sport,2017,19
+Land Rover,Range Rover Sport,2016,19
+Land Rover,Range Rover Sport,2015,19
+Land Rover,Range Rover Sport,2014,19
+Land Rover,Range Rover Sport,2013,15
+Land Rover,Range Rover Sport,2012,15
+Land Rover,Range Rover Sport,2011,15
+Land Rover,Range Rover Sport,2010,15
+Land Rover,Range Rover Sport,2009,15
+Land Rover,Range Rover Sport,2008,15
+Land Rover,Range Rover Sport,2007,14
+Land Rover,Range Rover Sport,2006,14
+Land Rover,Range Rover Velar,2020,23
+Land Rover,Range Rover Velar,2019,23
+Land Rover,Range Rover Velar,2018,23
+Land Rover,Range Rover Evoque,2020,23
+Land Rover,Range Rover Evoque,2019,25
+Land Rover,Range Rover Evoque,2018,25
+Land Rover,Range Rover Evoque,2016,24
+Land Rover,Range Rover Evoque,2015,24
+Land Rover,Range Rover Evoque,2014,24
+Land Rover,Range Rover Evoque,2013,23
+Land Rover,Range Rover Evoque,2012,22
 Lexus,ES,2020,26
 Lexus,ES,2019,26
 Lexus,ES,2018,24

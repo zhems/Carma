@@ -1,0 +1,5041 @@
+Make,Model,Year,Cons_Rating
+Acura,ILX,2020,4.4 
+Acura,ILX,2019,4.4 
+Acura,ILX,2018,4.4 
+Acura,ILX,2017,4.4 
+Acura,ILX,2016,4.4 
+Acura,ILX,2015,4.4 
+Acura,ILX,2014,4.4 
+Acura,ILX,2013,4.4 
+Acura,RLX,2019,4.3 
+Acura,RLX,2018,4.3 
+Acura,RLX,2017,4.3 
+Acura,RLX,2016,4.3 
+Acura,RLX,2015,4.3 
+Acura,RLX,2014,4.3 
+Acura,TLX,2020,4.3 
+Acura,TLX,2019,4.3 
+Acura,TLX,2018,4.3 
+Acura,TLX,2017,4.3 
+Acura,TLX,2016,4.3 
+Acura,TLX,2015,4.3 
+Acura,MDX,2020,4.2 
+Acura,MDX,2019,4.2 
+Acura,MDX,2018,4.2 
+Acura,MDX,2017,4.2 
+Acura,MDX,2016,4.2 
+Acura,MDX,2015,4.2 
+Acura,MDX,2014,4.2 
+Acura,MDX,2013,4.6 
+Acura,MDX,2012,4.6 
+Acura,MDX,2011,4.6 
+Acura,MDX,2010,4.6 
+Acura,MDX,2009,4.6 
+Acura,MDX,2008,4.6 
+Acura,MDX,2007,4.6 
+Acura,MDX,2006,4.6 
+Acura,MDX,2005,4.6 
+Acura,MDX,2004,4.6 
+Acura,MDX,2003,4.6 
+Acura,MDX,2002,4.6 
+Acura,MDX,2001,4.6 
+Acura,MDX Sport Hybrid,2019,4.2 
+Acura,MDX Sport Hybrid,2018,4.2 
+Acura,MDX Sport Hybrid,2017,4.2 
+Acura,RDX,2020,4.2 
+Acura,RDX,2019,4.2 
+Acura,RDX,2018,4.4 
+Acura,RDX,2017,4.4 
+Acura,RDX,2016,4.4 
+Acura,RDX,2015,4.4 
+Acura,RDX,2014,4.4 
+Acura,RDX,2013,4.4 
+Acura,RDX,2012,4.4 
+Acura,RDX,2011,4.4 
+Acura,RDX,2010,4.4 
+Acura,RDX,2009,4.4 
+Acura,RDX,2008,4.4 
+Acura,RDX,2007,4.4 
+Acura,NSX,2005,4.8 
+Acura,NSX,2004,4.8 
+Acura,NSX,2003,4.8 
+Acura,NSX,2002,4.8 
+Acura,NSX,2001,4.8 
+Acura,NSX,2000,4.8 
+Acura,NSX,1999,4.8 
+Acura,NSX,1998,4.8 
+Acura,NSX,1997,4.8 
+Acura,NSX,1996,4.8 
+Acura,NSX,1995,4.8 
+Acura,NSX,1994,4.8 
+Acura,NSX,1993,4.8 
+Acura,NSX,1992,4.8 
+Alfa Romeo,Giulia,2019,4.9 
+Alfa Romeo,Giulia,2018,4.9 
+Alfa Romeo,Giulia,2017,4.9 
+Alfa Romeo,Stelvio,2019,5.0 
+Alfa Romeo,Stelvio,2018,5.0 
+Alfa Romeo,4C,2018,5.0 
+Alfa Romeo,4C,2017,5.0 
+Alfa Romeo,4C,2016,5.0 
+Alfa Romeo,4C,2015,5.0 
+Alfa Romeo,4C Spider,2019,5.0 
+Alfa Romeo,4C Spider,2018,5.0 
+Alfa Romeo,4C Spider,2016,5.0 
+Alfa Romeo,4C Spider,2015,5.0 
+Aston Martin,Vanquish S,2018,5.0 
+Audi,A3,2019,4.7 
+Audi,A3,2018,4.7 
+Audi,A3,2017,4.7 
+Audi,A3,2016,4.7 
+Audi,A3,2015,4.7 
+Audi,A3,2013,4.6 
+Audi,A3,2012,4.6 
+Audi,A3,2011,4.6 
+Audi,A3,2010,4.6 
+Audi,A3,2009,4.6 
+Audi,A3,2008,4.6 
+Audi,A3,2007,4.6 
+Audi,A3,2006,4.6 
+Audi,A4,2019,4.5 
+Audi,A4,2018,4.5 
+Audi,A4,2017,4.5 
+Audi,A4,2016,4.5 
+Audi,A4,2015,4.5 
+Audi,A4,2014,4.5 
+Audi,A4,2013,4.5 
+Audi,A4,2012,4.5 
+Audi,A4,2011,4.5 
+Audi,A4,2010,4.5 
+Audi,A4,2009,4.5 
+Audi,A4,2008,4.4 
+Audi,A4,2007,4.4 
+Audi,A4,2006,4.4 
+Audi,A4,2005,4.4 
+Audi,A4,2004,4.0 
+Audi,A4,2003,4.0 
+Audi,A4,2002,4.0 
+Audi,A4,2001,4.0 
+Audi,A4,2000,4.3 
+Audi,A4,1999,4.3 
+Audi,A4,1998,4.3 
+Audi,A4,1997,4.3 
+Audi,A4,1996,4.3 
+Audi,A5,2019,4.5 
+Audi,A5,2018,4.5 
+Audi,A5,2016,4.7 
+Audi,A5,2015,4.7 
+Audi,A5,2014,4.7 
+Audi,A5,2013,4.7 
+Audi,A5,2012,4.7 
+Audi,A5,2011,4.7 
+Audi,A5,2010,4.7 
+Audi,A5,2009,4.7 
+Audi,A5,2008,4.7 
+Audi,A6,2019,5.0 
+Audi,A6,2018,4.7 
+Audi,A6,2017,4.7 
+Audi,A6,2016,4.7 
+Audi,A6,2015,4.7 
+Audi,A6,2014,4.7 
+Audi,A6,2013,4.7 
+Audi,A6,2012,4.7 
+Audi,A6,2011,4.6 
+Audi,A6,2010,4.6 
+Audi,A6,2009,4.6 
+Audi,A6,2008,4.6 
+Audi,A6,2007,4.6 
+Audi,A6,2006,4.6 
+Audi,A6,2005,4.6 
+Audi,A6,2004,4.2 
+Audi,A6,2003,4.2 
+Audi,A6,2002,4.2 
+Audi,A6,2001,4.2 
+Audi,A6,2000,4.2 
+Audi,A6,1999,4.2 
+Audi,A6,1998,4.2 
+Audi,A6,1997,4.7 
+Audi,A6,1996,4.7 
+Audi,A6,1995,4.7 
+Audi,A7,2018,4.7 
+Audi,A7,2017,4.7 
+Audi,A7,2016,4.7 
+Audi,A7,2015,4.7 
+Audi,A7,2014,4.7 
+Audi,A7,2013,4.7 
+Audi,A7,2012,4.7 
+Audi,A8,2018,4.3 
+Audi,A8,2017,4.3 
+Audi,A8,2016,4.3 
+Audi,A8,2015,4.3 
+Audi,A8,2014,4.3 
+Audi,A8,2013,4.3 
+Audi,A8,2012,4.3 
+Audi,A8,2011,4.3 
+Audi,A8,2010,4.6 
+Audi,A8,2009,4.6 
+Audi,A8,2008,4.6 
+Audi,A8,2007,4.6 
+Audi,A8,2006,4.6 
+Audi,A8,2005,4.6 
+Audi,A8,2004,4.6 
+Audi,A8,2003,4.6 
+Audi,A8,2002,4.6 
+Audi,A8,2001,4.6 
+Audi,A8,2000,4.6 
+Audi,A8,1999,4.6 
+Audi,A8,1998,4.6 
+Audi,A8,1997,4.6 
+Audi,RS 5,2019,5.0 
+Audi,RS 5,2018,5.0 
+Audi,RS 5,2015,4.8 
+Audi,RS 5,2014,4.8 
+Audi,RS 5,2013,4.8 
+Audi,S3,2019,4.5 
+Audi,S3,2018,4.5 
+Audi,S3,2017,4.5 
+Audi,S3,2016,4.5 
+Audi,S3,2015,4.5 
+Audi,S4,2016,4.9 
+Audi,S4,2015,4.9 
+Audi,S4,2014,4.9 
+Audi,S4,2013,4.9 
+Audi,S4,2012,4.9 
+Audi,S4,2011,4.9 
+Audi,S4,2010,4.9 
+Audi,S4,2009,4.9 
+Audi,S4,2008,4.8 
+Audi,S4,2007,4.8 
+Audi,S4,2006,4.8 
+Audi,S4,2005,4.8 
+Audi,S4,2004,4.7 
+Audi,S4,2002,4.4 
+Audi,S4,2001,4.4 
+Audi,S4,2000,4.4 
+Audi,S4,1994,4.9 
+Audi,S4,1993,4.9 
+Audi,S4,1992,4.9 
+Audi,S5,2019,5.0 
+Audi,S5,2018,5.0 
+Audi,S5,2017,4.9 
+Audi,S5,2016,4.9 
+Audi,S5,2015,4.9 
+Audi,S5,2014,4.9 
+Audi,S5,2013,4.9 
+Audi,S5,2012,4.9 
+Audi,S5,2011,4.9 
+Audi,S5,2010,4.9 
+Audi,S5,2009,4.9 
+Audi,S5,2008,4.9 
+Audi,S6,2018,4.8 
+Audi,S6,2017,4.8 
+Audi,S6,2016,4.8 
+Audi,S6,2015,4.8 
+Audi,S6,2014,4.8 
+Audi,S6,2013,4.8 
+Audi,S6,2011,5.0 
+Audi,S6,2010,5.0 
+Audi,S6,2009,5.0 
+Audi,S6,2008,5.0 
+Audi,S6,2007,5.0 
+Audi,S6,2003,4.8 
+Audi,S6,2002,4.8 
+Audi,S6,1995,5.0 
+Audi,S7,2018,5.0 
+Audi,S7,2017,5.0 
+Audi,S7,2016,5.0 
+Audi,S7,2015,5.0 
+Audi,S7,2014,5.0 
+Audi,S7,2013,5.0 
+Audi,S8,2018,5.0 
+Audi,S8,2017,5.0 
+Audi,S8,2016,5.0 
+Audi,S8,2015,5.0 
+Audi,S8,2014,5.0 
+Audi,S8,2013,5.0 
+Audi,S8,2009,4.9 
+Audi,S8,2008,4.9 
+Audi,S8,2007,4.9 
+Audi,S8,2003,4.8 
+Audi,S8,2002,4.8 
+Audi,S8,2001,4.8 
+Audi,Q3,2020,1.5 
+Audi,Q3,2019,1.5 
+Audi,Q3,2018,5.0 
+Audi,Q3,2017,5.0 
+Audi,Q3,2016,5.0 
+Audi,Q3,2015,5.0 
+Audi,Q5,2020,4.6 
+Audi,Q5,2019,4.6 
+Audi,Q5,2018,4.6 
+Audi,Q5,2017,4.4 
+Audi,Q5,2016,4.4 
+Audi,Q5,2015,4.4 
+Audi,Q5,2014,4.4 
+Audi,Q5,2013,4.4 
+Audi,Q5,2012,4.4 
+Audi,Q5,2011,4.4 
+Audi,Q5,2010,4.4 
+Audi,Q5,2009,4.4 
+Audi,Q7,2019,4.4 
+Audi,Q7,2018,4.4 
+Audi,Q7,2017,4.4 
+Audi,Q7,2015,4.4 
+Audi,Q7,2014,4.4 
+Audi,Q7,2013,4.4 
+Audi,Q7,2012,4.4 
+Audi,Q7,2011,4.4 
+Audi,Q7,2010,4.4 
+Audi,Q7,2009,4.4 
+Audi,Q7,2008,4.4 
+Audi,Q7,2007,4.4 
+Audi,SQ5,2018,4.6 
+Audi,SQ5,2017,4.7 
+Audi,SQ5,2016,4.7 
+Audi,SQ5,2015,4.7 
+Audi,SQ5,2014,4.7 
+Audi,A3 Sportback e-tron,2018,4.8 
+Audi,A3 Sportback e-tron,2017,4.8 
+Audi,A3 Sportback e-tron,2016,4.8 
+Audi,R8,2020,3.0 
+Audi,R8,2018,3.0 
+Audi,R8,2017,3.0 
+Audi,R8,2015,4.5 
+Audi,R8,2014,4.5 
+Audi,R8,2012,4.5 
+Audi,R8,2011,4.5 
+Audi,R8,2010,4.5 
+Audi,R8,2009,4.5 
+Audi,R8,2008,4.5 
+Audi,TT,2019,5.0 
+Audi,TT,2018,5.0 
+Audi,TT,2017,5.0 
+Audi,TT,2016,5.0 
+Audi,TT,2015,4.5 
+Audi,TT,2014,4.5 
+Audi,TT,2013,4.5 
+Audi,TT,2012,4.5 
+Audi,TT,2011,4.5 
+Audi,TT,2010,4.5 
+Audi,TT,2009,4.5 
+Audi,TT,2008,4.5 
+Audi,TT,2006,4.4 
+Audi,TT,2005,4.4 
+Audi,TT,2004,4.4 
+Audi,TT,2003,4.4 
+Audi,TT,2002,4.4 
+Audi,TT,2001,4.4 
+Audi,TT,2000,4.4 
+Bentley,Continental,2018,5.0 
+Bentley,Continental,2017,5.0 
+Bentley,Continental,2016,5.0 
+Bentley,Continental,2015,5.0 
+Bentley,Continental,2014,5.0 
+Bentley,Continental,2013,5.0 
+Bentley,Continental,2012,5.0 
+Bentley,Continental,2011,5.0 
+Bentley,Continental,2010,5.0 
+Bentley,Continental,2009,5.0 
+Bentley,Continental,2008,5.0 
+Bentley,Continental,2007,5.0 
+Bentley,Continental,2006,5.0 
+Bentley,Continental,2005,5.0 
+BMW,3 Series,2020,4.8 
+BMW,3 Series,2019,4.8 
+BMW,3 Series,2018,4.5 
+BMW,3 Series,2017,4.5 
+BMW,3 Series,2016,4.5 
+BMW,3 Series,2015,4.5 
+BMW,3 Series,2014,4.5 
+BMW,3 Series,2013,4.5 
+BMW,3 Series,2012,4.5 
+BMW,3 Series,2011,4.6 
+BMW,3 Series,2010,4.6 
+BMW,3 Series,2009,4.6 
+BMW,3 Series,2008,4.6 
+BMW,3 Series,2007,4.6 
+BMW,3 Series,2006,4.6 
+BMW,3 Series,2005,4.5 
+BMW,3 Series,2004,4.5 
+BMW,3 Series,2003,4.5 
+BMW,3 Series,2002,4.5 
+BMW,3 Series,2001,4.5 
+BMW,3 Series,2000,4.5 
+BMW,3 Series,1999,4.6 
+BMW,3 Series,1998,4.6 
+BMW,3 Series,1997,4.6 
+BMW,3 Series,1996,4.6 
+BMW,3 Series,1995,4.6 
+BMW,3 Series,1994,4.6 
+BMW,3 Series,1993,4.6 
+BMW,3 Series,1992,4.7 
+BMW,4 Series,2019,4.9 
+BMW,4 Series,2018,4.9 
+BMW,4 Series,2017,4.9 
+BMW,4 Series,2016,4.9 
+BMW,4 Series,2015,4.9 
+BMW,4 Series,2014,4.9 
+BMW,5 Series,2019,5.0 
+BMW,5 Series,2018,5.0 
+BMW,5 Series,2017,5.0 
+BMW,5 Series,2016,4.3 
+BMW,5 Series,2015,4.3 
+BMW,5 Series,2014,4.3 
+BMW,5 Series,2013,4.3 
+BMW,5 Series,2012,4.3 
+BMW,5 Series,2011,4.3 
+BMW,5 Series,2010,4.6 
+BMW,5 Series,2009,4.6 
+BMW,5 Series,2008,4.6 
+BMW,5 Series,2007,4.6 
+BMW,5 Series,2006,4.6 
+BMW,5 Series,2005,4.6 
+BMW,5 Series,2004,4.6 
+BMW,5 Series,2003,4.6 
+BMW,5 Series,2002,4.6 
+BMW,5 Series,2001,4.6 
+BMW,5 Series,2000,4.6 
+BMW,5 Series,1999,4.6 
+BMW,5 Series,1998,4.6 
+BMW,5 Series,1997,4.6 
+BMW,5 Series,1995,4.7 
+BMW,5 Series,1994,4.7 
+BMW,5 Series,1993,4.7 
+BMW,5 Series,1992,4.7 
+BMW,6 Series,2019,4.7 
+BMW,6 Series,2018,4.7 
+BMW,6 Series,2017,4.7 
+BMW,6 Series,2016,4.7 
+BMW,6 Series,2015,4.7 
+BMW,6 Series,2014,4.7 
+BMW,6 Series,2013,4.7 
+BMW,6 Series,2012,4.7 
+BMW,6 Series,2010,4.7 
+BMW,6 Series,2009,4.7 
+BMW,6 Series,2008,4.7 
+BMW,6 Series,2007,4.7 
+BMW,6 Series,2006,4.7 
+BMW,6 Series,2005,4.7 
+BMW,6 Series,2004,4.7 
+BMW,7 Series,2020,4.4 
+BMW,7 Series,2019,4.4 
+BMW,7 Series,2018,4.4 
+BMW,7 Series,2017,4.4 
+BMW,7 Series,2016,4.4 
+BMW,7 Series,2015,4.2 
+BMW,7 Series,2014,4.2 
+BMW,7 Series,2013,4.2 
+BMW,7 Series,2012,4.2 
+BMW,7 Series,2011,4.2 
+BMW,7 Series,2010,4.2 
+BMW,7 Series,2009,4.2 
+BMW,7 Series,2008,4.3 
+BMW,7 Series,2007,4.3 
+BMW,7 Series,2006,4.3 
+BMW,7 Series,2005,4.3 
+BMW,7 Series,2004,4.3 
+BMW,7 Series,2003,4.3 
+BMW,7 Series,2002,4.3 
+BMW,7 Series,2001,4.5 
+BMW,7 Series,2000,4.5 
+BMW,7 Series,1999,4.5 
+BMW,7 Series,1998,4.5 
+BMW,7 Series,1997,4.5 
+BMW,7 Series,1996,4.5 
+BMW,7 Series,1995,4.5 
+BMW,7 Series,1994,4.6 
+BMW,7 Series,1993,4.6 
+BMW,7 Series,1992,4.6 
+BMW,M3,2018,4.7 
+BMW,M3,2017,4.7 
+BMW,M3,2016,4.7 
+BMW,M3,2015,4.7 
+BMW,M3,2013,4.5 
+BMW,M3,2012,4.5 
+BMW,M3,2011,4.5 
+BMW,M3,2010,4.5 
+BMW,M3,2009,4.5 
+BMW,M3,2008,4.5 
+BMW,M3,2006,4.8 
+BMW,M3,2005,4.8 
+BMW,M3,2004,4.8 
+BMW,M3,2003,4.8 
+BMW,M3,2002,4.8 
+BMW,M3,2001,4.8 
+BMW,M3,1999,4.9 
+BMW,M3,1998,4.9 
+BMW,M3,1997,4.9 
+BMW,M3,1996,4.9 
+BMW,M3,1995,4.9 
+BMW,M5,2019,5.0 
+BMW,M5,2018,5.0 
+BMW,M5,2016,5.0 
+BMW,M5,2015,5.0 
+BMW,M5,2014,5.0 
+BMW,M5,2013,5.0 
+BMW,M5,2010,4.8 
+BMW,M5,2009,4.8 
+BMW,M5,2008,4.8 
+BMW,M5,2007,4.8 
+BMW,M5,2006,4.8 
+BMW,M5,2003,5.0 
+BMW,M5,2002,5.0 
+BMW,M5,2001,5.0 
+BMW,M5,2000,5.0 
+BMW,M5,1993,4.8 
+BMW,M5,1992,4.8 
+BMW,M6,2019,5.0 
+BMW,M6,2018,5.0 
+BMW,M6,2017,5.0 
+BMW,M6,2016,5.0 
+BMW,M6,2015,5.0 
+BMW,M6,2014,5.0 
+BMW,M6,2013,5.0 
+BMW,M6,2012,5.0 
+BMW,M6,2010,4.9 
+BMW,M6,2009,4.9 
+BMW,M6,2008,4.9 
+BMW,M6,2007,4.9 
+BMW,M6,2006,4.9 
+BMW,X1,2019,4.2 
+BMW,X1,2018,4.2 
+BMW,X1,2017,4.2 
+BMW,X1,2016,4.2 
+BMW,X1,2015,4.5 
+BMW,X1,2014,4.5 
+BMW,X1,2013,4.5 
+BMW,X2,2019,5.0 
+BMW,X2,2018,5.0 
+BMW,X3,2020,4.0 
+BMW,X3,2019,4.0 
+BMW,X3,2018,4.0 
+BMW,X3,2017,4.4 
+BMW,X3,2016,4.4 
+BMW,X3,2015,4.4 
+BMW,X3,2014,4.4 
+BMW,X3,2013,4.4 
+BMW,X3,2012,4.4 
+BMW,X3,2011,4.4 
+BMW,X3,2010,4.2 
+BMW,X3,2009,4.2 
+BMW,X3,2008,4.2 
+BMW,X3,2007,4.2 
+BMW,X3,2006,4.2 
+BMW,X3,2005,4.2 
+BMW,X3,2004,4.2 
+BMW,X4,2019,3.7 
+BMW,X4,2018,5.0 
+BMW,X4,2017,5.0 
+BMW,X4,2016,5.0 
+BMW,X4,2015,5.0 
+BMW,X5,2020,4.5 
+BMW,X5,2019,4.5 
+BMW,X5,2018,4.4 
+BMW,X5,2017,4.4 
+BMW,X5,2016,4.4 
+BMW,X5,2015,4.4 
+BMW,X5,2014,4.4 
+BMW,X5,2013,4.1 
+BMW,X5,2012,4.1 
+BMW,X5,2011,4.1 
+BMW,X5,2010,4.1 
+BMW,X5,2009,4.1 
+BMW,X5,2008,4.1 
+BMW,X5,2007,4.1 
+BMW,X5,2006,4.4 
+BMW,X5,2005,4.4 
+BMW,X5,2004,4.4 
+BMW,X5,2003,4.4 
+BMW,X5,2002,4.4 
+BMW,X5,2001,4.4 
+BMW,X5,2000,4.4 
+BMW,X5 M,2018,4.4 
+BMW,X5 M,2017,4.4 
+BMW,X5 M,2016,4.4 
+BMW,X5 M,2015,4.4 
+BMW,X5 M,2013,4.1 
+BMW,X5 M,2012,4.1 
+BMW,X5 M,2011,4.1 
+BMW,X5 M,2010,4.1 
+BMW,X6,2019,5.0 
+BMW,X6,2018,5.0 
+BMW,X6,2017,5.0 
+BMW,X6,2016,5.0 
+BMW,X6,2015,5.0 
+BMW,X6,2014,4.8 
+BMW,X6,2013,4.8 
+BMW,X6,2012,4.8 
+BMW,X6,2011,4.8 
+BMW,X6,2010,4.8 
+BMW,X6,2009,4.8 
+BMW,X6,2008,4.8 
+BMW,X6 M,2019,5.0 
+BMW,X6 M,2018,5.0 
+BMW,X6 M,2017,5.0 
+BMW,X6 M,2016,5.0 
+BMW,X6 M,2015,5.0 
+BMW,X6 M,2014,4.8 
+BMW,X6 M,2013,4.8 
+BMW,X6 M,2012,4.8 
+BMW,X6 M,2011,4.8 
+BMW,X6 M,2010,4.8 
+BMW,2 Series,2019,4.9 
+BMW,2 Series,2018,4.9 
+BMW,2 Series,2017,4.9 
+BMW,2 Series,2016,4.9 
+BMW,2 Series,2015,4.9 
+BMW,2 Series,2014,4.9 
+BMW,8 Series,2019,5.0 
+BMW,8 Series,1997,4.8 
+BMW,8 Series,1996,4.8 
+BMW,8 Series,1995,4.8 
+BMW,8 Series,1994,4.8 
+BMW,8 Series,1993,4.8 
+BMW,8 Series,1992,4.8 
+BMW,i3,2019,4.4 
+BMW,i3,2018,4.4 
+BMW,i3,2017,4.4 
+BMW,i3,2016,4.4 
+BMW,i3,2015,4.4 
+BMW,i3,2014,4.4 
+BMW,i8,2019,5.0 
+BMW,i8,2017,5.0 
+BMW,i8,2016,5.0 
+BMW,i8,2015,5.0 
+BMW,i8,2014,5.0 
+BMW,M4,2019,5.0 
+BMW,M4,2018,5.0 
+BMW,M4,2017,5.0 
+BMW,M4,2016,5.0 
+BMW,M4,2015,5.0 
+BMW,M6,2019,5.0 
+BMW,M6,2018,5.0 
+BMW,M6,2017,5.0 
+BMW,M6,2016,5.0 
+BMW,M6,2015,5.0 
+BMW,M6,2014,5.0 
+BMW,M6,2013,5.0 
+BMW,M6,2012,5.0 
+BMW,M6,2010,4.9 
+BMW,M6,2009,4.9 
+BMW,M6,2008,4.9 
+BMW,M6,2007,4.9 
+BMW,M6,2006,4.9 
+BMW,Z4,2016,4.6 
+BMW,Z4,2015,4.6 
+BMW,Z4,2014,4.6 
+BMW,Z4,2013,4.6 
+BMW,Z4,2012,4.6 
+BMW,Z4,2011,4.6 
+BMW,Z4,2010,4.6 
+BMW,Z4,2009,4.6 
+BMW,Z4,2008,4.8 
+BMW,Z4,2007,4.8 
+BMW,Z4,2006,4.8 
+BMW,Z4,2005,4.8 
+BMW,Z4,2004,4.8 
+BMW,Z4,2003,4.8 
+BMW,3 Series,2020,4.8 
+BMW,3 Series,2019,4.8 
+BMW,3 Series,2018,4.5 
+BMW,3 Series,2017,4.5 
+BMW,3 Series,2016,4.5 
+BMW,3 Series,2015,4.5 
+BMW,3 Series,2014,4.5 
+BMW,3 Series,2013,4.5 
+BMW,3 Series,2012,4.5 
+BMW,3 Series,2011,4.6 
+BMW,3 Series,2010,4.6 
+BMW,3 Series,2009,4.6 
+BMW,3 Series,2008,4.6 
+BMW,3 Series,2007,4.6 
+BMW,3 Series,2006,4.6 
+BMW,3 Series,2005,4.5 
+BMW,3 Series,2004,4.5 
+BMW,3 Series,2003,4.5 
+BMW,3 Series,2002,4.5 
+BMW,3 Series,2001,4.5 
+BMW,3 Series,2000,4.5 
+BMW,3 Series,1999,4.6 
+BMW,3 Series,1998,4.6 
+BMW,3 Series,1997,4.6 
+BMW,3 Series,1996,4.6 
+BMW,3 Series,1995,4.6 
+BMW,3 Series,1994,4.6 
+BMW,3 Series,1993,4.6 
+BMW,3 Series,1992,4.7 
+BMW,3 Series,2020,4.8 
+BMW,3 Series,2019,4.8 
+BMW,3 Series,2018,4.5 
+BMW,3 Series,2017,4.5 
+BMW,3 Series,2016,4.5 
+BMW,3 Series,2015,4.5 
+BMW,3 Series,2014,4.5 
+BMW,3 Series,2013,4.5 
+BMW,3 Series,2012,4.5 
+BMW,3 Series,2011,4.6 
+BMW,3 Series,2010,4.6 
+BMW,3 Series,2009,4.6 
+BMW,3 Series,2008,4.6 
+BMW,3 Series,2007,4.6 
+BMW,3 Series,2006,4.6 
+BMW,3 Series,2005,4.5 
+BMW,3 Series,2004,4.5 
+BMW,3 Series,2003,4.5 
+BMW,3 Series,2002,4.5 
+BMW,3 Series,2001,4.5 
+BMW,3 Series,2000,4.5 
+BMW,3 Series,1999,4.6 
+BMW,3 Series,1998,4.6 
+BMW,3 Series,1997,4.6 
+BMW,3 Series,1996,4.6 
+BMW,3 Series,1995,4.6 
+BMW,3 Series,1994,4.6 
+BMW,3 Series,1993,4.6 
+BMW,3 Series,1992,4.7 
+Buick,LaCrosse,2019,4.3 
+Buick,LaCrosse,2018,4.3 
+Buick,LaCrosse,2017,4.3 
+Buick,LaCrosse,2016,4.5 
+Buick,LaCrosse,2015,4.5 
+Buick,LaCrosse,2014,4.5 
+Buick,LaCrosse,2013,4.5 
+Buick,LaCrosse,2012,4.5 
+Buick,LaCrosse,2011,4.5 
+Buick,LaCrosse,2010,4.5 
+Buick,LaCrosse,2009,4.4 
+Buick,LaCrosse,2008,4.4 
+Buick,LaCrosse,2007,4.4 
+Buick,LaCrosse,2006,4.4 
+Buick,LaCrosse,2005,4.4 
+Buick,Regal Sportback,2019,4.3 
+Buick,Regal Sportback,2018,4.3 
+Buick,Enclave,2020,4.3 
+Buick,Enclave,2019,4.3 
+Buick,Enclave,2018,4.3 
+Buick,Enclave,2017,4.5 
+Buick,Enclave,2016,4.5 
+Buick,Enclave,2015,4.5 
+Buick,Enclave,2014,4.5 
+Buick,Enclave,2013,4.5 
+Buick,Enclave,2012,4.5 
+Buick,Enclave,2011,4.5 
+Buick,Enclave,2010,4.5 
+Buick,Enclave,2009,4.5 
+Buick,Enclave,2008,4.5 
+Buick,Encore,2020,4.4 
+Buick,Encore,2019,4.4 
+Buick,Encore,2018,4.4 
+Buick,Encore,2017,4.4 
+Buick,Encore,2016,4.4 
+Buick,Encore,2015,4.4 
+Buick,Encore,2014,4.4 
+Buick,Encore,2013,4.4 
+Buick,Envision,2020,4.5 
+Buick,Envision,2019,4.5 
+Buick,Envision,2018,4.5 
+Buick,Envision,2017,4.5 
+Buick,Envision,2016,4.5 
+Buick,Cascada,2019,4.5 
+Buick,Cascada,2018,4.5 
+Buick,Cascada,2017,4.5 
+Buick,Cascada,2016,4.5 
+Buick,Regal TourX,2019,4.3 
+Buick,Regal TourX,2018,4.3 
+Cadillac,CT6,2019,3.8 
+Cadillac,CT6,2018,3.8 
+Cadillac,CT6,2017,3.8 
+Cadillac,CT6,2016,3.8 
+Cadillac,CTS,2019,4.8 
+Cadillac,CTS,2018,4.8 
+Cadillac,CTS,2017,4.8 
+Cadillac,CTS,2016,4.8 
+Cadillac,CTS,2015,4.8 
+Cadillac,CTS,2014,4.8 
+Cadillac,CTS,2013,4.6 
+Cadillac,CTS,2012,4.6 
+Cadillac,CTS,2011,4.6 
+Cadillac,CTS,2010,4.6 
+Cadillac,CTS,2009,4.6 
+Cadillac,CTS,2008,4.6 
+Cadillac,CTS,2007,4.4 
+Cadillac,CTS,2006,4.4 
+Cadillac,CTS,2005,4.4 
+Cadillac,CTS,2004,4.4 
+Cadillac,CTS,2003,4.4 
+Cadillac,XTS,2019,4.5 
+Cadillac,XTS,2018,4.5 
+Cadillac,XTS,2017,4.5 
+Cadillac,XTS,2016,4.5 
+Cadillac,XTS,2015,4.5 
+Cadillac,XTS,2014,4.5 
+Cadillac,XTS,2013,4.5 
+Cadillac,Escalade,2020,3.6 
+Cadillac,Escalade,2019,3.6 
+Cadillac,Escalade,2018,3.6 
+Cadillac,Escalade,2017,3.6 
+Cadillac,Escalade,2016,3.6 
+Cadillac,Escalade,2015,3.6 
+Cadillac,Escalade,2014,4.3 
+Cadillac,Escalade,2013,4.3 
+Cadillac,Escalade,2012,4.3 
+Cadillac,Escalade,2011,4.3 
+Cadillac,Escalade,2010,4.3 
+Cadillac,Escalade,2009,4.3 
+Cadillac,Escalade,2008,4.3 
+Cadillac,Escalade,2007,4.3 
+Cadillac,Escalade,2006,4.7 
+Cadillac,Escalade,2005,4.7 
+Cadillac,Escalade,2004,4.7 
+Cadillac,Escalade,2003,4.7 
+Cadillac,Escalade,2002,4.7 
+Cadillac,Escalade,2000,4.6 
+Cadillac,Escalade,1999,4.6 
+Cadillac,Escalade ESV,2020,3.6 
+Cadillac,Escalade ESV,2019,3.6 
+Cadillac,Escalade ESV,2018,3.6 
+Cadillac,Escalade ESV,2017,3.6 
+Cadillac,Escalade ESV,2016,3.6 
+Cadillac,Escalade ESV,2015,3.6 
+Cadillac,Escalade ESV,2014,4.3 
+Cadillac,Escalade ESV,2013,4.3 
+Cadillac,Escalade ESV,2012,4.3 
+Cadillac,Escalade ESV,2011,4.3 
+Cadillac,Escalade ESV,2010,4.3 
+Cadillac,Escalade ESV,2009,4.3 
+Cadillac,Escalade ESV,2008,4.3 
+Cadillac,Escalade ESV,2007,4.3 
+Cadillac,Escalade ESV,2006,4.7 
+Cadillac,Escalade ESV,2005,4.7 
+Cadillac,Escalade ESV,2004,4.7 
+Cadillac,Escalade ESV,2003,4.7 
+Cadillac,XT4,2020,5.0 
+Cadillac,XT4,2019,5.0 
+Cadillac,XT5,2020,4.1 
+Cadillac,XT5,2019,4.1 
+Cadillac,XT5,2018,4.1 
+Cadillac,XT5,2017,4.1 
+Cadillac,ATS,2019,4.4 
+Cadillac,ATS,2018,4.4 
+Cadillac,ATS,2017,4.4 
+Cadillac,ATS,2016,4.4 
+Cadillac,ATS,2015,4.4 
+Cadillac,ATS,2014,4.4 
+Cadillac,ATS,2013,4.4 
+Cadillac,ATS-V,2019,5.0 
+Cadillac,ATS-V,2018,5.0 
+Cadillac,ATS-V,2017,5.0 
+Cadillac,ATS-V,2016,5.0 
+Cadillac,CT6,2019,3.8 
+Cadillac,CT6,2018,3.8 
+Cadillac,CT6,2017,3.8 
+Cadillac,CT6,2016,3.8 
+Chevrolet,Bolt EV,2020,4.9 
+Chevrolet,Bolt EV,2019,4.9 
+Chevrolet,Bolt EV,2018,4.9 
+Chevrolet,Bolt EV,2017,4.9 
+Chevrolet,Cruze,2019,4.1 
+Chevrolet,Cruze,2018,4.1 
+Chevrolet,Cruze,2017,4.1 
+Chevrolet,Cruze,2016,4.1 
+Chevrolet,Cruze,2015,4.3 
+Chevrolet,Cruze,2014,4.3 
+Chevrolet,Cruze,2013,4.3 
+Chevrolet,Cruze,2012,4.3 
+Chevrolet,Cruze,2011,4.3 
+Chevrolet,Impala,2019,4.8 
+Chevrolet,Impala,2018,4.8 
+Chevrolet,Impala,2017,4.8 
+Chevrolet,Impala,2016,4.8 
+Chevrolet,Impala,2015,4.8 
+Chevrolet,Impala,2014,4.8 
+Chevrolet,Impala,2013,4.3 
+Chevrolet,Impala,2012,4.3 
+Chevrolet,Impala,2011,4.3 
+Chevrolet,Impala,2010,4.3 
+Chevrolet,Impala,2009,4.3 
+Chevrolet,Impala,2008,4.3 
+Chevrolet,Impala,2007,4.3 
+Chevrolet,Impala,2006,4.3 
+Chevrolet,Impala,2005,4.3 
+Chevrolet,Impala,2004,4.3 
+Chevrolet,Impala,2003,4.3 
+Chevrolet,Impala,2002,4.3 
+Chevrolet,Impala,2001,4.3 
+Chevrolet,Impala,2000,4.3 
+Chevrolet,Impala,1996,4.4 
+Chevrolet,Impala,1995,4.4 
+Chevrolet,Impala,1994,4.4 
+Chevrolet,Malibu,2020,4.3 
+Chevrolet,Malibu,2019,4.3 
+Chevrolet,Malibu,2018,4.3 
+Chevrolet,Malibu,2017,4.3 
+Chevrolet,Malibu,2016,4.3 
+Chevrolet,Malibu,2015,4.3 
+Chevrolet,Malibu,2014,4.3 
+Chevrolet,Malibu,2013,4.3 
+Chevrolet,Malibu,2012,4.4 
+Chevrolet,Malibu,2011,4.4 
+Chevrolet,Malibu,2010,4.4 
+Chevrolet,Malibu,2009,4.4 
+Chevrolet,Malibu,2008,4.4 
+Chevrolet,Malibu,2007,4.3 
+Chevrolet,Malibu,2006,4.3 
+Chevrolet,Malibu,2005,4.3 
+Chevrolet,Malibu,2004,4.3 
+Chevrolet,Malibu,2003,3.7 
+Chevrolet,Malibu,2002,3.7 
+Chevrolet,Malibu,2001,3.7 
+Chevrolet,Malibu,2000,3.7 
+Chevrolet,Malibu,1999,3.7 
+Chevrolet,Malibu,1998,3.7 
+Chevrolet,Malibu,1997,3.7 
+Chevrolet,Sonic,2019,4.4 
+Chevrolet,Sonic,2018,4.4 
+Chevrolet,Sonic,2017,4.4 
+Chevrolet,Sonic,2016,4.4 
+Chevrolet,Sonic,2015,4.4 
+Chevrolet,Sonic,2014,4.4 
+Chevrolet,Sonic,2013,4.4 
+Chevrolet,Sonic,2012,4.4 
+Chevrolet,Volt,2019,4.6 
+Chevrolet,Volt,2018,4.6 
+Chevrolet,Volt,2017,4.6 
+Chevrolet,Volt,2016,4.6 
+Chevrolet,Volt,2015,4.7 
+Chevrolet,Volt,2014,4.7 
+Chevrolet,Volt,2013,4.7 
+Chevrolet,Volt,2012,4.7 
+Chevrolet,Volt,2011,4.7 
+Chevrolet,Blazer,2020,4.7 
+Chevrolet,Blazer,2019,4.7 
+Chevrolet,Blazer,2005,4.0 
+Chevrolet,Blazer,2004,4.0 
+Chevrolet,Blazer,2003,4.0 
+Chevrolet,Blazer,2002,4.0 
+Chevrolet,Blazer,2001,4.0 
+Chevrolet,Blazer,2000,4.0 
+Chevrolet,Blazer,1999,4.0 
+Chevrolet,Blazer,1998,4.0 
+Chevrolet,Blazer,1997,4.0 
+Chevrolet,Blazer,1996,4.0 
+Chevrolet,Blazer,1995,4.0 
+Chevrolet,Blazer,1994,4.3 
+Chevrolet,Blazer,1993,4.3 
+Chevrolet,Blazer,1992,4.3 
+Chevrolet,Equinox,2020,4.4 
+Chevrolet,Equinox,2019,4.4 
+Chevrolet,Equinox,2018,4.4 
+Chevrolet,Equinox,2017,4.1 
+Chevrolet,Equinox,2016,4.1 
+Chevrolet,Equinox,2015,4.1 
+Chevrolet,Equinox,2014,4.1 
+Chevrolet,Equinox,2013,4.1 
+Chevrolet,Equinox,2012,4.1 
+Chevrolet,Equinox,2011,4.1 
+Chevrolet,Equinox,2010,4.1 
+Chevrolet,Equinox,2009,3.9 
+Chevrolet,Equinox,2008,3.9 
+Chevrolet,Equinox,2007,3.9 
+Chevrolet,Equinox,2006,3.9 
+Chevrolet,Equinox,2005,3.9 
+Chevrolet,Suburban,2020,4.7 
+Chevrolet,Suburban,2019,4.7 
+Chevrolet,Suburban,2018,4.7 
+Chevrolet,Suburban,2017,4.7 
+Chevrolet,Suburban,2016,4.7 
+Chevrolet,Suburban,2015,4.7 
+Chevrolet,Tahoe,2020,4.0 
+Chevrolet,Tahoe,2019,4.0 
+Chevrolet,Tahoe,2018,4.0 
+Chevrolet,Tahoe,2017,4.0 
+Chevrolet,Tahoe,2016,4.0 
+Chevrolet,Tahoe,2015,4.0 
+Chevrolet,Tahoe,2014,4.5 
+Chevrolet,Tahoe,2013,4.5 
+Chevrolet,Tahoe,2012,4.5 
+Chevrolet,Tahoe,2011,4.5 
+Chevrolet,Tahoe,2010,4.5 
+Chevrolet,Tahoe,2009,4.5 
+Chevrolet,Tahoe,2008,4.5 
+Chevrolet,Tahoe,2007,4.5 
+Chevrolet,Tahoe,2006,4.7 
+Chevrolet,Tahoe,2005,4.7 
+Chevrolet,Tahoe,2004,4.7 
+Chevrolet,Tahoe,2003,4.7 
+Chevrolet,Tahoe,2002,4.7 
+Chevrolet,Tahoe,2001,4.7 
+Chevrolet,Tahoe,2000,4.7 
+Chevrolet,Tahoe,1999,4.6 
+Chevrolet,Tahoe,1998,4.6 
+Chevrolet,Tahoe,1997,4.6 
+Chevrolet,Tahoe,1996,4.6 
+Chevrolet,Tahoe,1995,4.6 
+Chevrolet,Traverse,2020,4.4 
+Chevrolet,Traverse,2019,4.4 
+Chevrolet,Traverse,2018,4.4 
+Chevrolet,Traverse,2017,4.2 
+Chevrolet,Traverse,2016,4.2 
+Chevrolet,Traverse,2015,4.2 
+Chevrolet,Traverse,2014,4.2 
+Chevrolet,Traverse,2013,4.2 
+Chevrolet,Traverse,2012,4.2 
+Chevrolet,Traverse,2011,4.2 
+Chevrolet,Traverse,2010,4.2 
+Chevrolet,Traverse,2009,4.2 
+Chevrolet,Trax,2020,4.5 
+Chevrolet,Trax,2019,4.5 
+Chevrolet,Trax,2018,4.5 
+Chevrolet,Trax,2017,4.5 
+Chevrolet,Trax,2016,4.5 
+Chevrolet,Trax,2015,4.5 
+Chevrolet,Colorado Crew Cab,2020,4.3 
+Chevrolet,Colorado Crew Cab,2019,4.3 
+Chevrolet,Colorado Crew Cab,2018,4.3 
+Chevrolet,Colorado Crew Cab,2017,4.3 
+Chevrolet,Colorado Crew Cab,2016,4.3 
+Chevrolet,Colorado Crew Cab,2015,4.3 
+Chevrolet,Colorado Crew Cab,2012,4.1 
+Chevrolet,Colorado Crew Cab,2011,4.1 
+Chevrolet,Colorado Crew Cab,2010,4.1 
+Chevrolet,Colorado Crew Cab,2009,4.1 
+Chevrolet,Colorado Crew Cab,2008,4.1 
+Chevrolet,Colorado Crew Cab,2007,4.1 
+Chevrolet,Colorado Crew Cab,2006,4.1 
+Chevrolet,Colorado Crew Cab,2005,4.1 
+Chevrolet,Colorado Crew Cab,2004,4.1 
+Chevrolet,Colorado Extended Cab,2019,4.3 
+Chevrolet,Colorado Extended Cab,2018,4.3 
+Chevrolet,Colorado Extended Cab,2017,4.3 
+Chevrolet,Colorado Extended Cab,2016,4.3 
+Chevrolet,Colorado Extended Cab,2015,4.3 
+Chevrolet,Colorado Extended Cab,2012,4.1 
+Chevrolet,Colorado Extended Cab,2011,4.1 
+Chevrolet,Colorado Extended Cab,2010,4.1 
+Chevrolet,Colorado Extended Cab,2009,4.1 
+Chevrolet,Colorado Extended Cab,2008,4.1 
+Chevrolet,Colorado Extended Cab,2007,4.1 
+Chevrolet,Colorado Extended Cab,2006,4.1 
+Chevrolet,Colorado Extended Cab,2005,4.1 
+Chevrolet,Colorado Extended Cab,2004,4.1 
+Chevrolet,Silverado 1500 Crew Cab,2020,3.7 
+Chevrolet,Silverado 1500 Crew Cab,2019,3.7 
+Chevrolet,Silverado 1500 Crew Cab,2018,4.5 
+Chevrolet,Silverado 1500 Crew Cab,2017,4.5 
+Chevrolet,Silverado 1500 Crew Cab,2016,4.5 
+Chevrolet,Silverado 1500 Crew Cab,2015,4.5 
+Chevrolet,Silverado 1500 Crew Cab,2014,4.5 
+Chevrolet,Silverado 1500 Crew Cab,2013,4.5 
+Chevrolet,Silverado 1500 Crew Cab,2012,4.5 
+Chevrolet,Silverado 1500 Crew Cab,2011,4.5 
+Chevrolet,Silverado 1500 Crew Cab,2010,4.5 
+Chevrolet,Silverado 1500 Crew Cab,2009,4.5 
+Chevrolet,Silverado 1500 Crew Cab,2008,4.5 
+Chevrolet,Silverado 1500 Crew Cab,2007,4.5 
+Chevrolet,Silverado 1500 Crew Cab,2006,4.6 
+Chevrolet,Silverado 1500 Crew Cab,2005,4.6 
+Chevrolet,Silverado 1500 Crew Cab,2004,4.6 
+Chevrolet,Silverado 1500 Double Cab,2019,3.7 
+Chevrolet,Silverado 1500 Double Cab,2018,4.5 
+Chevrolet,Silverado 1500 Double Cab,2017,4.5 
+Chevrolet,Silverado 1500 Double Cab,2016,4.5 
+Chevrolet,Silverado 1500 Double Cab,2015,4.5 
+Chevrolet,Silverado 1500 Double Cab,2014,4.5 
+Chevrolet,Silverado 1500 Regular Cab,2019,3.7 
+Chevrolet,Silverado 1500 Regular Cab,2018,4.5 
+Chevrolet,Silverado 1500 Regular Cab,2017,4.5 
+Chevrolet,Silverado 1500 Regular Cab,2016,4.5 
+Chevrolet,Silverado 1500 Regular Cab,2015,4.5 
+Chevrolet,Silverado 1500 Regular Cab,2014,4.5 
+Chevrolet,Silverado 1500 Regular Cab,2013,4.5 
+Chevrolet,Silverado 1500 Regular Cab,2012,4.5 
+Chevrolet,Silverado 1500 Regular Cab,2011,4.5 
+Chevrolet,Silverado 1500 Regular Cab,2010,4.5 
+Chevrolet,Silverado 1500 Regular Cab,2009,4.5 
+Chevrolet,Silverado 1500 Regular Cab,2008,4.5 
+Chevrolet,Silverado 1500 Regular Cab,2007,4.5 
+Chevrolet,Silverado 1500 Regular Cab,2006,4.6 
+Chevrolet,Silverado 1500 Regular Cab,2005,4.6 
+Chevrolet,Silverado 1500 Regular Cab,2004,4.6 
+Chevrolet,Silverado 1500 Regular Cab,2003,4.6 
+Chevrolet,Silverado 1500 Regular Cab,2002,4.6 
+Chevrolet,Silverado 1500 Regular Cab,2001,4.6 
+Chevrolet,Silverado 1500 Regular Cab,2000,4.6 
+Chevrolet,Silverado 1500 Regular Cab,1999,4.6 
+Chevrolet,Silverado 2500 HD Crew Cab,2019,4.6 
+Chevrolet,Silverado 2500 HD Crew Cab,2018,4.6 
+Chevrolet,Silverado 2500 HD Crew Cab,2017,4.6 
+Chevrolet,Silverado 2500 HD Crew Cab,2016,4.6 
+Chevrolet,Silverado 2500 HD Crew Cab,2015,4.6 
+Chevrolet,Silverado 2500 HD Crew Cab,2014,4.5 
+Chevrolet,Silverado 2500 HD Crew Cab,2013,4.5 
+Chevrolet,Silverado 2500 HD Crew Cab,2012,4.5 
+Chevrolet,Silverado 2500 HD Crew Cab,2011,4.5 
+Chevrolet,Silverado 2500 HD Crew Cab,2010,4.5 
+Chevrolet,Silverado 2500 HD Crew Cab,2009,4.5 
+Chevrolet,Silverado 2500 HD Crew Cab,2008,4.5 
+Chevrolet,Silverado 2500 HD Crew Cab,2007,4.5 
+Chevrolet,Silverado 2500 HD Crew Cab,2006,4.7 
+Chevrolet,Silverado 2500 HD Crew Cab,2005,4.7 
+Chevrolet,Silverado 2500 HD Crew Cab,2004,4.7 
+Chevrolet,Silverado 2500 HD Crew Cab,2003,4.7 
+Chevrolet,Silverado 2500 HD Crew Cab,2002,4.7 
+Chevrolet,Silverado 2500 HD Crew Cab,2001,4.7 
+Chevrolet,Silverado 2500 HD Double Cab,2019,4.6 
+Chevrolet,Silverado 2500 HD Double Cab,2018,4.6 
+Chevrolet,Silverado 2500 HD Double Cab,2017,4.6 
+Chevrolet,Silverado 2500 HD Double Cab,2016,4.6 
+Chevrolet,Silverado 2500 HD Double Cab,2015,4.6 
+Chevrolet,Silverado 2500 HD Regular Cab,2019,4.6 
+Chevrolet,Silverado 2500 HD Regular Cab,2018,4.6 
+Chevrolet,Silverado 2500 HD Regular Cab,2017,4.6 
+Chevrolet,Silverado 2500 HD Regular Cab,2016,4.6 
+Chevrolet,Silverado 2500 HD Regular Cab,2015,4.6 
+Chevrolet,Silverado 2500 HD Regular Cab,2014,4.5 
+Chevrolet,Silverado 2500 HD Regular Cab,2013,4.5 
+Chevrolet,Silverado 2500 HD Regular Cab,2012,4.5 
+Chevrolet,Silverado 2500 HD Regular Cab,2011,4.5 
+Chevrolet,Silverado 2500 HD Regular Cab,2010,4.5 
+Chevrolet,Silverado 2500 HD Regular Cab,2009,4.5 
+Chevrolet,Silverado 2500 HD Regular Cab,2008,4.5 
+Chevrolet,Silverado 2500 HD Regular Cab,2007,4.5 
+Chevrolet,Silverado 2500 HD Regular Cab,2006,4.7 
+Chevrolet,Silverado 2500 HD Regular Cab,2005,4.7 
+Chevrolet,Silverado 2500 HD Regular Cab,2004,4.7 
+Chevrolet,Silverado 2500 HD Regular Cab,2003,4.7 
+Chevrolet,Silverado 2500 HD Regular Cab,2002,4.7 
+Chevrolet,Silverado 2500 HD Regular Cab,2001,4.7 
+Chevrolet,Silverado 2500 HD Regular Cab,2000,4.7 
+Chevrolet,Silverado 2500 HD Regular Cab,1999,4.7 
+Chevrolet,Silverado 3500 HD Crew Cab,2019,4.0 
+Chevrolet,Silverado 3500 HD Crew Cab,2018,4.0 
+Chevrolet,Silverado 3500 HD Crew Cab,2017,4.0 
+Chevrolet,Silverado 3500 HD Crew Cab,2016,4.0 
+Chevrolet,Silverado 3500 HD Crew Cab,2015,4.0 
+Chevrolet,Silverado 3500 HD Crew Cab,2014,4.5 
+Chevrolet,Silverado 3500 HD Crew Cab,2013,4.5 
+Chevrolet,Silverado 3500 HD Crew Cab,2012,4.5 
+Chevrolet,Silverado 3500 HD Crew Cab,2011,4.5 
+Chevrolet,Silverado 3500 HD Crew Cab,2009,4.5 
+Chevrolet,Silverado 3500 HD Crew Cab,2008,4.5 
+Chevrolet,Silverado 3500 HD Crew Cab,2007,4.5 
+Chevrolet,Silverado 3500 HD Double Cab,2018,4.0 
+Chevrolet,Silverado 3500 HD Double Cab,2017,4.0 
+Chevrolet,Silverado 3500 HD Double Cab,2016,4.0 
+Chevrolet,Silverado 3500 HD Double Cab,2015,4.0 
+Chevrolet,Silverado 3500 HD Regular Cab,2018,4.0 
+Chevrolet,Silverado 3500 HD Regular Cab,2017,4.0 
+Chevrolet,Silverado 3500 HD Regular Cab,2016,4.0 
+Chevrolet,Silverado 3500 HD Regular Cab,2015,4.0 
+Chevrolet,Silverado 3500 HD Regular Cab,2014,4.5 
+Chevrolet,Silverado 3500 HD Regular Cab,2013,4.5 
+Chevrolet,Silverado 3500 HD Regular Cab,2012,4.5 
+Chevrolet,Silverado 3500 HD Regular Cab,2011,4.5 
+Chevrolet,Silverado 3500 HD Regular Cab,2010,4.5 
+Chevrolet,Silverado 3500 HD Regular Cab,2009,4.5 
+Chevrolet,Silverado 3500 HD Regular Cab,2008,4.5 
+Chevrolet,Silverado 3500 HD Regular Cab,2007,4.5 
+Chevrolet,Express 2500 Cargo,2019,4.3 
+Chevrolet,Express 2500 Cargo,2018,4.3 
+Chevrolet,Express 2500 Cargo,2017,4.3 
+Chevrolet,Express 2500 Cargo,2016,4.3 
+Chevrolet,Express 2500 Cargo,2015,4.3 
+Chevrolet,Express 2500 Cargo,2014,4.3 
+Chevrolet,Express 2500 Cargo,2013,4.3 
+Chevrolet,Express 2500 Cargo,2012,4.3 
+Chevrolet,Express 2500 Cargo,2011,4.3 
+Chevrolet,Express 2500 Cargo,2010,4.3 
+Chevrolet,Express 2500 Cargo,2009,4.3 
+Chevrolet,Express 2500 Cargo,2008,4.3 
+Chevrolet,Express 2500 Cargo,2007,4.3 
+Chevrolet,Express 2500 Cargo,2006,4.3 
+Chevrolet,Express 2500 Cargo,2005,4.3 
+Chevrolet,Express 2500 Cargo,2004,4.3 
+Chevrolet,Express 2500 Cargo,2003,4.3 
+Chevrolet,Express 2500 Cargo,2002,4.3 
+Chevrolet,Express 2500 Cargo,2001,4.3 
+Chevrolet,Express 2500 Cargo,2000,4.3 
+Chevrolet,Express 2500 Cargo,1999,4.3 
+Chevrolet,Express 2500 Passenger,2019,4.3 
+Chevrolet,Express 2500 Passenger,2018,4.3 
+Chevrolet,Express 2500 Passenger,2017,4.3 
+Chevrolet,Express 2500 Passenger,2016,4.3 
+Chevrolet,Express 2500 Passenger,2015,4.3 
+Chevrolet,Express 2500 Passenger,2014,4.3 
+Chevrolet,Express 2500 Passenger,2013,4.3 
+Chevrolet,Express 2500 Passenger,2012,4.3 
+Chevrolet,Express 2500 Passenger,2011,4.3 
+Chevrolet,Express 2500 Passenger,2010,4.3 
+Chevrolet,Express 2500 Passenger,2009,4.3 
+Chevrolet,Express 2500 Passenger,2008,4.3 
+Chevrolet,Express 2500 Passenger,2007,4.3 
+Chevrolet,Express 2500 Passenger,2006,4.3 
+Chevrolet,Express 2500 Passenger,2005,4.3 
+Chevrolet,Express 2500 Passenger,2004,4.3 
+Chevrolet,Express 2500 Passenger,2003,4.3 
+Chevrolet,Express 2500 Passenger,2002,4.3 
+Chevrolet,Express 2500 Passenger,2001,4.3 
+Chevrolet,Express 2500 Passenger,2000,4.3 
+Chevrolet,Express 2500 Passenger,1999,4.3 
+Chevrolet,Express 2500 Passenger,1998,4.3 
+Chevrolet,Express 2500 Passenger,1997,4.3 
+Chevrolet,Express 2500 Passenger,1996,4.3 
+Chevrolet,Express 3500 Cargo,2019,4.3 
+Chevrolet,Express 3500 Cargo,2018,4.3 
+Chevrolet,Express 3500 Cargo,2017,4.3 
+Chevrolet,Express 3500 Cargo,2016,4.3 
+Chevrolet,Express 3500 Cargo,2015,4.3 
+Chevrolet,Express 3500 Cargo,2014,4.3 
+Chevrolet,Express 3500 Cargo,2013,4.3 
+Chevrolet,Express 3500 Cargo,2012,4.3 
+Chevrolet,Express 3500 Cargo,2011,4.3 
+Chevrolet,Express 3500 Cargo,2010,4.3 
+Chevrolet,Express 3500 Cargo,2009,4.3 
+Chevrolet,Express 3500 Cargo,2008,4.3 
+Chevrolet,Express 3500 Cargo,2007,4.3 
+Chevrolet,Express 3500 Cargo,2006,4.3 
+Chevrolet,Express 3500 Cargo,2005,4.3 
+Chevrolet,Express 3500 Cargo,2004,4.3 
+Chevrolet,Express 3500 Cargo,2003,4.3 
+Chevrolet,Express 3500 Cargo,2002,4.3 
+Chevrolet,Express 3500 Cargo,2001,4.3 
+Chevrolet,Express 3500 Cargo,2000,4.3 
+Chevrolet,Express 3500 Cargo,1999,4.3 
+Chevrolet,Express 3500 Passenger,2019,4.3 
+Chevrolet,Express 3500 Passenger,2018,4.3 
+Chevrolet,Express 3500 Passenger,2017,4.3 
+Chevrolet,Express 3500 Passenger,2016,4.3 
+Chevrolet,Express 3500 Passenger,2015,4.3 
+Chevrolet,Express 3500 Passenger,2014,4.3 
+Chevrolet,Express 3500 Passenger,2013,4.3 
+Chevrolet,Express 3500 Passenger,2012,4.3 
+Chevrolet,Express 3500 Passenger,2011,4.3 
+Chevrolet,Express 3500 Passenger,2010,4.3 
+Chevrolet,Express 3500 Passenger,2009,4.3 
+Chevrolet,Express 3500 Passenger,2008,4.3 
+Chevrolet,Express 3500 Passenger,2007,4.3 
+Chevrolet,Express 3500 Passenger,2006,4.3 
+Chevrolet,Express 3500 Passenger,2005,4.3 
+Chevrolet,Express 3500 Passenger,2004,4.3 
+Chevrolet,Express 3500 Passenger,2003,4.3 
+Chevrolet,Express 3500 Passenger,2002,4.3 
+Chevrolet,Express 3500 Passenger,2001,4.3 
+Chevrolet,Express 3500 Passenger,2000,4.3 
+Chevrolet,Express 3500 Passenger,1999,4.3 
+Chevrolet,Express 3500 Passenger,1998,4.3 
+Chevrolet,Express 3500 Passenger,1997,4.3 
+Chevrolet,Express 3500 Passenger,1996,4.3 
+Chevrolet,Malibu,2020,4.3 
+Chevrolet,Malibu,2019,4.3 
+Chevrolet,Malibu,2018,4.3 
+Chevrolet,Malibu,2017,4.3 
+Chevrolet,Malibu,2016,4.3 
+Chevrolet,Malibu,2015,4.3 
+Chevrolet,Malibu,2014,4.3 
+Chevrolet,Malibu,2013,4.3 
+Chevrolet,Malibu,2012,4.4 
+Chevrolet,Malibu,2011,4.4 
+Chevrolet,Malibu,2010,4.4 
+Chevrolet,Malibu,2009,4.4 
+Chevrolet,Malibu,2008,4.4 
+Chevrolet,Malibu,2007,4.3 
+Chevrolet,Malibu,2006,4.3 
+Chevrolet,Malibu,2005,4.3 
+Chevrolet,Malibu,2004,4.3 
+Chevrolet,Malibu,2003,3.7 
+Chevrolet,Malibu,2002,3.7 
+Chevrolet,Malibu,2001,3.7 
+Chevrolet,Malibu,2000,3.7 
+Chevrolet,Malibu,1999,3.7 
+Chevrolet,Malibu,1998,3.7 
+Chevrolet,Malibu,1997,3.7 
+Chevrolet,Camaro,2020,4.4 
+Chevrolet,Camaro,2019,4.4 
+Chevrolet,Camaro,2018,4.4 
+Chevrolet,Camaro,2017,4.4 
+Chevrolet,Camaro,2016,4.4 
+Chevrolet,Camaro,2015,4.7 
+Chevrolet,Camaro,2014,4.4 
+Chevrolet,Camaro,2013,4.7 
+Chevrolet,Camaro,2012,4.7 
+Chevrolet,Camaro,2011,4.7 
+Chevrolet,Camaro,2010,4.4 
+Chevrolet,Camaro,2002,4.6 
+Chevrolet,Camaro,2001,4.6 
+Chevrolet,Camaro,2000,4.6 
+Chevrolet,Camaro,1999,4.6 
+Chevrolet,Camaro,1998,4.6 
+Chevrolet,Camaro,1997,4.6 
+Chevrolet,Camaro,1996,4.6 
+Chevrolet,Camaro,1995,4.6 
+Chevrolet,Camaro,1994,4.6 
+Chevrolet,Camaro,1993,4.6 
+Chevrolet,Camaro,1992,4.4 
+Chevrolet,Corvette,2019,5.0 
+Chevrolet,Corvette,2018,5.0 
+Chevrolet,Corvette,2017,5.0 
+Chevrolet,Corvette,2016,5.0 
+Chevrolet,Corvette,2015,5.0 
+Chevrolet,Corvette,2014,5.0 
+Chevrolet,Corvette,2013,4.8 
+Chevrolet,Corvette,2012,4.8 
+Chevrolet,Corvette,2011,4.8 
+Chevrolet,Corvette,2010,4.8 
+Chevrolet,Corvette,2009,4.8 
+Chevrolet,Corvette,2008,4.8 
+Chevrolet,Corvette,2007,4.8 
+Chevrolet,Corvette,2006,4.8 
+Chevrolet,Corvette,2005,4.8 
+Chevrolet,Corvette,2004,4.9 
+Chevrolet,Corvette,2003,4.9 
+Chevrolet,Corvette,2002,4.9 
+Chevrolet,Corvette,2001,4.9 
+Chevrolet,Corvette,2000,4.9 
+Chevrolet,Corvette,1999,4.9 
+Chevrolet,Corvette,1998,4.9 
+Chevrolet,Corvette,1997,4.9 
+Chevrolet,Corvette,1996,4.7 
+Chevrolet,Corvette,1995,4.7 
+Chevrolet,Corvette,1994,4.7 
+Chevrolet,Corvette,1993,4.7 
+Chevrolet,Corvette,1992,4.7 
+Chevrolet,Spark,2020,4.6 
+Chevrolet,Spark,2019,4.6 
+Chevrolet,Spark,2018,4.6 
+Chevrolet,Spark,2017,4.6 
+Chevrolet,Spark,2016,4.6 
+Chevrolet,Spark,2015,4.3 
+Chevrolet,Spark,2014,4.3 
+Chevrolet,Spark,2013,4.3 
+Chevrolet,Corvette,2019,5.0 
+Chevrolet,Corvette,2018,5.0 
+Chevrolet,Corvette,2017,5.0 
+Chevrolet,Corvette,2016,5.0 
+Chevrolet,Corvette,2015,5.0 
+Chevrolet,Corvette,2014,5.0 
+Chevrolet,Corvette,2013,4.8 
+Chevrolet,Corvette,2012,4.8 
+Chevrolet,Corvette,2011,4.8 
+Chevrolet,Corvette,2010,4.8 
+Chevrolet,Corvette,2009,4.8 
+Chevrolet,Corvette,2008,4.8 
+Chevrolet,Corvette,2007,4.8 
+Chevrolet,Corvette,2006,4.8 
+Chevrolet,Corvette,2005,4.8 
+Chevrolet,Corvette,2004,4.9 
+Chevrolet,Corvette,2003,4.9 
+Chevrolet,Corvette,2002,4.9 
+Chevrolet,Corvette,2001,4.9 
+Chevrolet,Corvette,2000,4.9 
+Chevrolet,Corvette,1999,4.9 
+Chevrolet,Corvette,1998,4.9 
+Chevrolet,Corvette,1997,4.9 
+Chevrolet,Corvette,1996,4.7 
+Chevrolet,Corvette,1995,4.7 
+Chevrolet,Corvette,1994,4.7 
+Chevrolet,Corvette,1993,4.7 
+Chevrolet,Corvette,1992,4.7 
+Chrysler,300,2019,4.8 
+Chrysler,300,2018,4.8 
+Chrysler,300,2017,4.8 
+Chrysler,300,2016,4.8 
+Chrysler,300,2015,4.8 
+Chrysler,300,2014,4.8 
+Chrysler,300,2013,4.8 
+Chrysler,300,2012,4.8 
+Chrysler,300,2011,4.8 
+Chrysler,300,2010,4.6 
+Chrysler,300,2009,4.6 
+Chrysler,300,2008,4.6 
+Chrysler,300,2007,4.6 
+Chrysler,300,2006,4.6 
+Chrysler,300,2005,4.6 
+Chrysler,300,1999,4.4 
+Chrysler,Pacifica,2020,4.0 
+Chrysler,Pacifica,2019,4.0 
+Chrysler,Pacifica,2018,4.0 
+Chrysler,Pacifica,2017,4.0 
+Chrysler,Pacifica,2008,4.2 
+Chrysler,Pacifica,2007,4.2 
+Chrysler,Pacifica,2006,4.2 
+Chrysler,Pacifica,2005,4.2 
+Chrysler,Pacifica,2004,4.2 
+Chrysler,Pacifica Hybrid,2018,5.0 
+Chrysler,Pacifica Hybrid,2017,5.0 
+Chrysler,Voyager,2020,4.0 
+Chrysler,Voyager,2003,4.0 
+Chrysler,Voyager,2002,4.0 
+Chrysler,Voyager,2001,4.0 
+Chrysler,Voyager,2000,4.0 
+Dodge,Charger,2020,4.8 
+Dodge,Charger,2019,4.8 
+Dodge,Charger,2018,4.8 
+Dodge,Charger,2017,4.8 
+Dodge,Charger,2016,4.8 
+Dodge,Charger,2015,4.8 
+Dodge,Charger,2014,4.8 
+Dodge,Charger,2013,4.8 
+Dodge,Charger,2012,4.8 
+Dodge,Charger,2011,4.8 
+Dodge,Charger,2010,4.6 
+Dodge,Charger,2009,4.6 
+Dodge,Charger,2008,4.6 
+Dodge,Charger,2007,4.6 
+Dodge,Charger,2006,4.6 
+Dodge,Durango,2020,4.7 
+Dodge,Durango,2019,4.7 
+Dodge,Durango,2018,4.7 
+Dodge,Durango,2017,4.7 
+Dodge,Durango,2016,4.7 
+Dodge,Durango,2015,4.7 
+Dodge,Durango,2014,4.7 
+Dodge,Durango,2013,4.7 
+Dodge,Durango,2012,4.7 
+Dodge,Durango,2011,4.7 
+Dodge,Durango,2009,4.4 
+Dodge,Durango,2008,4.4 
+Dodge,Durango,2007,4.4 
+Dodge,Durango,2006,4.4 
+Dodge,Durango,2005,4.4 
+Dodge,Durango,2004,4.4 
+Dodge,Durango,2003,4.3 
+Dodge,Durango,2002,4.3 
+Dodge,Durango,2001,4.3 
+Dodge,Durango,2000,4.3 
+Dodge,Durango,1999,4.3 
+Dodge,Durango,1998,4.3 
+Dodge,Journey,2019,3.7 
+Dodge,Journey,2018,3.7 
+Dodge,Journey,2017,3.7 
+Dodge,Journey,2016,3.7 
+Dodge,Journey,2015,3.7 
+Dodge,Journey,2014,3.7 
+Dodge,Journey,2013,3.7 
+Dodge,Journey,2012,3.7 
+Dodge,Journey,2011,3.7 
+Dodge,Journey,2010,3.7 
+Dodge,Journey,2009,3.7 
+Dodge,Grand Caravan Passenger,2019,3.7 
+Dodge,Grand Caravan Passenger,2018,3.7 
+Dodge,Grand Caravan Passenger,2017,3.7 
+Dodge,Grand Caravan Passenger,2016,3.7 
+Dodge,Grand Caravan Passenger,2015,3.7 
+Dodge,Grand Caravan Passenger,2014,3.7 
+Dodge,Grand Caravan Passenger,2013,3.7 
+Dodge,Grand Caravan Passenger,2012,3.7 
+Dodge,Grand Caravan Passenger,2011,3.7 
+Dodge,Grand Caravan Passenger,2010,3.7 
+Dodge,Grand Caravan Passenger,2009,3.7 
+Dodge,Grand Caravan Passenger,2008,3.7 
+Dodge,Grand Caravan Passenger,2007,4.0 
+Dodge,Grand Caravan Passenger,2006,4.0 
+Dodge,Grand Caravan Passenger,2005,4.0 
+Dodge,Grand Caravan Passenger,2004,4.0 
+Dodge,Grand Caravan Passenger,2003,4.0 
+Dodge,Grand Caravan Passenger,2002,4.0 
+Dodge,Grand Caravan Passenger,2001,4.0 
+Dodge,Grand Caravan Passenger,2000,4.0 
+Dodge,Grand Caravan Passenger,1999,4.0 
+Dodge,Grand Caravan Passenger,1998,4.0 
+Dodge,Grand Caravan Passenger,1997,4.0 
+Dodge,Grand Caravan Passenger,1996,4.0 
+Dodge,Grand Caravan Passenger,1995,4.5 
+Dodge,Grand Caravan Passenger,1994,4.5 
+Dodge,Grand Caravan Passenger,1993,4.5 
+Dodge,Grand Caravan Passenger,1992,4.5 
+Dodge,Challenger,2019,4.8 
+Dodge,Challenger,2018,4.8 
+Dodge,Challenger,2017,4.8 
+Dodge,Challenger,2016,4.8 
+Dodge,Challenger,2015,4.8 
+Dodge,Challenger,2014,4.8 
+Dodge,Challenger,2013,4.8 
+Dodge,Challenger,2012,4.8 
+Dodge,Challenger,2011,4.8 
+Dodge,Challenger,2010,4.8 
+Dodge,Challenger,2009,4.8 
+Dodge,Challenger,2008,4.8 
+Ferrari,488 GTB,2018,5.0 
+Ferrari,488 GTB,2017,5.0 
+Ferrari,488 GTB,2016,5.0 
+Ferrari,488 Spider,2018,5.0 
+Ferrari,488 Spider,2017,5.0 
+Ferrari,488 Spider,2016,5.0 
+FIAT,500X,2019,4.1 
+FIAT,500X,2018,4.1 
+FIAT,500X,2017,4.1 
+FIAT,500X,2016,4.1 
+FIAT,500L,2019,4.5 
+FIAT,500L,2018,4.5 
+FIAT,500L,2017,4.5 
+FIAT,500L,2016,4.5 
+FIAT,500L,2015,4.5 
+FIAT,500L,2014,4.5 
+FIAT,500e,2019,5.0 
+FIAT,500e,2018,5.0 
+FIAT,500e,2017,5.0 
+FIAT,500e,2016,5.0 
+FIAT,500e,2015,5.0 
+FIAT,500e,2014,5.0 
+FIAT,500e,2013,5.0 
+FIAT,500,2019,4.4 
+FIAT,500,2018,4.4 
+FIAT,500,2017,4.4 
+FIAT,500,2016,4.4 
+FIAT,500,2015,4.4 
+FIAT,500,2014,4.4 
+FIAT,500,2013,4.4 
+FIAT,500,2012,4.4 
+FIAT,500 Abarth,2019,4.4 
+FIAT,500 Abarth,2018,4.4 
+FIAT,500 Abarth,2017,4.4 
+FIAT,500 Abarth,2016,4.4 
+FIAT,500 Abarth,2015,4.4 
+FIAT,500 Abarth,2014,4.4 
+FIAT,124 Spider,2019,4.9 
+FIAT,124 Spider,2018,4.9 
+FIAT,124 Spider,2017,4.9 
+FIAT,500c,2019,4.4 
+FIAT,500c,2018,4.4 
+FIAT,500c,2017,4.4 
+FIAT,500c,2016,4.4 
+FIAT,500c,2015,4.4 
+FIAT,500c,2014,4.4 
+FIAT,500c Abarth,2019,4.4 
+FIAT,500c Abarth,2018,4.4 
+FIAT,500c Abarth,2017,4.4 
+Ford,Fiesta,2019,3.9 
+Ford,Fiesta,2018,3.9 
+Ford,Fiesta,2017,3.9 
+Ford,Fiesta,2016,3.9 
+Ford,Fiesta,2015,3.9 
+Ford,Fiesta,2014,3.9 
+Ford,Fiesta,2013,3.9 
+Ford,Fiesta,2012,3.9 
+Ford,Fiesta,2011,3.9 
+Ford,Focus,2018,3.8 
+Ford,Focus,2017,3.8 
+Ford,Focus,2016,3.8 
+Ford,Focus,2015,3.8 
+Ford,Focus,2014,3.8 
+Ford,Focus,2013,3.8 
+Ford,Focus,2012,3.8 
+Ford,Focus,2011,4.6 
+Ford,Focus,2010,4.6 
+Ford,Focus,2009,4.6 
+Ford,Focus,2008,4.6 
+Ford,Focus,2007,4.1 
+Ford,Focus,2006,4.1 
+Ford,Focus,2005,4.1 
+Ford,Focus,2004,4.1 
+Ford,Focus,2003,4.1 
+Ford,Focus,2002,4.1 
+Ford,Focus,2001,4.1 
+Ford,Focus,2000,4.1 
+Ford,Fusion,2020,4.5 
+Ford,Fusion,2019,4.5 
+Ford,Fusion,2018,4.5 
+Ford,Fusion,2017,4.5 
+Ford,Fusion,2016,4.5 
+Ford,Fusion,2015,4.5 
+Ford,Fusion,2014,4.5 
+Ford,Fusion,2013,4.5 
+Ford,Fusion,2012,4.6 
+Ford,Fusion,2011,4.6 
+Ford,Fusion,2010,4.6 
+Ford,Fusion,2009,4.6 
+Ford,Fusion,2008,4.6 
+Ford,Fusion,2007,4.6 
+Ford,Fusion,2006,4.6 
+Ford,Fusion Energi,2019,4.7 
+Ford,Fusion Energi,2018,4.7 
+Ford,Fusion Energi,2017,4.7 
+Ford,Fusion Energi,2016,4.7 
+Ford,Fusion Energi,2015,4.7 
+Ford,Fusion Energi,2014,4.7 
+Ford,Fusion Energi,2013,4.7 
+Ford,Taurus,2019,4.6 
+Ford,Taurus,2018,4.6 
+Ford,Taurus,2017,4.6 
+Ford,Taurus,2016,4.6 
+Ford,Taurus,2015,4.6 
+Ford,Taurus,2014,4.6 
+Ford,Taurus,2013,4.6 
+Ford,Taurus,2012,4.6 
+Ford,Taurus,2011,4.6 
+Ford,Taurus,2010,4.6 
+Ford,Taurus,2009,4.7 
+Ford,Taurus,2008,4.7 
+Ford,Taurus,2007,4.1 
+Ford,Taurus,2006,4.1 
+Ford,Taurus,2005,4.1 
+Ford,Taurus,2004,4.1 
+Ford,Taurus,2003,4.1 
+Ford,Taurus,2002,4.1 
+Ford,Taurus,2001,4.1 
+Ford,Taurus,2000,4.1 
+Ford,Taurus,1999,4.1 
+Ford,Taurus,1998,4.1 
+Ford,Taurus,1997,4.1 
+Ford,Taurus,1996,4.1 
+Ford,Taurus,1995,4.2 
+Ford,Taurus,1994,4.2 
+Ford,Taurus,1993,4.2 
+Ford,Taurus,1992,4.2 
+Ford,EcoSport,2019,4.5 
+Ford,EcoSport,2018,4.5 
+Ford,Edge,2020,4.6 
+Ford,Edge,2019,4.6 
+Ford,Edge,2018,4.6 
+Ford,Edge,2017,4.6 
+Ford,Edge,2016,4.6 
+Ford,Edge,2015,4.6 
+Ford,Edge,2014,4.5 
+Ford,Edge,2013,4.5 
+Ford,Edge,2012,4.5 
+Ford,Edge,2011,4.5 
+Ford,Edge,2010,4.5 
+Ford,Edge,2009,4.5 
+Ford,Edge,2008,4.5 
+Ford,Edge,2007,4.5 
+Ford,Escape,2019,4.1 
+Ford,Escape,2018,4.1 
+Ford,Escape,2017,4.1 
+Ford,Escape,2016,4.1 
+Ford,Escape,2015,4.1 
+Ford,Escape,2014,4.1 
+Ford,Escape,2013,4.1 
+Ford,Escape,2012,4.4 
+Ford,Escape,2011,4.4 
+Ford,Escape,2010,4.4 
+Ford,Escape,2009,4.4 
+Ford,Escape,2008,4.4 
+Ford,Escape,2007,4.4 
+Ford,Escape,2006,4.4 
+Ford,Escape,2005,4.4 
+Ford,Escape,2004,4.4 
+Ford,Escape,2003,4.4 
+Ford,Escape,2002,4.4 
+Ford,Escape,2001,4.4 
+Ford,Expedition,2020,4.2 
+Ford,Expedition,2019,4.2 
+Ford,Expedition,2018,4.2 
+Ford,Expedition,2017,4.6 
+Ford,Expedition,2016,4.6 
+Ford,Expedition,2015,4.6 
+Ford,Expedition,2014,4.6 
+Ford,Expedition,2013,4.6 
+Ford,Expedition,2012,4.6 
+Ford,Expedition,2011,4.6 
+Ford,Expedition,2010,4.6 
+Ford,Expedition,2009,4.6 
+Ford,Expedition,2008,4.6 
+Ford,Expedition,2007,4.6 
+Ford,Expedition,2006,4.5 
+Ford,Expedition,2005,4.5 
+Ford,Expedition,2004,4.5 
+Ford,Expedition,2003,4.5 
+Ford,Expedition,2002,4.5 
+Ford,Expedition,2001,4.5 
+Ford,Expedition,2000,4.5 
+Ford,Expedition,1999,4.5 
+Ford,Expedition,1998,4.5 
+Ford,Expedition,1997,4.5 
+Ford,Expedition MAX,2020,4.2 
+Ford,Expedition MAX,2019,4.2 
+Ford,Expedition MAX,2018,4.2 
+Ford,Explorer,2020,4.3 
+Ford,Explorer,2019,4.2 
+Ford,Explorer,2018,4.2 
+Ford,Explorer,2017,4.2 
+Ford,Explorer,2016,4.2 
+Ford,Explorer,2015,4.2 
+Ford,Explorer,2014,4.2 
+Ford,Explorer,2013,4.2 
+Ford,Explorer,2012,4.2 
+Ford,Explorer,2011,4.2 
+Ford,Explorer,2010,4.3 
+Ford,Explorer,2009,4.3 
+Ford,Explorer,2008,4.3 
+Ford,Explorer,2007,4.3 
+Ford,Explorer,2006,4.3 
+Ford,Explorer,2005,4.0 
+Ford,Explorer,2004,4.0 
+Ford,Explorer,2003,4.0 
+Ford,Explorer,2002,4.0 
+Ford,Explorer,2001,4.3 
+Ford,Explorer,2000,4.3 
+Ford,Explorer,1999,4.3 
+Ford,Explorer,1998,4.3 
+Ford,Explorer,1997,4.3 
+Ford,Explorer,1996,4.3 
+Ford,Explorer,1995,4.3 
+Ford,Explorer,1994,4.0 
+Ford,Explorer,1993,4.0 
+Ford,Explorer,1992,4.0 
+Ford,Flex,2019,4.7 
+Ford,Flex,2018,4.7 
+Ford,Flex,2017,4.7 
+Ford,Flex,2016,4.7 
+Ford,Flex,2015,4.7 
+Ford,Flex,2014,4.7 
+Ford,Flex,2013,4.7 
+Ford,Flex,2012,4.7 
+Ford,Flex,2011,4.7 
+Ford,Flex,2010,4.7 
+Ford,Flex,2009,4.7 
+Ford,F150 Regular Cab,2019,4.7 
+Ford,F150 Regular Cab,2018,4.7 
+Ford,F150 Regular Cab,2017,4.7 
+Ford,F150 Regular Cab,2016,4.7 
+Ford,F150 Regular Cab,2015,4.7 
+Ford,F150 Regular Cab,2014,4.6 
+Ford,F150 Regular Cab,2013,4.6 
+Ford,F150 Regular Cab,2012,4.6 
+Ford,F150 Regular Cab,2011,4.6 
+Ford,F150 Regular Cab,2010,4.6 
+Ford,F150 Regular Cab,2009,4.6 
+Ford,F150 Regular Cab,2008,4.6 
+Ford,F150 Regular Cab,2007,4.6 
+Ford,F150 Regular Cab,2006,4.6 
+Ford,F150 Regular Cab,2005,4.6 
+Ford,F150 Regular Cab,2004,4.6 
+Ford,F150 Regular Cab,2003,4.7 
+Ford,F150 Regular Cab,2002,4.7 
+Ford,F150 Regular Cab,2001,4.7 
+Ford,F150 Regular Cab,2000,4.5 
+Ford,F150 Regular Cab,1999,4.5 
+Ford,F150 Regular Cab,1998,4.5 
+Ford,F150 Regular Cab,1997,4.5 
+Ford,F150 Regular Cab,1996,4.5 
+Ford,F150 Regular Cab,1995,4.5 
+Ford,F150 Regular Cab,1994,4.5 
+Ford,F150 Regular Cab,1993,4.5 
+Ford,F150 Regular Cab,1992,4.5 
+Ford,F150 Super Cab,2019,4.7 
+Ford,F150 Super Cab,2018,4.7 
+Ford,F150 Super Cab,2017,4.7 
+Ford,F150 Super Cab,2016,4.7 
+Ford,F150 Super Cab,2015,4.7 
+Ford,F150 Super Cab,2014,4.6 
+Ford,F150 Super Cab,2013,4.6 
+Ford,F150 Super Cab,2012,4.6 
+Ford,F150 Super Cab,2011,4.6 
+Ford,F150 Super Cab,2010,4.6 
+Ford,F150 Super Cab,2009,4.6 
+Ford,F150 Super Cab,2008,4.6 
+Ford,F150 Super Cab,2007,4.6 
+Ford,F150 Super Cab,2006,4.6 
+Ford,F150 Super Cab,2005,4.6 
+Ford,F150 Super Cab,2004,4.6 
+Ford,F150 Super Cab,2003,4.7 
+Ford,F150 Super Cab,2002,4.7 
+Ford,F150 Super Cab,2001,4.7 
+Ford,F150 Super Cab,2000,4.5 
+Ford,F150 Super Cab,1999,4.5 
+Ford,F150 Super Cab,1998,4.5 
+Ford,F150 Super Cab,1997,4.5 
+Ford,F150 Super Cab,1996,4.5 
+Ford,F150 Super Cab,1995,4.5 
+Ford,F150 Super Cab,1994,4.5 
+Ford,F150 Super Cab,1993,4.5 
+Ford,F150 Super Cab,1992,4.5 
+Ford,F150 SuperCrew Cab,2020,4.7 
+Ford,F150 SuperCrew Cab,2019,4.7 
+Ford,F150 SuperCrew Cab,2018,4.7 
+Ford,F150 SuperCrew Cab,2017,4.7 
+Ford,F150 SuperCrew Cab,2016,4.7 
+Ford,F150 SuperCrew Cab,2015,4.7 
+Ford,F150 SuperCrew Cab,2014,4.6 
+Ford,F150 SuperCrew Cab,2013,4.6 
+Ford,F150 SuperCrew Cab,2012,4.6 
+Ford,F150 SuperCrew Cab,2011,4.6 
+Ford,F150 SuperCrew Cab,2010,4.6 
+Ford,F150 SuperCrew Cab,2009,4.6 
+Ford,F150 SuperCrew Cab,2008,4.6 
+Ford,F150 SuperCrew Cab,2007,4.6 
+Ford,F150 SuperCrew Cab,2006,4.6 
+Ford,F150 SuperCrew Cab,2005,4.6 
+Ford,F150 SuperCrew Cab,2004,4.6 
+Ford,F150 SuperCrew Cab,2003,4.7 
+Ford,F150 SuperCrew Cab,2002,4.7 
+Ford,F150 SuperCrew Cab,2001,4.7 
+Ford,F250 Super Duty Crew Cab,2019,4.9 
+Ford,F250 Super Duty Crew Cab,2018,4.9 
+Ford,F250 Super Duty Crew Cab,2017,4.9 
+Ford,F250 Super Duty Crew Cab,2016,4.6 
+Ford,F250 Super Duty Crew Cab,2015,4.6 
+Ford,F250 Super Duty Crew Cab,2014,4.6 
+Ford,F250 Super Duty Crew Cab,2013,4.6 
+Ford,F250 Super Duty Crew Cab,2012,4.6 
+Ford,F250 Super Duty Crew Cab,2011,4.6 
+Ford,F250 Super Duty Crew Cab,2010,4.3 
+Ford,F250 Super Duty Crew Cab,2009,4.3 
+Ford,F250 Super Duty Crew Cab,2008,4.3 
+Ford,F250 Super Duty Crew Cab,2007,4.3 
+Ford,F250 Super Duty Crew Cab,2006,4.3 
+Ford,F250 Super Duty Crew Cab,2005,4.3 
+Ford,F250 Super Duty Crew Cab,2004,4.5 
+Ford,F250 Super Duty Crew Cab,2003,4.5 
+Ford,F250 Super Duty Crew Cab,2002,4.5 
+Ford,F250 Super Duty Crew Cab,2001,4.5 
+Ford,F250 Super Duty Crew Cab,2000,4.5 
+Ford,F250 Super Duty Crew Cab,1999,4.5 
+Ford,F250 Super Duty Regular Cab,2019,4.9 
+Ford,F250 Super Duty Regular Cab,2018,4.9 
+Ford,F250 Super Duty Regular Cab,2017,4.9 
+Ford,F250 Super Duty Regular Cab,2016,4.6 
+Ford,F250 Super Duty Regular Cab,2015,4.6 
+Ford,F250 Super Duty Regular Cab,2014,4.6 
+Ford,F250 Super Duty Regular Cab,2013,4.6 
+Ford,F250 Super Duty Regular Cab,2012,4.6 
+Ford,F250 Super Duty Regular Cab,2011,4.6 
+Ford,F250 Super Duty Regular Cab,2010,4.3 
+Ford,F250 Super Duty Regular Cab,2009,4.3 
+Ford,F250 Super Duty Regular Cab,2008,4.3 
+Ford,F250 Super Duty Regular Cab,2007,4.3 
+Ford,F250 Super Duty Regular Cab,2006,4.3 
+Ford,F250 Super Duty Regular Cab,2005,4.3 
+Ford,F250 Super Duty Regular Cab,2004,4.5 
+Ford,F250 Super Duty Regular Cab,2003,4.5 
+Ford,F250 Super Duty Regular Cab,2002,4.5 
+Ford,F250 Super Duty Regular Cab,2001,4.5 
+Ford,F250 Super Duty Regular Cab,2000,4.5 
+Ford,F250 Super Duty Regular Cab,1999,4.5 
+Ford,F250 Super Duty Super Cab,2019,4.9 
+Ford,F250 Super Duty Super Cab,2018,4.9 
+Ford,F250 Super Duty Super Cab,2017,4.9 
+Ford,F250 Super Duty Super Cab,2016,4.6 
+Ford,F250 Super Duty Super Cab,2015,4.6 
+Ford,F250 Super Duty Super Cab,2014,4.6 
+Ford,F250 Super Duty Super Cab,2013,4.6 
+Ford,F250 Super Duty Super Cab,2012,4.6 
+Ford,F250 Super Duty Super Cab,2011,4.6 
+Ford,F250 Super Duty Super Cab,2010,4.3 
+Ford,F250 Super Duty Super Cab,2009,4.3 
+Ford,F250 Super Duty Super Cab,2008,4.3 
+Ford,F250 Super Duty Super Cab,2007,4.3 
+Ford,F250 Super Duty Super Cab,2006,4.3 
+Ford,F250 Super Duty Super Cab,2005,4.3 
+Ford,F250 Super Duty Super Cab,2004,4.5 
+Ford,F250 Super Duty Super Cab,2003,4.5 
+Ford,F250 Super Duty Super Cab,2002,4.5 
+Ford,F250 Super Duty Super Cab,2001,4.5 
+Ford,F250 Super Duty Super Cab,2000,4.5 
+Ford,F250 Super Duty Super Cab,1999,4.5 
+Ford,F350 Super Duty Crew Cab,2019,5.0 
+Ford,F350 Super Duty Crew Cab,2018,5.0 
+Ford,F350 Super Duty Crew Cab,2017,5.0 
+Ford,F350 Super Duty Crew Cab,2016,4.3 
+Ford,F350 Super Duty Crew Cab,2015,4.3 
+Ford,F350 Super Duty Crew Cab,2014,4.3 
+Ford,F350 Super Duty Crew Cab,2013,4.3 
+Ford,F350 Super Duty Crew Cab,2012,4.3 
+Ford,F350 Super Duty Crew Cab,2011,4.3 
+Ford,F350 Super Duty Crew Cab,2010,4.3 
+Ford,F350 Super Duty Crew Cab,2009,4.3 
+Ford,F350 Super Duty Crew Cab,2008,4.3 
+Ford,F350 Super Duty Crew Cab,2007,4.3 
+Ford,F350 Super Duty Crew Cab,2006,4.3 
+Ford,F350 Super Duty Crew Cab,2005,4.3 
+Ford,F350 Super Duty Crew Cab,2004,4.5 
+Ford,F350 Super Duty Crew Cab,2003,4.5 
+Ford,F350 Super Duty Crew Cab,2002,4.5 
+Ford,F350 Super Duty Crew Cab,2001,4.5 
+Ford,F350 Super Duty Crew Cab,2000,4.5 
+Ford,F350 Super Duty Crew Cab,1999,4.5 
+Ford,F350 Super Duty Regular Cab,2018,5.0 
+Ford,F350 Super Duty Regular Cab,2017,5.0 
+Ford,F350 Super Duty Regular Cab,2016,4.3 
+Ford,F350 Super Duty Regular Cab,2015,4.3 
+Ford,F350 Super Duty Regular Cab,2014,4.3 
+Ford,F350 Super Duty Regular Cab,2013,4.3 
+Ford,F350 Super Duty Regular Cab,2012,4.3 
+Ford,F350 Super Duty Regular Cab,2011,4.3 
+Ford,F350 Super Duty Regular Cab,2010,4.3 
+Ford,F350 Super Duty Regular Cab,2009,4.3 
+Ford,F350 Super Duty Regular Cab,2008,4.3 
+Ford,F350 Super Duty Regular Cab,2007,4.3 
+Ford,F350 Super Duty Regular Cab,2006,4.3 
+Ford,F350 Super Duty Regular Cab,2005,4.3 
+Ford,F350 Super Duty Regular Cab,2004,4.5 
+Ford,F350 Super Duty Regular Cab,2003,4.5 
+Ford,F350 Super Duty Regular Cab,2002,4.5 
+Ford,F350 Super Duty Regular Cab,2001,4.5 
+Ford,F350 Super Duty Regular Cab,2000,4.5 
+Ford,F350 Super Duty Regular Cab,1999,4.5 
+Ford,F350 Super Duty Super Cab,2019,5.0 
+Ford,F350 Super Duty Super Cab,2018,5.0 
+Ford,F350 Super Duty Super Cab,2017,5.0 
+Ford,F350 Super Duty Super Cab,2016,4.3 
+Ford,F350 Super Duty Super Cab,2015,4.3 
+Ford,F350 Super Duty Super Cab,2014,4.3 
+Ford,F350 Super Duty Super Cab,2013,4.3 
+Ford,F350 Super Duty Super Cab,2012,4.3 
+Ford,F350 Super Duty Super Cab,2011,4.3 
+Ford,F350 Super Duty Super Cab,2010,4.3 
+Ford,F350 Super Duty Super Cab,2009,4.3 
+Ford,F350 Super Duty Super Cab,2008,4.3 
+Ford,F350 Super Duty Super Cab,2007,4.3 
+Ford,F350 Super Duty Super Cab,2006,4.3 
+Ford,F350 Super Duty Super Cab,2005,4.3 
+Ford,F350 Super Duty Super Cab,2004,4.5 
+Ford,F350 Super Duty Super Cab,2003,4.5 
+Ford,F350 Super Duty Super Cab,2002,4.5 
+Ford,F350 Super Duty Super Cab,2001,4.5 
+Ford,F350 Super Duty Super Cab,2000,4.5 
+Ford,F350 Super Duty Super Cab,1999,4.5 
+Ford,F450 Super Duty Crew Cab,2019,5.0 
+Ford,F450 Super Duty Crew Cab,2018,5.0 
+Ford,F450 Super Duty Crew Cab,2017,5.0 
+Ford,F450 Super Duty Crew Cab,2016,5.0 
+Ford,F450 Super Duty Crew Cab,2015,5.0 
+Ford,F450 Super Duty Crew Cab,2014,5.0 
+Ford,F450 Super Duty Crew Cab,2013,5.0 
+Ford,F450 Super Duty Crew Cab,2012,5.0 
+Ford,F450 Super Duty Crew Cab,2011,5.0 
+Ford,F450 Super Duty Crew Cab,2010,3.6 
+Ford,F450 Super Duty Crew Cab,2009,3.6 
+Ford,F450 Super Duty Crew Cab,2008,3.6 
+Ford,Ranger SuperCab,2020,4.2 
+Ford,Ranger SuperCab,2019,4.2 
+Ford,Ranger SuperCrew,2020,4.2 
+Ford,Ranger SuperCrew,2019,4.2 
+Ford,Transit 150 Van,2019,3.5 
+Ford,Transit 150 Van,2018,3.5 
+Ford,Transit 150 Van,2017,3.5 
+Ford,Transit 150 Van,2016,3.5 
+Ford,Transit 150 Van,2015,3.5 
+Ford,Transit 150 Wagon,2019,3.5 
+Ford,Transit 150 Wagon,2018,3.5 
+Ford,Transit 150 Wagon,2017,3.5 
+Ford,Transit 150 Wagon,2016,3.5 
+Ford,Transit 150 Wagon,2015,3.5 
+Ford,Transit 250 Van,2019,3.5 
+Ford,Transit 250 Van,2018,3.5 
+Ford,Transit 250 Van,2017,3.5 
+Ford,Transit 250 Van,2016,3.5 
+Ford,Transit 250 Van,2015,3.5 
+Ford,Transit 350 HD Van,2018,3.5 
+Ford,Transit 350 HD Van,2017,3.5 
+Ford,Transit 350 HD Van,2016,3.5 
+Ford,Transit 350 HD Van,2015,3.5 
+Ford,Transit 350 Van,2019,3.5 
+Ford,Transit 350 Van,2018,3.5 
+Ford,Transit 350 Van,2017,3.5 
+Ford,Transit 350 Van,2016,3.5 
+Ford,Transit 350 Van,2015,3.5 
+Ford,Transit 350 Wagon,2019,3.5 
+Ford,Transit 350 Wagon,2018,3.5 
+Ford,Transit 350 Wagon,2017,3.5 
+Ford,Transit 350 Wagon,2016,3.5 
+Ford,Transit 350 Wagon,2015,3.5 
+Ford,Transit Connect Cargo,2019,4.4 
+Ford,Transit Connect Cargo,2018,4.4 
+Ford,Transit Connect Cargo,2017,4.4 
+Ford,Transit Connect Cargo,2016,4.4 
+Ford,Transit Connect Cargo,2015,4.4 
+Ford,Transit Connect Cargo,2014,4.4 
+Ford,Transit Connect Cargo,2013,3.9 
+Ford,Transit Connect Cargo,2012,3.9 
+Ford,Transit Connect Cargo,2011,3.9 
+Ford,Transit Connect Cargo,2010,3.9 
+Ford,Transit Connect Passenger,2019,4.4 
+Ford,Transit Connect Passenger,2018,4.4 
+Ford,Transit Connect Passenger,2017,4.4 
+Ford,Transit Connect Passenger,2016,4.4 
+Ford,Transit Connect Passenger,2015,4.4 
+Ford,Transit Connect Passenger,2014,4.4 
+Ford,Transit Connect Passenger,2013,3.9 
+Ford,Transit Connect Passenger,2012,3.9 
+Ford,Transit Connect Passenger,2011,3.9 
+Ford,Transit Connect Passenger,2010,3.9 
+Ford,C-MAX Hybrid,2018,4.5 
+Ford,C-MAX Hybrid,2017,4.5 
+Ford,C-MAX Hybrid,2016,4.5 
+Ford,C-MAX Hybrid,2015,4.5 
+Ford,C-MAX Hybrid,2014,4.5 
+Ford,C-MAX Hybrid,2013,4.5 
+Ford,Mustang,2020,4.7 
+Ford,Mustang,2019,4.7 
+Ford,Mustang,2018,4.7 
+Ford,Mustang,2017,4.7 
+Ford,Mustang,2016,4.7 
+Ford,Mustang,2015,4.7 
+Ford,Mustang,2014,4.7 
+Ford,Mustang,2013,4.7 
+Ford,Mustang,2012,4.7 
+Ford,Mustang,2011,4.7 
+Ford,Mustang,2010,4.7 
+Ford,Mustang,2009,4.7 
+Ford,Mustang,2008,4.7 
+Ford,Mustang,2007,4.7 
+Ford,Mustang,2006,4.7 
+Ford,Mustang,2005,4.7 
+Ford,Mustang,2004,4.6 
+Ford,Mustang,2003,4.6 
+Ford,Mustang,2002,4.6 
+Ford,Mustang,2001,4.6 
+Ford,Mustang,2000,4.6 
+Ford,Mustang,1999,4.6 
+Ford,Mustang,1998,4.6 
+Ford,Mustang,1997,4.6 
+Ford,Mustang,1996,4.6 
+Ford,Mustang,1995,4.6 
+Ford,Mustang,1994,4.6 
+Ford,Mustang,1993,4.4 
+Ford,Mustang,1992,4.4 
+Genesis,G80,2019,4.7 
+Genesis,G80,2018,4.7 
+Genesis,G80,2017,4.7 
+Genesis,G90,2019,5.0 
+Genesis,G90,2018,5.0 
+Genesis,G90,2017,5.0 
+GMC,Acadia,2020,3.8 
+GMC,Acadia,2019,3.8 
+GMC,Acadia,2018,3.8 
+GMC,Acadia,2017,3.8 
+GMC,Acadia,2016,4.0 
+GMC,Acadia,2015,4.0 
+GMC,Acadia,2014,4.0 
+GMC,Acadia,2013,4.0 
+GMC,Acadia,2012,4.0 
+GMC,Acadia,2011,4.0 
+GMC,Acadia,2010,4.0 
+GMC,Acadia,2009,4.0 
+GMC,Acadia,2008,4.0 
+GMC,Acadia,2007,4.0 
+GMC,Terrain,2020,4.1 
+GMC,Terrain,2019,4.1 
+GMC,Terrain,2018,4.1 
+GMC,Terrain,2017,4.0 
+GMC,Terrain,2016,4.0 
+GMC,Terrain,2015,4.0 
+GMC,Terrain,2014,4.0 
+GMC,Terrain,2013,4.0 
+GMC,Terrain,2012,4.0 
+GMC,Terrain,2011,4.0 
+GMC,Terrain,2010,4.0 
+GMC,Yukon,2020,3.8 
+GMC,Yukon,2019,3.8 
+GMC,Yukon,2018,3.8 
+GMC,Yukon,2017,3.8 
+GMC,Yukon,2016,3.8 
+GMC,Yukon,2015,3.8 
+GMC,Yukon,2014,4.5 
+GMC,Yukon,2013,4.5 
+GMC,Yukon,2012,4.5 
+GMC,Yukon,2011,4.5 
+GMC,Yukon,2010,4.5 
+GMC,Yukon,2009,4.5 
+GMC,Yukon,2008,4.5 
+GMC,Yukon,2007,4.5 
+GMC,Yukon,2006,4.7 
+GMC,Yukon,2005,4.7 
+GMC,Yukon,2004,4.7 
+GMC,Yukon,2003,4.7 
+GMC,Yukon,2002,4.7 
+GMC,Yukon,2001,4.7 
+GMC,Yukon,2000,4.7 
+GMC,Yukon,1999,4.6 
+GMC,Yukon,1998,4.6 
+GMC,Yukon,1997,4.6 
+GMC,Yukon,1996,4.6 
+GMC,Yukon,1995,4.6 
+GMC,Yukon,1994,4.6 
+GMC,Yukon,1993,4.6 
+GMC,Yukon,1992,4.6 
+GMC,Yukon XL,2020,3.8 
+GMC,Yukon XL,2019,3.8 
+GMC,Yukon XL,2018,3.8 
+GMC,Yukon XL,2017,3.8 
+GMC,Yukon XL,2016,3.8 
+GMC,Yukon XL,2015,3.8 
+GMC,Canyon Crew Cab,2019,4.6 
+GMC,Canyon Crew Cab,2018,4.6 
+GMC,Canyon Crew Cab,2017,4.6 
+GMC,Canyon Crew Cab,2016,4.6 
+GMC,Canyon Crew Cab,2015,4.6 
+GMC,Canyon Crew Cab,2012,4.4 
+GMC,Canyon Crew Cab,2011,4.4 
+GMC,Canyon Crew Cab,2010,4.4 
+GMC,Canyon Crew Cab,2009,4.4 
+GMC,Canyon Crew Cab,2008,4.4 
+GMC,Canyon Crew Cab,2007,4.4 
+GMC,Canyon Crew Cab,2006,4.4 
+GMC,Canyon Crew Cab,2005,4.4 
+GMC,Canyon Crew Cab,2004,4.4 
+GMC,Canyon Extended Cab,2019,4.6 
+GMC,Canyon Extended Cab,2018,4.6 
+GMC,Canyon Extended Cab,2017,4.6 
+GMC,Canyon Extended Cab,2016,4.6 
+GMC,Canyon Extended Cab,2015,4.6 
+GMC,Canyon Extended Cab,2012,4.4 
+GMC,Canyon Extended Cab,2011,4.4 
+GMC,Canyon Extended Cab,2010,4.4 
+GMC,Canyon Extended Cab,2009,4.4 
+GMC,Canyon Extended Cab,2008,4.4 
+GMC,Canyon Extended Cab,2007,4.4 
+GMC,Canyon Extended Cab,2006,4.4 
+GMC,Canyon Extended Cab,2005,4.4 
+GMC,Canyon Extended Cab,2004,4.4 
+GMC,Sierra 1500 Crew Cab,2020,4.2 
+GMC,Sierra 1500 Crew Cab,2019,4.2 
+GMC,Sierra 1500 Crew Cab,2018,4.3 
+GMC,Sierra 1500 Crew Cab,2017,4.3 
+GMC,Sierra 1500 Crew Cab,2016,4.3 
+GMC,Sierra 1500 Crew Cab,2015,4.3 
+GMC,Sierra 1500 Crew Cab,2014,4.3 
+GMC,Sierra 1500 Crew Cab,2013,4.6 
+GMC,Sierra 1500 Crew Cab,2012,4.6 
+GMC,Sierra 1500 Crew Cab,2011,4.6 
+GMC,Sierra 1500 Crew Cab,2010,4.6 
+GMC,Sierra 1500 Crew Cab,2009,4.6 
+GMC,Sierra 1500 Crew Cab,2008,4.6 
+GMC,Sierra 1500 Crew Cab,2007,4.6 
+GMC,Sierra 1500 Crew Cab,2006,4.6 
+GMC,Sierra 1500 Crew Cab,2005,4.6 
+GMC,Sierra 1500 Crew Cab,2004,4.6 
+GMC,Sierra 1500 Double Cab,2019,4.2 
+GMC,Sierra 1500 Double Cab,2018,4.3 
+GMC,Sierra 1500 Double Cab,2017,4.3 
+GMC,Sierra 1500 Double Cab,2016,4.3 
+GMC,Sierra 1500 Double Cab,2015,4.3 
+GMC,Sierra 1500 Double Cab,2014,4.3 
+GMC,Sierra 1500 Regular Cab,2019,4.2 
+GMC,Sierra 1500 Regular Cab,2018,4.3 
+GMC,Sierra 1500 Regular Cab,2017,4.3 
+GMC,Sierra 1500 Regular Cab,2016,4.3 
+GMC,Sierra 1500 Regular Cab,2015,4.3 
+GMC,Sierra 1500 Regular Cab,2014,4.3 
+GMC,Sierra 1500 Regular Cab,2013,4.6 
+GMC,Sierra 1500 Regular Cab,2012,4.6 
+GMC,Sierra 1500 Regular Cab,2011,4.6 
+GMC,Sierra 1500 Regular Cab,2010,4.6 
+GMC,Sierra 1500 Regular Cab,2009,4.6 
+GMC,Sierra 1500 Regular Cab,2008,4.6 
+GMC,Sierra 1500 Regular Cab,2007,4.6 
+GMC,Sierra 1500 Regular Cab,2006,4.6 
+GMC,Sierra 1500 Regular Cab,2005,4.6 
+GMC,Sierra 1500 Regular Cab,2004,4.6 
+GMC,Sierra 1500 Regular Cab,2003,4.6 
+GMC,Sierra 1500 Regular Cab,2002,4.6 
+GMC,Sierra 1500 Regular Cab,2001,4.6 
+GMC,Sierra 1500 Regular Cab,2000,4.6 
+GMC,Sierra 1500 Regular Cab,1999,4.6 
+GMC,Sierra 2500 HD Crew Cab,2019,4.6 
+GMC,Sierra 2500 HD Crew Cab,2018,4.6 
+GMC,Sierra 2500 HD Crew Cab,2017,4.6 
+GMC,Sierra 2500 HD Crew Cab,2016,4.6 
+GMC,Sierra 2500 HD Crew Cab,2015,4.6 
+GMC,Sierra 2500 HD Crew Cab,2014,4.6 
+GMC,Sierra 2500 HD Crew Cab,2013,4.6 
+GMC,Sierra 2500 HD Crew Cab,2012,4.6 
+GMC,Sierra 2500 HD Crew Cab,2011,4.6 
+GMC,Sierra 2500 HD Crew Cab,2010,4.6 
+GMC,Sierra 2500 HD Crew Cab,2009,4.6 
+GMC,Sierra 2500 HD Crew Cab,2008,4.6 
+GMC,Sierra 2500 HD Crew Cab,2007,4.6 
+GMC,Sierra 2500 HD Crew Cab,2006,4.6 
+GMC,Sierra 2500 HD Crew Cab,2005,4.6 
+GMC,Sierra 2500 HD Crew Cab,2004,4.6 
+GMC,Sierra 2500 HD Crew Cab,2003,4.6 
+GMC,Sierra 2500 HD Crew Cab,2002,4.6 
+GMC,Sierra 2500 HD Crew Cab,2001,4.6 
+GMC,Sierra 2500 HD Double Cab,2019,4.6 
+GMC,Sierra 2500 HD Double Cab,2018,4.6 
+GMC,Sierra 2500 HD Double Cab,2017,4.6 
+GMC,Sierra 2500 HD Double Cab,2016,4.6 
+GMC,Sierra 2500 HD Double Cab,2015,4.6 
+GMC,Sierra 2500 HD Regular Cab,2019,4.6 
+GMC,Sierra 2500 HD Regular Cab,2018,4.6 
+GMC,Sierra 2500 HD Regular Cab,2017,4.6 
+GMC,Sierra 2500 HD Regular Cab,2016,4.6 
+GMC,Sierra 2500 HD Regular Cab,2015,4.6 
+GMC,Sierra 2500 HD Regular Cab,2014,4.6 
+GMC,Sierra 2500 HD Regular Cab,2013,4.6 
+GMC,Sierra 2500 HD Regular Cab,2012,4.6 
+GMC,Sierra 2500 HD Regular Cab,2011,4.6 
+GMC,Sierra 2500 HD Regular Cab,2010,4.6 
+GMC,Sierra 2500 HD Regular Cab,2009,4.6 
+GMC,Sierra 2500 HD Regular Cab,2008,4.6 
+GMC,Sierra 2500 HD Regular Cab,2007,4.6 
+GMC,Sierra 2500 HD Regular Cab,2006,4.6 
+GMC,Sierra 2500 HD Regular Cab,2005,4.6 
+GMC,Sierra 2500 HD Regular Cab,2004,4.6 
+GMC,Sierra 2500 HD Regular Cab,2003,4.6 
+GMC,Sierra 2500 HD Regular Cab,2002,4.6 
+GMC,Sierra 2500 HD Regular Cab,2001,4.6 
+GMC,Sierra 2500 HD Regular Cab,2000,4.6 
+GMC,Sierra 2500 HD Regular Cab,1999,4.6 
+GMC,Sierra 3500 HD Crew Cab,2019,4.2 
+GMC,Sierra 3500 HD Crew Cab,2018,4.2 
+GMC,Sierra 3500 HD Crew Cab,2017,4.2 
+GMC,Sierra 3500 HD Crew Cab,2016,4.2 
+GMC,Sierra 3500 HD Crew Cab,2015,4.2 
+GMC,Sierra 3500 HD Crew Cab,2014,4.6 
+GMC,Sierra 3500 HD Crew Cab,2013,4.6 
+GMC,Sierra 3500 HD Crew Cab,2012,4.6 
+GMC,Sierra 3500 HD Crew Cab,2011,4.6 
+GMC,Sierra 3500 HD Crew Cab,2010,4.6 
+GMC,Sierra 3500 HD Crew Cab,2009,4.6 
+GMC,Sierra 3500 HD Crew Cab,2008,4.6 
+GMC,Sierra 3500 HD Crew Cab,2007,4.6 
+GMC,Sierra 3500 HD Double Cab,2018,4.2 
+GMC,Sierra 3500 HD Double Cab,2017,4.2 
+GMC,Sierra 3500 HD Double Cab,2016,4.2 
+GMC,Sierra 3500 HD Double Cab,2015,4.2 
+GMC,Sierra 3500 HD Regular Cab,2018,4.2 
+GMC,Sierra 3500 HD Regular Cab,2017,4.2 
+GMC,Sierra 3500 HD Regular Cab,2016,4.2 
+GMC,Sierra 3500 HD Regular Cab,2015,4.2 
+GMC,Sierra 3500 HD Regular Cab,2014,4.6 
+GMC,Sierra 3500 HD Regular Cab,2013,4.6 
+GMC,Sierra 3500 HD Regular Cab,2012,4.6 
+GMC,Sierra 3500 HD Regular Cab,2011,4.6 
+GMC,Sierra 3500 HD Regular Cab,2010,4.6 
+GMC,Sierra 3500 HD Regular Cab,2009,4.6 
+GMC,Sierra 3500 HD Regular Cab,2008,4.6 
+GMC,Sierra 3500 HD Regular Cab,2007,4.6 
+GMC,Savana 2500 Cargo,2018,4.3 
+GMC,Savana 2500 Cargo,2017,4.3 
+GMC,Savana 2500 Cargo,2016,4.3 
+GMC,Savana 2500 Cargo,2015,4.3 
+GMC,Savana 2500 Cargo,2014,4.3 
+GMC,Savana 2500 Cargo,2013,4.3 
+GMC,Savana 2500 Cargo,2012,4.3 
+GMC,Savana 2500 Cargo,2011,4.3 
+GMC,Savana 2500 Cargo,2010,4.3 
+GMC,Savana 2500 Cargo,2009,4.3 
+GMC,Savana 2500 Cargo,2008,4.3 
+GMC,Savana 2500 Cargo,2007,4.3 
+GMC,Savana 2500 Cargo,2006,4.3 
+GMC,Savana 2500 Cargo,2005,4.3 
+GMC,Savana 2500 Cargo,2004,4.3 
+GMC,Savana 2500 Cargo,2003,4.3 
+GMC,Savana 2500 Cargo,2002,4.3 
+GMC,Savana 2500 Cargo,2001,4.3 
+GMC,Savana 2500 Cargo,2000,4.3 
+GMC,Savana 2500 Cargo,1999,4.3 
+GMC,Savana 2500 Cargo,1998,4.3 
+GMC,Savana 2500 Cargo,1997,4.3 
+GMC,Savana 2500 Cargo,1996,4.3 
+GMC,Savana 2500 Passenger,2018,4.3 
+GMC,Savana 2500 Passenger,2017,4.3 
+GMC,Savana 2500 Passenger,2016,4.3 
+GMC,Savana 2500 Passenger,2015,4.3 
+GMC,Savana 2500 Passenger,2014,4.3 
+GMC,Savana 2500 Passenger,2013,4.3 
+GMC,Savana 2500 Passenger,2012,4.3 
+GMC,Savana 2500 Passenger,2011,4.3 
+GMC,Savana 2500 Passenger,2010,4.3 
+GMC,Savana 2500 Passenger,2009,4.3 
+GMC,Savana 2500 Passenger,2008,4.3 
+GMC,Savana 2500 Passenger,2007,4.3 
+GMC,Savana 2500 Passenger,2006,4.3 
+GMC,Savana 2500 Passenger,2005,4.3 
+GMC,Savana 2500 Passenger,2004,4.3 
+GMC,Savana 2500 Passenger,2003,4.3 
+GMC,Savana 2500 Passenger,2002,4.3 
+GMC,Savana 2500 Passenger,2001,4.3 
+GMC,Savana 2500 Passenger,2000,4.3 
+GMC,Savana 2500 Passenger,1999,4.3 
+GMC,Savana 2500 Passenger,1998,4.3 
+GMC,Savana 2500 Passenger,1997,4.3 
+GMC,Savana 2500 Passenger,1996,4.3 
+GMC,Savana 3500 Cargo,2018,4.3 
+GMC,Savana 3500 Cargo,2017,4.3 
+GMC,Savana 3500 Cargo,2016,4.3 
+GMC,Savana 3500 Cargo,2015,4.3 
+GMC,Savana 3500 Cargo,2014,4.3 
+GMC,Savana 3500 Cargo,2013,4.3 
+GMC,Savana 3500 Cargo,2012,4.3 
+GMC,Savana 3500 Cargo,2011,4.3 
+GMC,Savana 3500 Cargo,2010,4.3 
+GMC,Savana 3500 Cargo,2009,4.3 
+GMC,Savana 3500 Cargo,2008,4.3 
+GMC,Savana 3500 Cargo,2007,4.3 
+GMC,Savana 3500 Cargo,2006,4.3 
+GMC,Savana 3500 Cargo,2005,4.3 
+GMC,Savana 3500 Cargo,2004,4.3 
+GMC,Savana 3500 Cargo,2003,4.3 
+GMC,Savana 3500 Cargo,2002,4.3 
+GMC,Savana 3500 Cargo,2001,4.3 
+GMC,Savana 3500 Cargo,2000,4.3 
+GMC,Savana 3500 Cargo,1999,4.3 
+GMC,Savana 3500 Cargo,1998,4.3 
+GMC,Savana 3500 Cargo,1997,4.3 
+GMC,Savana 3500 Cargo,1996,4.3 
+GMC,Savana 3500 Passenger,2018,4.3 
+GMC,Savana 3500 Passenger,2017,4.3 
+GMC,Savana 3500 Passenger,2016,4.3 
+GMC,Savana 3500 Passenger,2015,4.3 
+GMC,Savana 3500 Passenger,2014,4.3 
+GMC,Savana 3500 Passenger,2013,4.3 
+GMC,Savana 3500 Passenger,2012,4.3 
+GMC,Savana 3500 Passenger,2011,4.3 
+GMC,Savana 3500 Passenger,2010,4.3 
+GMC,Savana 3500 Passenger,2009,4.3 
+GMC,Savana 3500 Passenger,2008,4.3 
+GMC,Savana 3500 Passenger,2007,4.3 
+GMC,Savana 3500 Passenger,2006,4.3 
+GMC,Savana 3500 Passenger,2005,4.3 
+GMC,Savana 3500 Passenger,2004,4.3 
+GMC,Savana 3500 Passenger,2003,4.3 
+GMC,Savana 3500 Passenger,2002,4.3 
+GMC,Savana 3500 Passenger,2001,4.3 
+GMC,Savana 3500 Passenger,2000,4.3 
+GMC,Savana 3500 Passenger,1999,4.3 
+GMC,Savana 3500 Passenger,1998,4.3 
+GMC,Savana 3500 Passenger,1997,4.3 
+GMC,Savana 3500 Passenger,1996,4.3 
+Honda,Accord,2020,4.5 
+Honda,Accord,2019,4.5 
+Honda,Accord,2018,4.5 
+Honda,Accord,2017,4.4 
+Honda,Accord,2016,4.4 
+Honda,Accord,2015,4.4 
+Honda,Accord,2014,4.4 
+Honda,Accord,2013,4.4 
+Honda,Accord,2012,4.3 
+Honda,Accord,2011,4.3 
+Honda,Accord,2010,4.3 
+Honda,Accord,2009,4.3 
+Honda,Accord,2008,4.3 
+Honda,Accord,2007,4.7 
+Honda,Accord,2006,4.7 
+Honda,Accord,2005,4.7 
+Honda,Accord,2004,4.7 
+Honda,Accord,2003,4.7 
+Honda,Accord,2002,4.5 
+Honda,Accord,2001,4.5 
+Honda,Accord,2000,4.5 
+Honda,Accord,1999,4.5 
+Honda,Accord,1998,4.5 
+Honda,Accord,1997,4.6 
+Honda,Accord,1996,4.6 
+Honda,Accord,1995,4.6 
+Honda,Accord,1994,4.6 
+Honda,Accord,1993,4.5 
+Honda,Accord,1992,4.5 
+Honda,Accord Hybrid,2020,4.0 
+Honda,Accord Hybrid,2019,4.0 
+Honda,Accord Hybrid,2018,4.0 
+Honda,Accord Hybrid,2017,4.8 
+Honda,Accord Hybrid,2015,4.8 
+Honda,Accord Hybrid,2014,4.8 
+Honda,Civic,2020,4.4 
+Honda,Civic,2019,4.4 
+Honda,Civic,2018,4.4 
+Honda,Civic,2017,4.4 
+Honda,Civic,2016,4.4 
+Honda,Civic,2015,4.5 
+Honda,Civic,2014,4.5 
+Honda,Civic,2013,4.5 
+Honda,Civic,2012,4.5 
+Honda,Civic,2011,4.5 
+Honda,Civic,2010,4.5 
+Honda,Civic,2009,4.5 
+Honda,Civic,2008,4.5 
+Honda,Civic,2007,4.5 
+Honda,Civic,2006,4.5 
+Honda,Civic,2005,4.6 
+Honda,Civic,2004,4.6 
+Honda,Civic,2003,4.6 
+Honda,Civic,2002,4.6 
+Honda,Civic,2001,4.6 
+Honda,Civic,2000,4.7 
+Honda,Civic,1999,4.7 
+Honda,Civic,1998,4.7 
+Honda,Civic,1997,4.7 
+Honda,Civic,1996,4.7 
+Honda,Civic,1995,4.5 
+Honda,Civic,1994,4.5 
+Honda,Civic,1993,4.5 
+Honda,Civic,1992,4.5 
+Honda,Civic Type R,2019,5.0 
+Honda,Civic Type R,2018,5.0 
+Honda,Civic Type R,2017,5.0 
+Honda,Clarity Electric,2019,4.4 
+Honda,Clarity Electric,2018,4.4 
+Honda,Clarity Fuel Cell,2019,4.4 
+Honda,Clarity Fuel Cell,2018,4.4 
+Honda,Clarity Plug-in Hybrid,2019,4.4 
+Honda,Clarity Plug-in Hybrid,2018,4.4 
+Honda,Fit,2019,4.5 
+Honda,Fit,2018,4.5 
+Honda,Fit,2017,4.5 
+Honda,Fit,2016,4.5 
+Honda,Fit,2015,4.5 
+Honda,Fit,2013,4.6 
+Honda,Fit,2012,4.6 
+Honda,Fit,2011,4.6 
+Honda,Fit,2010,4.6 
+Honda,Fit,2009,4.6 
+Honda,Fit,2008,4.7 
+Honda,Fit,2007,4.7 
+Honda,Insight,2020,4.6 
+Honda,Insight,2019,4.6 
+Honda,Insight,2014,4.4 
+Honda,Insight,2013,4.4 
+Honda,Insight,2012,4.4 
+Honda,Insight,2011,4.4 
+Honda,Insight,2010,4.4 
+Honda,Insight,2006,4.7 
+Honda,Insight,2005,4.7 
+Honda,Insight,2004,4.7 
+Honda,Insight,2003,4.7 
+Honda,Insight,2002,4.7 
+Honda,Insight,2001,4.7 
+Honda,Insight,2000,4.7 
+Honda,CR-V,2020,4.2 
+Honda,CR-V,2019,4.2 
+Honda,CR-V,2018,4.2 
+Honda,CR-V,2017,4.2 
+Honda,CR-V,2016,4.1 
+Honda,CR-V,2015,4.1 
+Honda,CR-V,2014,4.1 
+Honda,CR-V,2013,4.1 
+Honda,CR-V,2012,4.1 
+Honda,CR-V,2011,4.5 
+Honda,CR-V,2010,4.5 
+Honda,CR-V,2009,4.5 
+Honda,CR-V,2008,4.5 
+Honda,CR-V,2007,4.5 
+Honda,CR-V,2006,4.6 
+Honda,CR-V,2005,4.6 
+Honda,CR-V,2004,4.6 
+Honda,CR-V,2003,4.6 
+Honda,CR-V,2002,4.6 
+Honda,CR-V,2001,4.7 
+Honda,CR-V,2000,4.7 
+Honda,CR-V,1999,4.7 
+Honda,CR-V,1998,4.7 
+Honda,CR-V,1997,4.7 
+Honda,HR-V,2020,4.4 
+Honda,HR-V,2019,4.4 
+Honda,HR-V,2018,4.4 
+Honda,HR-V,2017,4.4 
+Honda,HR-V,2016,4.4 
+Honda,Passport,2019,4.4 
+Honda,Passport,2002,3.9 
+Honda,Passport,2001,3.9 
+Honda,Passport,2000,3.9 
+Honda,Passport,1999,3.9 
+Honda,Passport,1998,3.9 
+Honda,Passport,1997,3.9 
+Honda,Passport,1996,3.9 
+Honda,Passport,1995,3.9 
+Honda,Passport,1994,3.9 
+Honda,Pilot,2020,3.9 
+Honda,Pilot,2019,3.9 
+Honda,Pilot,2018,3.9 
+Honda,Pilot,2017,3.9 
+Honda,Pilot,2016,3.9 
+Honda,Pilot,2015,4.5 
+Honda,Pilot,2014,4.5 
+Honda,Pilot,2013,4.5 
+Honda,Pilot,2012,4.5 
+Honda,Pilot,2011,4.5 
+Honda,Pilot,2010,4.5 
+Honda,Pilot,2009,4.5 
+Honda,Pilot,2008,4.7 
+Honda,Pilot,2007,4.7 
+Honda,Pilot,2006,4.7 
+Honda,Pilot,2005,4.7 
+Honda,Pilot,2004,4.7 
+Honda,Pilot,2003,4.7 
+Honda,Ridgeline,2019,4.7 
+Honda,Ridgeline,2018,4.7 
+Honda,Ridgeline,2017,4.7 
+Honda,Ridgeline,2014,4.7 
+Honda,Ridgeline,2013,4.7 
+Honda,Ridgeline,2012,4.7 
+Honda,Ridgeline,2011,4.7 
+Honda,Ridgeline,2010,4.7 
+Honda,Ridgeline,2009,4.7 
+Honda,Ridgeline,2008,4.7 
+Honda,Ridgeline,2007,4.7 
+Honda,Ridgeline,2006,4.7 
+Honda,Odyssey,2020,4.0 
+Honda,Odyssey,2019,4.0 
+Honda,Odyssey,2018,4.0 
+Honda,Odyssey,2017,4.4 
+Honda,Odyssey,2016,4.4 
+Honda,Odyssey,2015,4.4 
+Honda,Odyssey,2014,4.4 
+Honda,Odyssey,2013,4.4 
+Honda,Odyssey,2012,4.4 
+Honda,Odyssey,2011,4.4 
+Honda,Odyssey,2010,4.5 
+Honda,Odyssey,2009,4.5 
+Honda,Odyssey,2008,4.5 
+Honda,Odyssey,2007,4.5 
+Honda,Odyssey,2006,4.5 
+Honda,Odyssey,2005,4.5 
+Honda,Odyssey,2004,4.3 
+Honda,Odyssey,2003,4.3 
+Honda,Odyssey,2002,4.3 
+Honda,Odyssey,2001,4.3 
+Honda,Odyssey,2000,4.3 
+Honda,Odyssey,1999,4.3 
+Honda,Odyssey,1998,4.8 
+Honda,Odyssey,1997,4.8 
+Honda,Odyssey,1996,4.8 
+Honda,Odyssey,1995,4.8 
+Hyundai,Accent,2020,5.0 
+Hyundai,Accent,2019,5.0 
+Hyundai,Accent,2018,5.0 
+Hyundai,Accent,2017,4.4 
+Hyundai,Accent,2016,4.4 
+Hyundai,Accent,2015,4.4 
+Hyundai,Accent,2014,4.4 
+Hyundai,Accent,2013,4.4 
+Hyundai,Accent,2012,4.4 
+Hyundai,Accent,2011,4.3 
+Hyundai,Accent,2010,4.3 
+Hyundai,Accent,2009,4.3 
+Hyundai,Accent,2008,4.3 
+Hyundai,Accent,2007,4.3 
+Hyundai,Accent,2006,4.3 
+Hyundai,Accent,2005,4.1 
+Hyundai,Accent,2004,4.1 
+Hyundai,Accent,2003,4.1 
+Hyundai,Accent,2002,4.1 
+Hyundai,Accent,2001,4.1 
+Hyundai,Accent,2000,4.1 
+Hyundai,Accent,1999,4.0 
+Hyundai,Accent,1998,4.0 
+Hyundai,Accent,1997,4.0 
+Hyundai,Accent,1996,4.0 
+Hyundai,Accent,1995,4.0 
+Hyundai,Elantra,2020,4.4 
+Hyundai,Elantra,2019,4.4 
+Hyundai,Elantra,2018,4.4 
+Hyundai,Elantra,2017,4.4 
+Hyundai,Elantra,2016,4.3 
+Hyundai,Elantra,2015,4.3 
+Hyundai,Elantra,2014,4.3 
+Hyundai,Elantra,2013,4.3 
+Hyundai,Elantra,2012,4.3 
+Hyundai,Elantra,2011,4.3 
+Hyundai,Elantra,2010,4.6 
+Hyundai,Elantra,2009,4.6 
+Hyundai,Elantra,2008,4.6 
+Hyundai,Elantra,2007,4.6 
+Hyundai,Elantra,2006,4.4 
+Hyundai,Elantra,2005,4.4 
+Hyundai,Elantra,2004,4.4 
+Hyundai,Elantra,2003,4.4 
+Hyundai,Elantra,2002,4.4 
+Hyundai,Elantra,2001,4.4 
+Hyundai,Elantra,2000,4.2 
+Hyundai,Elantra,1999,4.2 
+Hyundai,Elantra,1998,4.2 
+Hyundai,Elantra,1997,4.2 
+Hyundai,Elantra,1996,4.2 
+Hyundai,Elantra,1995,4.0 
+Hyundai,Elantra,1994,4.0 
+Hyundai,Elantra,1993,4.0 
+Hyundai,Elantra,1992,4.0 
+Hyundai,Ioniq Electric,2019,4.3 
+Hyundai,Ioniq Electric,2018,4.3 
+Hyundai,Ioniq Electric,2017,4.3 
+Hyundai,Ioniq Hybrid,2019,4.3 
+Hyundai,Ioniq Hybrid,2018,4.3 
+Hyundai,Ioniq Hybrid,2017,4.3 
+Hyundai,Ioniq Plug-in Hybrid,2019,4.3 
+Hyundai,Ioniq Plug-in Hybrid,2018,4.3 
+Hyundai,Sonata,2019,4.5 
+Hyundai,Sonata,2018,4.5 
+Hyundai,Sonata,2017,4.5 
+Hyundai,Sonata,2016,4.5 
+Hyundai,Sonata,2015,4.5 
+Hyundai,Sonata,2014,4.5 
+Hyundai,Sonata,2013,4.5 
+Hyundai,Sonata,2012,4.5 
+Hyundai,Sonata,2011,4.5 
+Hyundai,Sonata,2010,4.6 
+Hyundai,Sonata,2009,4.6 
+Hyundai,Sonata,2008,4.6 
+Hyundai,Sonata,2007,4.6 
+Hyundai,Sonata,2006,4.6 
+Hyundai,Sonata,2005,4.5 
+Hyundai,Sonata,2004,4.5 
+Hyundai,Sonata,2003,4.5 
+Hyundai,Sonata,2002,4.5 
+Hyundai,Sonata,2001,4.5 
+Hyundai,Sonata,2000,4.5 
+Hyundai,Sonata,1999,4.5 
+Hyundai,Sonata,1998,3.8 
+Hyundai,Sonata,1997,3.8 
+Hyundai,Sonata,1996,3.8 
+Hyundai,Sonata,1995,3.8 
+Hyundai,Sonata Hybrid,2019,4.4 
+Hyundai,Sonata Hybrid,2018,4.4 
+Hyundai,Sonata Hybrid,2017,4.4 
+Hyundai,Sonata Hybrid,2016,4.4 
+Hyundai,Sonata Plug-in Hybrid,2019,4.0 
+Hyundai,Sonata Plug-in Hybrid,2018,4.0 
+Hyundai,Sonata Plug-in Hybrid,2017,4.0 
+Hyundai,Sonata Plug-in Hybrid,2016,4.0 
+Hyundai,Kona,2020,4.6 
+Hyundai,Kona,2019,4.6 
+Hyundai,Kona,2018,4.6 
+Hyundai,Kona Electric,2020,4.6 
+Hyundai,Kona Electric,2019,4.6 
+Hyundai,Santa Fe,2020,4.9 
+Hyundai,Santa Fe,2019,4.9 
+Hyundai,Santa Fe,2018,4.8 
+Hyundai,Santa Fe,2017,4.8 
+Hyundai,Santa Fe,2016,4.8 
+Hyundai,Santa Fe,2015,4.8 
+Hyundai,Santa Fe,2014,4.8 
+Hyundai,Santa Fe,2013,4.8 
+Hyundai,Santa Fe,2012,4.6 
+Hyundai,Santa Fe,2011,4.6 
+Hyundai,Santa Fe,2010,4.6 
+Hyundai,Santa Fe,2009,4.6 
+Hyundai,Santa Fe,2008,4.6 
+Hyundai,Santa Fe,2007,4.6 
+Hyundai,Santa Fe,2006,4.6 
+Hyundai,Santa Fe,2005,4.6 
+Hyundai,Santa Fe,2004,4.6 
+Hyundai,Santa Fe,2003,4.6 
+Hyundai,Santa Fe,2002,4.6 
+Hyundai,Santa Fe,2001,4.6 
+Hyundai,Santa Fe Sport,2018,4.7 
+Hyundai,Santa Fe Sport,2017,4.7 
+Hyundai,Santa Fe Sport,2016,4.7 
+Hyundai,Santa Fe Sport,2015,4.7 
+Hyundai,Santa Fe Sport,2014,4.7 
+Hyundai,Santa Fe Sport,2013,4.7 
+Hyundai,Tucson,2020,4.2 
+Hyundai,Tucson,2019,4.2 
+Hyundai,Tucson,2018,4.2 
+Hyundai,Tucson,2017,4.2 
+Hyundai,Tucson,2016,4.2 
+Hyundai,Tucson,2015,4.2 
+Hyundai,Tucson,2014,4.2 
+Hyundai,Tucson,2013,4.2 
+Hyundai,Tucson,2012,4.2 
+Hyundai,Tucson,2011,4.2 
+Hyundai,Tucson,2010,4.2 
+Hyundai,Tucson,2009,4.5 
+Hyundai,Tucson,2008,4.5 
+Hyundai,Tucson,2007,4.5 
+Hyundai,Tucson,2006,4.5 
+Hyundai,Tucson,2005,4.5 
+Hyundai,Veloster,2020,5.0 
+Hyundai,Veloster,2019,5.0 
+Hyundai,Veloster,2017,4.1 
+Hyundai,Veloster,2016,4.1 
+Hyundai,Veloster,2015,4.1 
+Hyundai,Veloster,2014,4.1 
+Hyundai,Veloster,2013,4.1 
+Hyundai,Veloster,2012,4.1 
+Hyundai,Elantra GT,2019,4.4 
+Hyundai,Elantra GT,2018,4.4 
+Hyundai,Elantra GT,2017,4.3 
+Hyundai,Elantra GT,2016,4.3 
+Hyundai,Elantra GT,2015,4.3 
+INFINITI,Q50,2020,4.3 
+INFINITI,Q50,2019,4.3 
+INFINITI,Q50,2018,4.3 
+INFINITI,Q50,2017,4.3 
+INFINITI,Q50,2016,4.3 
+INFINITI,Q50,2015,4.3 
+INFINITI,Q50,2014,4.3 
+INFINITI,Q70,2019,4.5 
+INFINITI,Q70,2018,4.5 
+INFINITI,Q70,2017,4.5 
+INFINITI,Q70,2016,4.5 
+INFINITI,Q70,2015,4.5 
+INFINITI,Q70,2014,4.5 
+INFINITI,QX30,2019,3.8 
+INFINITI,QX30,2018,3.8 
+INFINITI,QX30,2017,3.8 
+INFINITI,QX50,2020,4.9 
+INFINITI,QX50,2019,4.9 
+INFINITI,QX50,2017,4.7 
+INFINITI,QX50,2016,4.7 
+INFINITI,QX50,2015,4.7 
+INFINITI,QX50,2014,4.7 
+INFINITI,QX60,2020,4.1 
+INFINITI,QX60,2019,4.1 
+INFINITI,QX60,2018,4.1 
+INFINITI,QX60,2017,4.1 
+INFINITI,QX60,2016,4.1 
+INFINITI,QX60,2015,4.1 
+INFINITI,QX60,2014,4.1 
+INFINITI,QX80,2019,4.1 
+INFINITI,QX80,2018,4.1 
+INFINITI,QX80,2017,4.1 
+INFINITI,QX80,2016,4.1 
+INFINITI,QX80,2015,4.1 
+INFINITI,QX80,2014,4.1 
+INFINITI,Q60,2019,4.7 
+INFINITI,Q60,2018,4.7 
+INFINITI,Q60,2017,4.7 
+INFINITI,Q60,2015,4.5 
+INFINITI,Q60,2014,4.5 
+Jaguar,XE,2019,4.9 
+Jaguar,XE,2018,4.9 
+Jaguar,XE,2017,4.9 
+Jaguar,XF,2019,4.5 
+Jaguar,XF,2018,4.5 
+Jaguar,XF,2017,4.5 
+Jaguar,XF,2016,4.5 
+Jaguar,XF,2015,4.6 
+Jaguar,XF,2014,4.6 
+Jaguar,XF,2013,4.6 
+Jaguar,XF,2012,4.6 
+Jaguar,XF,2011,4.6 
+Jaguar,XF,2010,4.6 
+Jaguar,XF,2009,4.6 
+Jaguar,XJ,2019,4.8 
+Jaguar,XJ,2018,4.8 
+Jaguar,XJ,2017,4.8 
+Jaguar,XJ,2016,4.8 
+Jaguar,XJ,2015,4.8 
+Jaguar,XJ,2014,4.8 
+Jaguar,XJ,2013,4.8 
+Jaguar,XJ,2012,4.8 
+Jaguar,XJ,2011,4.8 
+Jaguar,XJ,2009,4.7 
+Jaguar,XJ,2008,4.7 
+Jaguar,XJ,2007,4.7 
+Jaguar,XJ,2006,4.7 
+Jaguar,XJ,2005,4.7 
+Jaguar,XJ,2004,4.7 
+Jaguar,XJ,2003,4.7 
+Jaguar,XJ,2002,4.3 
+Jaguar,XJ,2001,4.3 
+Jaguar,XJ,2000,4.3 
+Jaguar,XJ,1999,4.3 
+Jaguar,XJ,1998,4.3 
+Jaguar,XJ,1997,4.7 
+Jaguar,XJ,1996,4.7 
+Jaguar,XJ,1995,4.7 
+Jaguar,XJ,1994,4.4 
+Jaguar,XJ,1993,4.4 
+Jaguar,XJ,1992,4.4 
+Jaguar,F-PACE,2020,4.7 
+Jaguar,F-PACE,2019,4.7 
+Jaguar,F-PACE,2018,4.7 
+Jaguar,F-PACE,2017,4.7 
+Jaguar,I-PACE,2020,5.0 
+Jaguar,I-PACE,2019,5.0 
+Jaguar,F-TYPE,2020,4.9 
+Jaguar,F-TYPE,2019,4.9 
+Jaguar,F-TYPE,2018,4.9 
+Jaguar,F-TYPE,2017,4.9 
+Jaguar,F-TYPE,2016,4.9 
+Jaguar,F-TYPE,2015,4.9 
+Jaguar,F-TYPE,2014,4.9 
+Jeep,Cherokee,2020,3.9 
+Jeep,Cherokee,2019,3.9 
+Jeep,Cherokee,2018,3.9 
+Jeep,Cherokee,2017,3.9 
+Jeep,Cherokee,2016,3.9 
+Jeep,Cherokee,2015,3.9 
+Jeep,Cherokee,2014,3.9 
+Jeep,Cherokee,2001,4.6 
+Jeep,Cherokee,2000,4.6 
+Jeep,Cherokee,1999,4.6 
+Jeep,Cherokee,1998,4.6 
+Jeep,Cherokee,1997,4.6 
+Jeep,Cherokee,1996,4.5 
+Jeep,Cherokee,1995,4.5 
+Jeep,Cherokee,1994,4.5 
+Jeep,Cherokee,1993,4.5 
+Jeep,Cherokee,1992,4.5 
+Jeep,Compass,2020,4.0 
+Jeep,Compass,2019,4.0 
+Jeep,Compass,2018,4.0 
+Jeep,Compass,2017,3.8 
+Jeep,Compass,2016,3.8 
+Jeep,Compass,2015,3.8 
+Jeep,Compass,2014,3.8 
+Jeep,Compass,2013,3.8 
+Jeep,Compass,2012,3.8 
+Jeep,Compass,2011,3.8 
+Jeep,Compass,2010,3.8 
+Jeep,Compass,2009,3.8 
+Jeep,Compass,2008,3.8 
+Jeep,Compass,2007,3.8 
+Jeep,Grand Cherokee,2020,4.4 
+Jeep,Grand Cherokee,2019,4.4 
+Jeep,Grand Cherokee,2018,4.4 
+Jeep,Grand Cherokee,2017,4.4 
+Jeep,Grand Cherokee,2016,4.4 
+Jeep,Grand Cherokee,2015,4.4 
+Jeep,Grand Cherokee,2014,4.4 
+Jeep,Grand Cherokee,2013,4.4 
+Jeep,Grand Cherokee,2012,4.4 
+Jeep,Grand Cherokee,2011,4.4 
+Jeep,Grand Cherokee,2010,4.2 
+Jeep,Grand Cherokee,2009,4.2 
+Jeep,Grand Cherokee,2008,4.2 
+Jeep,Grand Cherokee,2007,4.2 
+Jeep,Grand Cherokee,2006,4.2 
+Jeep,Grand Cherokee,2005,4.2 
+Jeep,Grand Cherokee,2004,4.2 
+Jeep,Grand Cherokee,2003,4.2 
+Jeep,Grand Cherokee,2002,4.2 
+Jeep,Grand Cherokee,2001,4.2 
+Jeep,Grand Cherokee,2000,4.2 
+Jeep,Grand Cherokee,1999,4.2 
+Jeep,Grand Cherokee,1998,4.4 
+Jeep,Grand Cherokee,1997,4.4 
+Jeep,Grand Cherokee,1996,4.4 
+Jeep,Grand Cherokee,1995,4.4 
+Jeep,Grand Cherokee,1994,4.4 
+Jeep,Grand Cherokee,1993,4.4 
+Jeep,Renegade,2019,4.0 
+Jeep,Renegade,2018,4.0 
+Jeep,Renegade,2017,4.0 
+Jeep,Renegade,2016,4.0 
+Jeep,Renegade,2015,4.0 
+Jeep,Wrangler,2020,4.8 
+Jeep,Wrangler,2019,4.8 
+Jeep,Wrangler,2018,4.6 
+Jeep,Wrangler,2017,4.6 
+Jeep,Wrangler,2016,4.6 
+Jeep,Wrangler,2015,4.6 
+Jeep,Wrangler,2014,4.6 
+Jeep,Wrangler,2013,4.6 
+Jeep,Wrangler,2012,4.6 
+Jeep,Wrangler,2011,4.6 
+Jeep,Wrangler,2010,4.6 
+Jeep,Wrangler,2009,4.6 
+Jeep,Wrangler,2008,4.6 
+Jeep,Wrangler,2007,4.6 
+Jeep,Wrangler,2006,4.6 
+Jeep,Wrangler,2005,4.6 
+Jeep,Wrangler,2004,4.6 
+Jeep,Wrangler,2003,4.6 
+Jeep,Wrangler,2002,4.6 
+Jeep,Wrangler,2001,4.6 
+Jeep,Wrangler,2000,4.6 
+Jeep,Wrangler,1999,4.6 
+Jeep,Wrangler,1998,4.6 
+Jeep,Wrangler,1997,4.6 
+Jeep,Wrangler,1995,4.5 
+Jeep,Wrangler,1994,4.5 
+Jeep,Wrangler,1993,4.5 
+Jeep,Wrangler,1992,4.5 
+Jeep,Wrangler Unlimited,2020,4.8 
+Jeep,Wrangler Unlimited,2019,4.8 
+Jeep,Wrangler Unlimited,2018,4.6 
+Jeep,Wrangler Unlimited,2017,4.6 
+Kia,Cadenza,2019,5.0 
+Kia,Cadenza,2018,5.0 
+Kia,Cadenza,2017,5.0 
+Kia,Cadenza,2016,4.4 
+Kia,Cadenza,2015,4.4 
+Kia,Cadenza,2014,4.4 
+Kia,Forte,2020,4.7 
+Kia,Forte,2019,4.7 
+Kia,Forte,2018,4.5 
+Kia,Forte,2017,4.5 
+Kia,Forte,2016,4.5 
+Kia,Forte,2015,4.5 
+Kia,Forte,2014,4.5 
+Kia,Forte,2013,4.5 
+Kia,Forte,2012,4.5 
+Kia,Forte,2011,4.5 
+Kia,Forte,2010,4.5 
+Kia,K900,2017,4.1 
+Kia,K900,2016,4.1 
+Kia,K900,2015,4.1 
+Kia,Optima,2020,4.5 
+Kia,Optima,2019,4.5 
+Kia,Optima,2018,4.5 
+Kia,Optima,2017,4.5 
+Kia,Optima,2016,4.5 
+Kia,Optima,2015,4.7 
+Kia,Optima,2014,4.7 
+Kia,Optima,2013,4.7 
+Kia,Optima,2012,4.7 
+Kia,Optima,2011,4.7 
+Kia,Optima,2010,4.6 
+Kia,Optima,2009,4.6 
+Kia,Optima,2008,4.6 
+Kia,Optima,2007,4.6 
+Kia,Optima,2006,4.6 
+Kia,Optima,2005,4.1 
+Kia,Optima,2004,4.1 
+Kia,Optima,2003,4.1 
+Kia,Optima,2002,4.1 
+Kia,Optima,2001,4.1 
+Kia,Optima Hybrid,2020,4.7 
+Kia,Optima Hybrid,2019,4.7 
+Kia,Optima Hybrid,2018,4.7 
+Kia,Optima Hybrid,2017,4.7 
+Kia,Optima Hybrid,2016,4.7 
+Kia,Optima Hybrid,2015,4.7 
+Kia,Optima Plug-in Hybrid,2020,4.7 
+Kia,Optima Plug-in Hybrid,2019,4.7 
+Kia,Optima Plug-in Hybrid,2018,4.7 
+Kia,Optima Plug-in Hybrid,2017,4.7 
+Kia,Rio,2020,5.0 
+Kia,Rio,2019,5.0 
+Kia,Rio,2018,5.0 
+Kia,Rio,2017,4.3 
+Kia,Rio,2016,4.3 
+Kia,Rio,2015,4.3 
+Kia,Rio,2014,4.3 
+Kia,Rio,2013,4.3 
+Kia,Rio,2012,4.3 
+Kia,Rio,2011,4.3 
+Kia,Rio,2010,4.3 
+Kia,Rio,2009,4.3 
+Kia,Rio,2008,4.3 
+Kia,Rio,2007,4.3 
+Kia,Rio,2006,4.3 
+Kia,Rio,2005,3.5 
+Kia,Rio,2004,3.5 
+Kia,Rio,2003,3.5 
+Kia,Rio,2002,3.5 
+Kia,Rio,2001,3.5 
+Kia,Stinger,2019,4.5 
+Kia,Stinger,2018,4.5 
+Kia,Sorento,2020,4.7 
+Kia,Sorento,2019,4.7 
+Kia,Sorento,2018,4.7 
+Kia,Sorento,2017,4.7 
+Kia,Sorento,2016,4.7 
+Kia,Sorento,2015,4.3 
+Kia,Sorento,2014,4.3 
+Kia,Sorento,2013,4.3 
+Kia,Sorento,2012,4.3 
+Kia,Sorento,2011,4.3 
+Kia,Sorento,2009,4.1 
+Kia,Sorento,2008,4.1 
+Kia,Sorento,2007,4.1 
+Kia,Sorento,2006,4.1 
+Kia,Sorento,2005,4.1 
+Kia,Sorento,2004,4.1 
+Kia,Sorento,2003,4.1 
+Kia,Sportage,2020,4.8 
+Kia,Sportage,2019,4.8 
+Kia,Sportage,2018,4.8 
+Kia,Sportage,2017,4.8 
+Kia,Sportage,2016,4.5 
+Kia,Sportage,2015,4.5 
+Kia,Sportage,2014,4.5 
+Kia,Sportage,2013,4.5 
+Kia,Sportage,2012,4.5 
+Kia,Sportage,2011,4.5 
+Kia,Sportage,2010,4.5 
+Kia,Sportage,2009,4.5 
+Kia,Sportage,2008,4.5 
+Kia,Sportage,2007,4.5 
+Kia,Sportage,2006,4.5 
+Kia,Sportage,2005,4.5 
+Kia,Sportage,2002,3.4 
+Kia,Sportage,2001,3.4 
+Kia,Sportage,2000,3.4 
+Kia,Sportage,1999,3.4 
+Kia,Sportage,1998,3.4 
+Kia,Sportage,1997,3.4 
+Kia,Sportage,1996,3.4 
+Kia,Sportage,1995,3.4 
+Kia,Sedona,2020,4.3 
+Kia,Sedona,2019,4.3 
+Kia,Sedona,2018,4.3 
+Kia,Sedona,2017,4.3 
+Kia,Sedona,2016,4.3 
+Kia,Sedona,2015,4.3 
+Kia,Sedona,2014,4.2 
+Kia,Sedona,2012,4.2 
+Kia,Sedona,2011,4.2 
+Kia,Sedona,2010,4.2 
+Kia,Sedona,2009,4.2 
+Kia,Sedona,2008,4.2 
+Kia,Sedona,2007,4.2 
+Kia,Sedona,2006,4.2 
+Kia,Sedona,2005,3.7 
+Kia,Sedona,2004,3.7 
+Kia,Sedona,2003,3.7 
+Kia,Sedona,2002,3.7 
+Kia,Niro,2019,4.8 
+Kia,Niro,2018,4.8 
+Kia,Niro,2017,4.8 
+Kia,Niro Plug-in Hybrid,2019,4.8 
+Kia,Niro Plug-in Hybrid,2018,4.8 
+Kia,Soul EV,2019,4.8 
+Kia,Soul EV,2018,4.8 
+Kia,Soul EV,2017,4.8 
+Kia,Soul EV,2016,4.8 
+Kia,Soul EV,2015,4.8 
+Kia,Forte5,2018,4.5 
+Kia,Forte5,2017,4.5 
+Kia,Forte5,2016,4.5 
+Kia,Forte5,2015,4.5 
+Kia,Soul,2020,5.0 
+Kia,Soul,2019,4.5 
+Kia,Soul,2018,4.5 
+Kia,Soul,2017,4.5 
+Kia,Soul,2016,4.5 
+Kia,Soul,2015,4.5 
+Kia,Soul,2014,4.5 
+Kia,Soul,2013,4.5 
+Kia,Soul,2012,4.5 
+Kia,Soul,2011,4.5 
+Kia,Soul,2010,4.5 
+Lamborghini,Aventador,2018,4.4 
+Lamborghini,Aventador,2017,4.4 
+Lamborghini,Aventador,2016,4.4 
+Lamborghini,Aventador,2015,4.4 
+Lamborghini,Aventador,2014,4.4 
+Lamborghini,Aventador,2013,4.4 
+Lamborghini,Aventador,2012,4.4 
+Lamborghini,Huracan,2018,5.0 
+Lamborghini,Huracan,2017,5.0 
+Lamborghini,Huracan,2016,5.0 
+Lamborghini,Huracan,2015,5.0 
+Land Rover,Discovery,2020,5.0 
+Land Rover,Discovery,2019,5.0 
+Land Rover,Discovery,2018,5.0 
+Land Rover,Discovery,2017,5.0 
+Land Rover,Discovery,2004,3.8 
+Land Rover,Discovery,2003,3.8 
+Land Rover,Discovery,1999,3.8 
+Land Rover,Discovery,1998,3.8 
+Land Rover,Discovery,1997,3.8 
+Land Rover,Discovery,1996,3.8 
+Land Rover,Discovery,1995,3.8 
+Land Rover,Discovery,1994,3.8 
+Land Rover,Discovery Sport,2019,3.9 
+Land Rover,Discovery Sport,2018,3.9 
+Land Rover,Discovery Sport,2017,3.9 
+Land Rover,Discovery Sport,2016,3.9 
+Land Rover,Discovery Sport,2015,3.9 
+Land Rover,Range Rover,2020,3.8 
+Land Rover,Range Rover,2019,3.8 
+Land Rover,Range Rover,2018,3.8 
+Land Rover,Range Rover,2017,3.8 
+Land Rover,Range Rover,2016,3.8 
+Land Rover,Range Rover,2015,3.8 
+Land Rover,Range Rover,2014,3.8 
+Land Rover,Range Rover,2013,3.8 
+Land Rover,Range Rover,2012,3.9 
+Land Rover,Range Rover,2011,3.9 
+Land Rover,Range Rover,2010,3.9 
+Land Rover,Range Rover,2009,3.9 
+Land Rover,Range Rover,2008,3.9 
+Land Rover,Range Rover,2007,3.9 
+Land Rover,Range Rover,2006,3.9 
+Land Rover,Range Rover,2005,3.9 
+Land Rover,Range Rover,2004,3.9 
+Land Rover,Range Rover,2003,3.9 
+Land Rover,Range Rover,2002,3.9 
+Land Rover,Range Rover,2001,3.9 
+Land Rover,Range Rover,2000,3.9 
+Land Rover,Range Rover,1999,3.9 
+Land Rover,Range Rover,1998,3.9 
+Land Rover,Range Rover,1997,3.9 
+Land Rover,Range Rover,1996,3.9 
+Land Rover,Range Rover,1995,3.9 
+Land Rover,Range Rover,1994,4.2 
+Land Rover,Range Rover,1993,4.2 
+Land Rover,Range Rover,1992,4.2 
+Land Rover,Range Rover Evoque,2019,3.9 
+Land Rover,Range Rover Evoque,2018,3.9 
+Land Rover,Range Rover Evoque,2017,3.9 
+Land Rover,Range Rover Evoque,2016,3.9 
+Land Rover,Range Rover Evoque,2015,3.9 
+Land Rover,Range Rover Evoque,2014,3.9 
+Land Rover,Range Rover Evoque,2013,3.9 
+Land Rover,Range Rover Evoque,2012,3.9 
+Land Rover,Range Rover Sport,2019,4.4 
+Land Rover,Range Rover Sport,2018,4.4 
+Land Rover,Range Rover Sport,2017,4.4 
+Land Rover,Range Rover Sport,2016,4.4 
+Land Rover,Range Rover Sport,2015,4.4 
+Land Rover,Range Rover Sport,2014,4.4 
+Land Rover,Range Rover Sport,2013,4.4 
+Land Rover,Range Rover Sport,2012,4.4 
+Land Rover,Range Rover Sport,2011,4.4 
+Land Rover,Range Rover Sport,2010,4.4 
+Land Rover,Range Rover Sport,2009,4.4 
+Land Rover,Range Rover Sport,2008,4.4 
+Land Rover,Range Rover Sport,2007,4.4 
+Land Rover,Range Rover Sport,2006,4.4 
+Land Rover,Range Rover Evoque,2019,3.9 
+Land Rover,Range Rover Evoque,2018,3.9 
+Land Rover,Range Rover Evoque,2017,3.9 
+Land Rover,Range Rover Evoque,2016,3.9 
+Land Rover,Range Rover Evoque,2015,3.9 
+Land Rover,Range Rover Evoque,2014,3.9 
+Land Rover,Range Rover Evoque,2013,3.9 
+Land Rover,Range Rover Evoque,2012,3.9 
+Lexus,ES,2020,3.5 
+Lexus,ES,2019,3.5 
+Lexus,ES,2018,4.6 
+Lexus,ES,2017,4.6 
+Lexus,ES,2016,4.6 
+Lexus,ES,2015,4.6 
+Lexus,ES,2014,4.6 
+Lexus,ES,2013,4.6 
+Lexus,ES,2012,4.7 
+Lexus,ES,2011,4.7 
+Lexus,ES,2010,4.7 
+Lexus,ES,2009,4.7 
+Lexus,ES,2008,4.7 
+Lexus,ES,2007,4.7 
+Lexus,ES,2006,4.8 
+Lexus,ES,2005,4.8 
+Lexus,ES,2004,4.8 
+Lexus,ES,2003,4.8 
+Lexus,ES,2002,4.8 
+Lexus,ES,2001,4.8 
+Lexus,ES,2000,4.8 
+Lexus,ES,1999,4.8 
+Lexus,ES,1998,4.8 
+Lexus,ES,1997,4.8 
+Lexus,ES,1996,4.5 
+Lexus,ES,1995,4.5 
+Lexus,ES,1994,4.5 
+Lexus,ES,1993,4.5 
+Lexus,ES,1992,4.5 
+Lexus,GS,2020,4.6 
+Lexus,GS,2019,4.6 
+Lexus,GS,2018,4.6 
+Lexus,GS,2017,4.6 
+Lexus,GS,2016,4.6 
+Lexus,GS,2015,4.6 
+Lexus,GS,2014,4.6 
+Lexus,GS,2013,4.6 
+Lexus,GS,2011,4.7 
+Lexus,GS,2010,4.7 
+Lexus,GS,2009,4.7 
+Lexus,GS,2008,4.7 
+Lexus,GS,2007,4.7 
+Lexus,GS,2006,4.7 
+Lexus,GS,2005,4.8 
+Lexus,GS,2004,4.8 
+Lexus,GS,2003,4.8 
+Lexus,GS,2002,4.8 
+Lexus,GS,2001,4.8 
+Lexus,GS,2000,4.8 
+Lexus,GS,1999,4.8 
+Lexus,GS,1998,4.8 
+Lexus,GS,1997,4.8 
+Lexus,GS,1996,4.8 
+Lexus,GS,1995,4.8 
+Lexus,GS,1994,4.8 
+Lexus,GS,1993,4.8 
+Lexus,IS,2020,4.5 
+Lexus,IS,2019,4.5 
+Lexus,IS,2018,4.5 
+Lexus,IS,2017,4.5 
+Lexus,IS,2016,4.5 
+Lexus,IS,2015,4.5 
+Lexus,IS,2014,4.5 
+Lexus,IS,2013,4.7 
+Lexus,IS,2012,4.7 
+Lexus,IS,2011,4.7 
+Lexus,IS,2010,4.7 
+Lexus,IS,2009,4.7 
+Lexus,IS,2008,4.7 
+Lexus,IS,2007,4.7 
+Lexus,IS,2006,4.7 
+Lexus,IS,2005,4.8 
+Lexus,IS,2004,4.8 
+Lexus,IS,2003,4.8 
+Lexus,IS,2002,4.8 
+Lexus,IS,2001,4.8 
+Lexus,LS,2020,3.0 
+Lexus,LS,2019,3.0 
+Lexus,LS,2018,3.0 
+Lexus,LS,2017,4.7 
+Lexus,LS,2016,4.7 
+Lexus,LS,2015,4.7 
+Lexus,LS,2014,4.7 
+Lexus,LS,2013,4.7 
+Lexus,LS,2012,4.7 
+Lexus,LS,2011,4.7 
+Lexus,LS,2010,4.7 
+Lexus,LS,2009,4.7 
+Lexus,LS,2008,4.7 
+Lexus,LS,2007,4.7 
+Lexus,LS,2006,4.9 
+Lexus,LS,2005,4.9 
+Lexus,LS,2004,4.9 
+Lexus,LS,2003,4.9 
+Lexus,LS,2002,4.9 
+Lexus,LS,2001,4.9 
+Lexus,LS,2000,4.9 
+Lexus,LS,1999,4.9 
+Lexus,LS,1998,4.9 
+Lexus,LS,1997,4.9 
+Lexus,LS,1996,4.9 
+Lexus,LS,1995,4.9 
+Lexus,LS,1994,4.7 
+Lexus,LS,1993,4.7 
+Lexus,LS,1992,4.7 
+Lexus,GX,2020,4.5 
+Lexus,GX,2019,4.5 
+Lexus,GX,2018,4.5 
+Lexus,GX,2017,4.5 
+Lexus,GX,2016,4.5 
+Lexus,GX,2015,4.5 
+Lexus,GX,2014,4.5 
+Lexus,GX,2013,4.5 
+Lexus,GX,2012,4.5 
+Lexus,GX,2011,4.5 
+Lexus,GX,2010,4.5 
+Lexus,GX,2009,4.8 
+Lexus,GX,2008,4.8 
+Lexus,GX,2007,4.8 
+Lexus,GX,2006,4.8 
+Lexus,GX,2005,4.8 
+Lexus,GX,2004,4.8 
+Lexus,GX,2003,4.8 
+Lexus,LX,2020,4.7 
+Lexus,LX,2019,4.7 
+Lexus,LX,2018,4.7 
+Lexus,LX,2017,4.7 
+Lexus,LX,2016,4.7 
+Lexus,LX,2015,4.7 
+Lexus,LX,2014,4.7 
+Lexus,LX,2013,4.7 
+Lexus,LX,2011,4.7 
+Lexus,LX,2010,4.7 
+Lexus,LX,2009,4.7 
+Lexus,LX,2008,4.7 
+Lexus,LX,2007,4.9 
+Lexus,LX,2006,4.9 
+Lexus,LX,2005,4.9 
+Lexus,LX,2004,4.9 
+Lexus,LX,2003,4.9 
+Lexus,LX,2002,4.9 
+Lexus,LX,2001,4.9 
+Lexus,LX,2000,4.9 
+Lexus,LX,1999,4.9 
+Lexus,LX,1998,4.9 
+Lexus,LX,1997,4.6 
+Lexus,LX,1996,4.6 
+Lexus,NX,2020,4.5 
+Lexus,NX,2019,4.5 
+Lexus,NX,2018,4.5 
+Lexus,NX,2017,4.5 
+Lexus,NX,2016,4.5 
+Lexus,NX,2015,4.5 
+Lexus,RX,2020,3.9 
+Lexus,RX,2019,3.9 
+Lexus,RX,2018,3.9 
+Lexus,RX,2017,3.9 
+Lexus,RX,2016,3.9 
+Lexus,RX,2015,4.5 
+Lexus,RX,2014,4.5 
+Lexus,RX,2013,4.5 
+Lexus,RX,2012,4.5 
+Lexus,RX,2011,4.5 
+Lexus,RX,2010,4.5 
+Lexus,RX,2009,4.7 
+Lexus,RX,2008,4.7 
+Lexus,RX,2007,4.7 
+Lexus,RX,2006,4.7 
+Lexus,RX,2005,4.7 
+Lexus,RX,2004,4.7 
+Lexus,RX,2003,4.7 
+Lexus,RX,2002,4.7 
+Lexus,RX,2001,4.7 
+Lexus,RX,2000,4.7 
+Lexus,RX,1999,4.7 
+Lexus,UX,2020,5.0 
+Lexus,UX,2019,5.0 
+Lexus,LC,2020,4.7 
+Lexus,LC,2019,4.7 
+Lexus,LC,2018,4.7 
+Lexus,RC,2020,4.9 
+Lexus,RC,2019,4.9 
+Lexus,RC,2018,4.9 
+Lexus,RC,2017,4.9 
+Lexus,RC,2016,4.9 
+Lexus,RC,2015,4.9 
+Lincoln,Continental,2019,4.7 
+Lincoln,Continental,2018,4.7 
+Lincoln,Continental,2017,4.7 
+Lincoln,Continental,2002,4.7 
+Lincoln,Continental,2001,4.7 
+Lincoln,Continental,2000,4.7 
+Lincoln,Continental,1999,4.7 
+Lincoln,Continental,1998,4.7 
+Lincoln,Continental,1997,4.4 
+Lincoln,Continental,1996,4.4 
+Lincoln,Continental,1995,4.4 
+Lincoln,Continental,1994,3.6 
+Lincoln,Continental,1993,3.6 
+Lincoln,Continental,1992,3.6 
+Lincoln,MKZ,2019,4.6 
+Lincoln,MKZ,2018,4.6 
+Lincoln,MKZ,2017,4.6 
+Lincoln,MKZ,2016,4.6 
+Lincoln,MKZ,2015,4.6 
+Lincoln,MKZ,2014,4.6 
+Lincoln,MKZ,2013,4.6 
+Lincoln,MKZ,2012,4.7 
+Lincoln,MKZ,2011,4.7 
+Lincoln,MKZ,2010,4.7 
+Lincoln,MKZ,2009,4.7 
+Lincoln,MKZ,2008,4.7 
+Lincoln,MKZ,2007,4.7 
+Lincoln,Aviator,2020,5.0 
+Lincoln,Aviator,2005,4.4 
+Lincoln,Aviator,2004,4.4 
+Lincoln,Aviator,2003,4.4 
+Lincoln,MKC,2019,4.7 
+Lincoln,MKC,2018,4.7 
+Lincoln,MKC,2017,4.7 
+Lincoln,MKC,2016,4.7 
+Lincoln,MKC,2015,4.7 
+Lincoln,MKT,2019,4.6 
+Lincoln,MKT,2018,4.6 
+Lincoln,MKT,2017,4.6 
+Lincoln,MKT,2016,4.6 
+Lincoln,MKT,2015,4.6 
+Lincoln,MKT,2014,4.6 
+Lincoln,MKT,2013,4.6 
+Lincoln,MKT,2012,4.6 
+Lincoln,MKT,2011,4.6 
+Lincoln,MKT,2010,4.6 
+Lincoln,MKX,2018,4.7 
+Lincoln,MKX,2017,4.7 
+Lincoln,MKX,2016,4.7 
+Lincoln,MKX,2015,4.8 
+Lincoln,MKX,2014,4.8 
+Lincoln,MKX,2013,4.8 
+Lincoln,MKX,2012,4.8 
+Lincoln,MKX,2011,4.8 
+Lincoln,MKX,2010,4.8 
+Lincoln,MKX,2009,4.8 
+Lincoln,MKX,2008,4.8 
+Lincoln,MKX,2007,4.8 
+Lincoln,Navigator,2020,4.2 
+Lincoln,Navigator,2019,4.2 
+Lincoln,Navigator,2018,4.2 
+Lincoln,Navigator,2017,4.7 
+Lincoln,Navigator,2016,4.7 
+Lincoln,Navigator,2015,4.7 
+Lincoln,Navigator,2014,4.7 
+Lincoln,Navigator,2013,4.7 
+Lincoln,Navigator,2012,4.7 
+Lincoln,Navigator,2011,4.7 
+Lincoln,Navigator,2010,4.7 
+Lincoln,Navigator,2009,4.7 
+Lincoln,Navigator,2008,4.7 
+Lincoln,Navigator,2007,4.7 
+Lincoln,Navigator,2006,4.5 
+Lincoln,Navigator,2005,4.5 
+Lincoln,Navigator,2004,4.5 
+Lincoln,Navigator,2003,4.5 
+Lincoln,Navigator,2002,4.4 
+Lincoln,Navigator,2001,4.4 
+Lincoln,Navigator,2000,4.4 
+Lincoln,Navigator,1999,4.4 
+Lincoln,Navigator,1998,4.4 
+Lincoln,Navigator L,2020,4.2 
+Lincoln,Navigator L,2019,4.2 
+Lincoln,Navigator L,2018,4.2 
+Lincoln,Navigator L,2017,4.7 
+Lincoln,Navigator L,2016,4.7 
+Lincoln,Navigator L,2015,4.7 
+Lincoln,Navigator L,2014,4.7 
+Lincoln,Navigator L,2013,4.7 
+Lincoln,Navigator L,2012,4.7 
+Lincoln,Navigator L,2011,4.7 
+Lincoln,Navigator L,2010,4.7 
+Lincoln,Navigator L,2009,4.7 
+Lincoln,Navigator L,2008,4.7 
+Lincoln,Navigator L,2007,4.7 
+Lotus,Evora 400,2018,4.6 
+Lotus,Evora 400,2017,4.6 
+Maserati,Ghibli,2019,4.2 
+Maserati,Ghibli,2018,4.2 
+Maserati,Ghibli,2017,4.2 
+Maserati,Ghibli,2016,4.2 
+Maserati,Ghibli,2015,4.2 
+Maserati,Ghibli,2014,4.2 
+Maserati,Quattroporte,2018,4.3 
+Maserati,Quattroporte,2017,4.3 
+Maserati,Quattroporte,2016,4.3 
+Maserati,Quattroporte,2015,4.3 
+Maserati,Quattroporte,2014,4.3 
+Maserati,Quattroporte,2013,4.3 
+Maserati,Quattroporte,2012,4.7 
+Maserati,Quattroporte,2011,4.7 
+Maserati,Quattroporte,2010,4.7 
+Maserati,Quattroporte,2009,4.7 
+Maserati,Quattroporte,2008,4.7 
+Maserati,Quattroporte,2007,4.7 
+Maserati,Quattroporte,2006,4.7 
+Maserati,Quattroporte,2005,4.7 
+Maserati,Levante,2019,5.0 
+Maserati,Levante,2018,5.0 
+Maserati,Levante,2017,5.0 
+Maserati,GranTurismo,2018,4.0 
+Maserati,GranTurismo,2017,4.0 
+Maserati,GranTurismo,2016,4.0 
+Maserati,GranTurismo,2015,4.0 
+Maserati,GranTurismo,2014,4.0 
+Maserati,GranTurismo,2013,4.0 
+Maserati,GranTurismo,2012,4.0 
+Maserati,GranTurismo,2011,4.0 
+Maserati,GranTurismo,2010,4.0 
+Maserati,GranTurismo,2009,4.0 
+Maserati,GranTurismo,2008,4.0 
+MAZDA,MAZDA3,2020,5.0 
+MAZDA,MAZDA3,2019,5.0 
+MAZDA,MAZDA3,2018,4.7 
+MAZDA,MAZDA3,2017,4.7 
+MAZDA,MAZDA3,2016,4.7 
+MAZDA,MAZDA3,2015,4.7 
+MAZDA,MAZDA3,2014,4.7 
+MAZDA,MAZDA3,2013,4.6 
+MAZDA,MAZDA3,2012,4.6 
+MAZDA,MAZDA3,2011,4.6 
+MAZDA,MAZDA3,2010,4.6 
+MAZDA,MAZDA3,2009,4.7 
+MAZDA,MAZDA3,2008,4.7 
+MAZDA,MAZDA3,2007,4.7 
+MAZDA,MAZDA3,2006,4.7 
+MAZDA,MAZDA3,2005,4.7 
+MAZDA,MAZDA3,2004,4.7 
+MAZDA,MAZDA6,2019,4.7 
+MAZDA,MAZDA6,2018,4.7 
+MAZDA,MAZDA6,2017,4.7 
+MAZDA,MAZDA6,2016,4.7 
+MAZDA,MAZDA6,2015,4.7 
+MAZDA,MAZDA6,2014,4.7 
+MAZDA,MAZDA6,2013,4.6 
+MAZDA,MAZDA6,2012,4.6 
+MAZDA,MAZDA6,2011,4.6 
+MAZDA,MAZDA6,2010,4.6 
+MAZDA,MAZDA6,2009,4.6 
+MAZDA,MAZDA6,2008,4.5 
+MAZDA,MAZDA6,2007,4.5 
+MAZDA,MAZDA6,2006,4.5 
+MAZDA,MAZDA6,2005,4.5 
+MAZDA,MAZDA6,2004,4.5 
+MAZDA,MAZDA6,2003,4.5 
+MAZDA,CX-3,2019,4.8 
+MAZDA,CX-3,2018,4.8 
+MAZDA,CX-3,2017,4.8 
+MAZDA,CX-3,2016,4.8 
+MAZDA,CX-5,2019,4.5 
+MAZDA,CX-5,2018,4.5 
+MAZDA,CX-5,2017,4.5 
+MAZDA,CX-5,2016,4.6 
+MAZDA,CX-5,2015,4.6 
+MAZDA,CX-5,2014,4.6 
+MAZDA,CX-5,2013,4.6 
+MAZDA,CX-9,2019,4.8 
+MAZDA,CX-9,2018,4.8 
+MAZDA,CX-9,2017,4.8 
+MAZDA,CX-9,2016,4.8 
+MAZDA,CX-9,2015,4.7 
+MAZDA,CX-9,2014,4.7 
+MAZDA,CX-9,2013,4.7 
+MAZDA,CX-9,2012,4.7 
+MAZDA,CX-9,2011,4.7 
+MAZDA,CX-9,2010,4.7 
+MAZDA,CX-9,2009,4.7 
+MAZDA,CX-9,2008,4.7 
+MAZDA,CX-9,2007,4.7 
+MAZDA,MX-5 Miata RF,2019,5.0 
+MAZDA,MX-5 Miata RF,2018,5.0 
+MAZDA,MX-5 Miata RF,2017,5.0 
+MAZDA,MX-5 Miata,2019,5.0 
+MAZDA,MX-5 Miata,2018,5.0 
+MAZDA,MX-5 Miata,2017,5.0 
+MAZDA,MX-5 Miata,2016,5.0 
+MAZDA,MX-5 Miata,2015,4.8 
+MAZDA,MX-5 Miata,2014,4.8 
+MAZDA,MX-5 Miata,2013,4.8 
+MAZDA,MX-5 Miata,2012,4.8 
+MAZDA,MX-5 Miata,2011,4.8 
+MAZDA,MX-5 Miata,2010,4.8 
+MAZDA,MX-5 Miata,2009,4.8 
+MAZDA,MX-5 Miata,2008,4.8 
+MAZDA,MX-5 Miata,2007,4.8 
+MAZDA,MX-5 Miata,2006,4.8 
+MAZDA,MX-5 Miata,2005,4.8 
+MAZDA,MX-5 Miata,2004,4.8 
+MAZDA,MX-5 Miata,2003,4.8 
+MAZDA,MX-5 Miata,2002,4.8 
+MAZDA,MX-5 Miata,2001,4.8 
+MAZDA,MX-5 Miata,2000,4.8 
+MAZDA,MX-5 Miata,1999,4.8 
+MAZDA,MX-5 Miata,1997,4.8 
+MAZDA,MX-5 Miata,1996,4.8 
+MAZDA,MX-5 Miata,1995,4.8 
+MAZDA,MX-5 Miata,1994,4.8 
+MAZDA,MX-5 Miata,1993,4.8 
+MAZDA,MX-5 Miata,1992,4.8 
+McLaren,570GT,2018,5.0 
+McLaren,570GT,2017,5.0 
+McLaren,570S,2018,5.0 
+McLaren,570S,2017,5.0 
+McLaren,570S,2016,5.0 
+Mercedes-Benz,C-Class,2019,4.3 
+Mercedes-Benz,C-Class,2018,4.3 
+Mercedes-Benz,C-Class,2017,4.3 
+Mercedes-Benz,C-Class,2016,4.3 
+Mercedes-Benz,C-Class,2015,4.3 
+Mercedes-Benz,C-Class,2014,4.7 
+Mercedes-Benz,C-Class,2013,4.7 
+Mercedes-Benz,C-Class,2012,4.7 
+Mercedes-Benz,C-Class,2011,4.7 
+Mercedes-Benz,C-Class,2010,4.7 
+Mercedes-Benz,C-Class,2009,4.7 
+Mercedes-Benz,C-Class,2008,4.7 
+Mercedes-Benz,C-Class,2007,4.3 
+Mercedes-Benz,C-Class,2006,4.3 
+Mercedes-Benz,C-Class,2005,4.3 
+Mercedes-Benz,C-Class,2004,4.3 
+Mercedes-Benz,C-Class,2003,4.3 
+Mercedes-Benz,C-Class,2002,4.3 
+Mercedes-Benz,C-Class,2001,4.3 
+Mercedes-Benz,C-Class,2000,4.5 
+Mercedes-Benz,C-Class,1999,4.5 
+Mercedes-Benz,C-Class,1998,4.5 
+Mercedes-Benz,C-Class,1997,4.5 
+Mercedes-Benz,C-Class,1996,4.5 
+Mercedes-Benz,C-Class,1995,4.5 
+Mercedes-Benz,C-Class,1994,4.5 
+Mercedes-Benz,CLA,2020,4.6 
+Mercedes-Benz,CLA,2019,4.6 
+Mercedes-Benz,CLA,2018,4.6 
+Mercedes-Benz,CLA,2017,4.6 
+Mercedes-Benz,CLA,2016,4.6 
+Mercedes-Benz,CLS,2018,4.9 
+Mercedes-Benz,CLS,2017,4.9 
+Mercedes-Benz,E-Class,2020,4.4 
+Mercedes-Benz,E-Class,2019,4.4 
+Mercedes-Benz,E-Class,2018,4.4 
+Mercedes-Benz,E-Class,2017,4.4 
+Mercedes-Benz,E-Class,2016,4.7 
+Mercedes-Benz,E-Class,2015,4.7 
+Mercedes-Benz,E-Class,2014,4.7 
+Mercedes-Benz,E-Class,2013,4.7 
+Mercedes-Benz,E-Class,2012,4.7 
+Mercedes-Benz,E-Class,2011,4.7 
+Mercedes-Benz,E-Class,2010,4.7 
+Mercedes-Benz,E-Class,2009,4.6 
+Mercedes-Benz,E-Class,2008,4.6 
+Mercedes-Benz,E-Class,2007,4.6 
+Mercedes-Benz,E-Class,2006,4.6 
+Mercedes-Benz,E-Class,2005,4.6 
+Mercedes-Benz,E-Class,2004,4.6 
+Mercedes-Benz,E-Class,2003,4.6 
+Mercedes-Benz,E-Class,2002,4.5 
+Mercedes-Benz,E-Class,2001,4.5 
+Mercedes-Benz,E-Class,2000,4.5 
+Mercedes-Benz,E-Class,1999,4.5 
+Mercedes-Benz,E-Class,1998,4.5 
+Mercedes-Benz,E-Class,1997,4.5 
+Mercedes-Benz,E-Class,1996,4.5 
+Mercedes-Benz,E-Class,1995,4.6 
+Mercedes-Benz,E-Class,1994,4.6 
+Mercedes-Benz,Mercedes-AMG C-Class,2019,4.3 
+Mercedes-Benz,Mercedes-AMG C-Class,2018,4.3 
+Mercedes-Benz,Mercedes-AMG C-Class,2017,4.3 
+Mercedes-Benz,Mercedes-AMG CLA,2019,4.6 
+Mercedes-Benz,Mercedes-AMG CLA,2018,4.6 
+Mercedes-Benz,Mercedes-AMG CLA,2017,4.6 
+Mercedes-Benz,Mercedes-AMG CLA,2016,4.6 
+Mercedes-Benz,Mercedes-AMG CLS,2018,4.9 
+Mercedes-Benz,Mercedes-AMG CLS,2017,4.9 
+Mercedes-Benz,Mercedes-AMG E-Class,2019,4.4 
+Mercedes-Benz,Mercedes-AMG E-Class,2018,4.4 
+Mercedes-Benz,Mercedes-AMG E-Class,2017,4.4 
+Mercedes-Benz,Mercedes-AMG GT,2019,4.0 
+Mercedes-Benz,Mercedes-AMG GT,2018,4.0 
+Mercedes-Benz,Mercedes-AMG GT,2017,4.0 
+Mercedes-Benz,Mercedes-AMG GT,2016,4.0 
+Mercedes-Benz,Mercedes-AMG S-Class,2019,4.5 
+Mercedes-Benz,Mercedes-AMG S-Class,2018,4.5 
+Mercedes-Benz,Mercedes-AMG S-Class,2017,4.5 
+Mercedes-Benz,S-Class,2019,4.5 
+Mercedes-Benz,S-Class,2018,4.5 
+Mercedes-Benz,S-Class,2017,4.5 
+Mercedes-Benz,S-Class,2016,4.5 
+Mercedes-Benz,S-Class,2015,4.5 
+Mercedes-Benz,S-Class,2014,4.5 
+Mercedes-Benz,S-Class,2013,4.8 
+Mercedes-Benz,S-Class,2012,4.8 
+Mercedes-Benz,S-Class,2011,4.8 
+Mercedes-Benz,S-Class,2010,4.8 
+Mercedes-Benz,S-Class,2009,4.8 
+Mercedes-Benz,S-Class,2008,4.8 
+Mercedes-Benz,S-Class,2007,4.8 
+Mercedes-Benz,S-Class,2006,4.5 
+Mercedes-Benz,S-Class,2005,4.5 
+Mercedes-Benz,S-Class,2004,4.5 
+Mercedes-Benz,S-Class,2003,4.5 
+Mercedes-Benz,S-Class,2002,4.5 
+Mercedes-Benz,S-Class,2001,4.5 
+Mercedes-Benz,S-Class,2000,4.5 
+Mercedes-Benz,S-Class,1999,4.6 
+Mercedes-Benz,S-Class,1998,4.6 
+Mercedes-Benz,S-Class,1997,4.6 
+Mercedes-Benz,S-Class,1996,4.6 
+Mercedes-Benz,S-Class,1995,4.6 
+Mercedes-Benz,S-Class,1994,4.6 
+Mercedes-Benz,G-Class,2020,5.0 
+Mercedes-Benz,G-Class,2019,5.0 
+Mercedes-Benz,G-Class,2018,4.5 
+Mercedes-Benz,G-Class,2017,4.5 
+Mercedes-Benz,G-Class,2016,4.5 
+Mercedes-Benz,G-Class,2015,4.5 
+Mercedes-Benz,G-Class,2014,4.5 
+Mercedes-Benz,G-Class,2013,4.5 
+Mercedes-Benz,G-Class,2012,4.5 
+Mercedes-Benz,G-Class,2011,4.5 
+Mercedes-Benz,G-Class,2010,4.5 
+Mercedes-Benz,G-Class,2009,4.5 
+Mercedes-Benz,G-Class,2008,4.5 
+Mercedes-Benz,G-Class,2007,4.5 
+Mercedes-Benz,G-Class,2006,4.5 
+Mercedes-Benz,G-Class,2005,4.5 
+Mercedes-Benz,G-Class,2004,4.5 
+Mercedes-Benz,G-Class,2003,4.5 
+Mercedes-Benz,G-Class,2002,4.5 
+Mercedes-Benz,GLA,2019,4.4 
+Mercedes-Benz,GLA,2018,4.4 
+Mercedes-Benz,GLA,2017,4.4 
+Mercedes-Benz,GLA,2016,4.4 
+Mercedes-Benz,GLC,2020,4.0 
+Mercedes-Benz,GLC,2019,4.0 
+Mercedes-Benz,GLC,2018,4.0 
+Mercedes-Benz,GLC,2017,4.0 
+Mercedes-Benz,GLC,2016,4.0 
+Mercedes-Benz,GLC Coupe,2019,4.0 
+Mercedes-Benz,GLC Coupe,2018,4.0 
+Mercedes-Benz,GLC Coupe,2017,4.0 
+Mercedes-Benz,GLE,2020,2.7 
+Mercedes-Benz,GLE,2019,4.2 
+Mercedes-Benz,GLE,2018,4.2 
+Mercedes-Benz,GLE,2017,4.2 
+Mercedes-Benz,GLE,2016,4.2 
+Mercedes-Benz,GLS,2019,4.6 
+Mercedes-Benz,GLS,2018,4.6 
+Mercedes-Benz,GLS,2017,4.6 
+Mercedes-Benz,Mercedes-AMG G-Class,2019,5.0 
+Mercedes-Benz,Mercedes-AMG G-Class,2018,4.5 
+Mercedes-Benz,Mercedes-AMG G-Class,2017,4.5 
+Mercedes-Benz,Mercedes-AMG GLA,2019,4.4 
+Mercedes-Benz,Mercedes-AMG GLA,2018,4.4 
+Mercedes-Benz,Mercedes-AMG GLA,2017,4.4 
+Mercedes-Benz,Mercedes-AMG GLA,2016,4.4 
+Mercedes-Benz,Mercedes-AMG GLC,2019,4.0 
+Mercedes-Benz,Mercedes-AMG GLC,2018,4.0 
+Mercedes-Benz,Mercedes-AMG GLC,2017,4.0 
+Mercedes-Benz,Mercedes-AMG GLC Coupe,2019,4.0 
+Mercedes-Benz,Mercedes-AMG GLC Coupe,2018,4.0 
+Mercedes-Benz,Mercedes-AMG GLC Coupe,2017,4.0 
+Mercedes-Benz,Mercedes-AMG GLE,2019,4.2 
+Mercedes-Benz,Mercedes-AMG GLE,2018,4.2 
+Mercedes-Benz,Mercedes-AMG GLE,2017,4.2 
+Mercedes-Benz,Mercedes-AMG GLE,2016,4.2 
+Mercedes-Benz,Mercedes-AMG GLE Coupe,2019,4.2 
+Mercedes-Benz,Mercedes-AMG GLE Coupe,2018,4.2 
+Mercedes-Benz,Mercedes-AMG GLE Coupe,2017,4.2 
+Mercedes-Benz,Mercedes-AMG GLE Coupe,2016,4.2 
+Mercedes-Benz,Mercedes-AMG GLS,2019,4.6 
+Mercedes-Benz,Mercedes-AMG GLS,2018,4.6 
+Mercedes-Benz,Mercedes-AMG GLS,2017,4.6 
+Mercedes-Benz,Mercedes-AMG SL,2019,4.6 
+Mercedes-Benz,Mercedes-AMG SL,2018,4.6 
+Mercedes-Benz,Mercedes-AMG SL,2017,4.6 
+Mercedes-Benz,Mercedes-AMG SL,2016,4.6 
+Mercedes-Benz,Mercedes-AMG SLC,2019,4.6 
+Mercedes-Benz,Mercedes-AMG SLC,2018,4.6 
+Mercedes-Benz,Mercedes-AMG SLC,2017,4.6 
+Mercedes-Benz,SL,2019,4.6 
+Mercedes-Benz,SL,2018,4.6 
+Mercedes-Benz,SL,2017,4.6 
+Mercedes-Benz,SL,2016,4.6 
+Mercedes-Benz,SLC,2019,4.6 
+Mercedes-Benz,SLC,2018,4.6 
+Mercedes-Benz,SLC,2017,4.6 
+Mercedes-Benz,Metris Cargo,2019,4.5 
+Mercedes-Benz,Metris Cargo,2018,4.5 
+Mercedes-Benz,Metris Cargo,2017,4.5 
+Mercedes-Benz,Metris Cargo,2016,4.5 
+Mercedes-Benz,Metris Passenger,2019,4.5 
+Mercedes-Benz,Metris Passenger,2018,4.5 
+Mercedes-Benz,Metris Passenger,2017,4.5 
+Mercedes-Benz,Metris Passenger,2016,4.5 
+Mercedes-Benz,Metris WORKER Cargo,2018,4.5 
+Mercedes-Benz,Metris WORKER Cargo,2017,4.5 
+Mercedes-Benz,Metris WORKER Passenger,2018,4.5 
+Mercedes-Benz,Metris WORKER Passenger,2017,4.5 
+Mercedes-Benz,Sprinter 2500 Cargo,2019,4.3 
+Mercedes-Benz,Sprinter 2500 Cargo,2018,4.3 
+Mercedes-Benz,Sprinter 2500 Cargo,2017,4.3 
+Mercedes-Benz,Sprinter 2500 Cargo,2016,4.3 
+Mercedes-Benz,Sprinter 2500 Cargo,2015,4.3 
+Mercedes-Benz,Sprinter 2500 Cargo,2014,4.3 
+Mercedes-Benz,Sprinter 2500 Cargo,2013,4.3 
+Mercedes-Benz,Sprinter 2500 Cargo,2012,4.3 
+Mercedes-Benz,Sprinter 2500 Cargo,2011,4.3 
+Mercedes-Benz,Sprinter 2500 Crew,2018,4.3 
+Mercedes-Benz,Sprinter 2500 Crew,2017,4.3 
+Mercedes-Benz,Sprinter 2500 Crew,2016,4.3 
+Mercedes-Benz,Sprinter 2500 Crew,2015,4.3 
+Mercedes-Benz,Sprinter 2500 Crew,2014,4.3 
+Mercedes-Benz,Sprinter 2500 Crew,2013,4.3 
+Mercedes-Benz,Sprinter 2500 Crew,2012,4.3 
+Mercedes-Benz,Sprinter 2500 Crew,2011,4.3 
+Mercedes-Benz,Sprinter 2500 Passenger,2018,4.3 
+Mercedes-Benz,Sprinter 2500 Passenger,2017,4.3 
+Mercedes-Benz,Sprinter 2500 Passenger,2016,4.3 
+Mercedes-Benz,Sprinter 2500 Passenger,2015,4.3 
+Mercedes-Benz,Sprinter 2500 Passenger,2014,4.3 
+Mercedes-Benz,Sprinter 2500 Passenger,2013,4.3 
+Mercedes-Benz,Sprinter 2500 Passenger,2012,4.3 
+Mercedes-Benz,Sprinter 2500 Passenger,2011,4.3 
+Mercedes-Benz,Sprinter 3500 Cargo,2018,4.3 
+Mercedes-Benz,Sprinter 3500 Cargo,2017,4.3 
+Mercedes-Benz,Sprinter 3500 Cargo,2016,4.3 
+Mercedes-Benz,Sprinter 3500 Cargo,2015,4.3 
+Mercedes-Benz,Sprinter 3500 Cargo,2014,4.3 
+Mercedes-Benz,Sprinter 3500 Cargo,2013,4.3 
+Mercedes-Benz,Sprinter 3500 Cargo,2012,4.3 
+Mercedes-Benz,Sprinter 3500 Cargo,2011,4.3 
+Mercedes-Benz,Sprinter 3500 XD Cargo,2018,4.3 
+Mercedes-Benz,Sprinter 3500 XD Cargo,2017,4.3 
+Mercedes-Benz,Sprinter WORKER Cargo,2018,4.3 
+Mercedes-Benz,Sprinter WORKER Cargo,2017,4.3 
+Mercedes-Benz,GLC,2020,4.0 
+Mercedes-Benz,GLC,2019,4.0 
+Mercedes-Benz,GLC,2018,4.0 
+Mercedes-Benz,GLC,2017,4.0 
+Mercedes-Benz,GLC,2016,4.0 
+Mercedes-Benz,GLE,2020,2.7 
+Mercedes-Benz,GLE,2019,4.2 
+Mercedes-Benz,GLE,2018,4.2 
+Mercedes-Benz,GLE,2017,4.2 
+Mercedes-Benz,GLE,2016,4.2 
+MINI,Clubman,2019,4.5 
+MINI,Clubman,2018,4.5 
+MINI,Clubman,2017,4.5 
+MINI,Clubman,2016,4.5 
+MINI,Clubman,2014,4.2 
+MINI,Clubman,2013,4.2 
+MINI,Clubman,2012,4.2 
+MINI,Clubman,2011,4.2 
+MINI,Clubman,2010,4.2 
+MINI,Clubman,2009,4.2 
+MINI,Clubman,2008,4.2 
+MINI,Hardtop 4 Door,2019,4.7 
+MINI,Hardtop 4 Door,2018,4.7 
+MINI,Hardtop 4 Door,2017,4.7 
+MINI,Hardtop 4 Door,2016,4.7 
+MINI,Hardtop 4 Door,2015,4.7 
+MINI,Countryman,2019,4.5 
+MINI,Countryman,2018,4.5 
+MINI,Countryman,2017,4.5 
+MINI,Countryman,2016,4.2 
+MINI,Countryman,2015,4.2 
+MINI,Countryman,2014,4.2 
+MINI,Countryman,2013,4.2 
+MINI,Countryman,2012,4.2 
+MINI,Countryman,2011,4.2 
+MINI,Hardtop 2 Door,2019,4.7 
+MINI,Hardtop 2 Door,2018,4.7 
+MINI,Hardtop 2 Door,2017,4.7 
+MINI,Hardtop 2 Door,2016,4.7 
+MINI,Hardtop 2 Door,2015,4.7 
+MINI,Convertible,2018,4.7 
+MINI,Convertible,2017,4.7 
+MINI,Convertible,2016,4.7 
+MINI,Convertible,2015,4.7 
+Mitsubishi,Mirage G4,2019,4.4 
+Mitsubishi,Mirage G4,2018,4.4 
+Mitsubishi,Mirage G4,2017,4.4 
+Mitsubishi,Eclipse Cross,2020,4.8 
+Mitsubishi,Eclipse Cross,2019,4.8 
+Mitsubishi,Eclipse Cross,2018,4.8 
+Mitsubishi,Outlander,2020,4.7 
+Mitsubishi,Outlander,2019,4.7 
+Mitsubishi,Outlander,2018,4.7 
+Mitsubishi,Outlander,2017,4.7 
+Mitsubishi,Outlander,2016,4.7 
+Mitsubishi,Outlander,2015,4.7 
+Mitsubishi,Outlander,2014,4.7 
+Mitsubishi,Outlander,2013,4.6 
+Mitsubishi,Outlander,2012,4.6 
+Mitsubishi,Outlander,2011,4.6 
+Mitsubishi,Outlander,2010,4.6 
+Mitsubishi,Outlander,2009,4.6 
+Mitsubishi,Outlander,2008,4.6 
+Mitsubishi,Outlander,2007,4.6 
+Mitsubishi,Outlander,2006,4.6 
+Mitsubishi,Outlander,2005,4.6 
+Mitsubishi,Outlander,2004,4.6 
+Mitsubishi,Outlander,2003,4.6 
+Mitsubishi,Outlander PHEV,2019,4.7 
+Mitsubishi,Outlander PHEV,2018,4.7 
+Mitsubishi,Outlander Sport,2020,4.7 
+Mitsubishi,Outlander Sport,2019,4.7 
+Mitsubishi,Outlander Sport,2018,4.7 
+Mitsubishi,Outlander Sport,2017,4.7 
+Mitsubishi,Outlander Sport,2016,4.7 
+Mitsubishi,Outlander Sport,2015,4.7 
+Mitsubishi,Outlander Sport,2014,4.7 
+Mitsubishi,Outlander Sport,2013,4.7 
+Mitsubishi,Outlander Sport,2012,4.7 
+Mitsubishi,Outlander Sport,2011,4.7 
+Mitsubishi,Mirage,2019,4.8 
+Mitsubishi,Mirage,2018,4.8 
+Mitsubishi,Mirage,2017,4.8 
+Mitsubishi,Mirage,2015,4.8 
+Mitsubishi,Mirage,2014,4.8 
+Mitsubishi,Mirage,2002,4.4 
+Mitsubishi,Mirage,2001,4.4 
+Mitsubishi,Mirage,2000,4.4 
+Mitsubishi,Mirage,1999,4.4 
+Mitsubishi,Mirage,1998,4.4 
+Mitsubishi,Mirage,1997,4.4 
+Mitsubishi,Mirage,1995,3.7 
+Mitsubishi,Mirage,1994,3.7 
+Mitsubishi,Mirage,1993,3.7 
+Mitsubishi,Mirage,1992,4.8 
+Nissan,Altima,2020,4.4 
+Nissan,Altima,2019,4.4 
+Nissan,Altima,2018,4.2 
+Nissan,Altima,2017,4.2 
+Nissan,Altima,2016,4.2 
+Nissan,Altima,2015,4.2 
+Nissan,Altima,2014,4.2 
+Nissan,Altima,2013,4.2 
+Nissan,Altima,2012,4.5 
+Nissan,Altima,2011,4.5 
+Nissan,Altima,2010,4.5 
+Nissan,Altima,2009,4.5 
+Nissan,Altima,2008,4.5 
+Nissan,Altima,2007,4.5 
+Nissan,Altima,2006,4.3 
+Nissan,Altima,2005,4.3 
+Nissan,Altima,2004,4.3 
+Nissan,Altima,2003,4.3 
+Nissan,Altima,2002,4.3 
+Nissan,Altima,2001,4.4 
+Nissan,Altima,2000,4.4 
+Nissan,Altima,1999,4.4 
+Nissan,Altima,1998,4.4 
+Nissan,Altima,1997,4.4 
+Nissan,Altima,1996,4.4 
+Nissan,Altima,1995,4.4 
+Nissan,Altima,1994,4.4 
+Nissan,Altima,1993,4.4 
+Nissan,Maxima,2020,4.7 
+Nissan,Maxima,2019,4.7 
+Nissan,Maxima,2018,4.7 
+Nissan,Maxima,2017,4.7 
+Nissan,Maxima,2016,4.7 
+Nissan,Maxima,2014,4.6 
+Nissan,Maxima,2013,4.6 
+Nissan,Maxima,2012,4.6 
+Nissan,Maxima,2011,4.6 
+Nissan,Maxima,2010,4.6 
+Nissan,Maxima,2009,4.6 
+Nissan,Maxima,2008,4.2 
+Nissan,Maxima,2007,4.2 
+Nissan,Maxima,2006,4.2 
+Nissan,Maxima,2005,4.2 
+Nissan,Maxima,2004,4.2 
+Nissan,Maxima,2003,4.5 
+Nissan,Maxima,2002,4.5 
+Nissan,Maxima,2001,4.5 
+Nissan,Maxima,2000,4.5 
+Nissan,Maxima,1999,4.7 
+Nissan,Maxima,1998,4.7 
+Nissan,Maxima,1997,4.7 
+Nissan,Maxima,1996,4.7 
+Nissan,Maxima,1995,4.7 
+Nissan,Maxima,1994,4.3 
+Nissan,Maxima,1993,4.3 
+Nissan,Maxima,1992,4.3 
+Nissan,Sentra,2019,3.8 
+Nissan,Sentra,2018,3.8 
+Nissan,Sentra,2017,3.8 
+Nissan,Sentra,2016,3.8 
+Nissan,Sentra,2015,3.8 
+Nissan,Sentra,2014,3.8 
+Nissan,Sentra,2013,3.8 
+Nissan,Sentra,2012,4.3 
+Nissan,Sentra,2011,4.3 
+Nissan,Sentra,2010,4.3 
+Nissan,Sentra,2009,4.3 
+Nissan,Sentra,2008,4.3 
+Nissan,Sentra,2007,4.3 
+Nissan,Sentra,2006,4.1 
+Nissan,Sentra,2005,4.1 
+Nissan,Sentra,2004,4.1 
+Nissan,Sentra,2003,4.1 
+Nissan,Sentra,2002,4.1 
+Nissan,Sentra,2001,4.1 
+Nissan,Sentra,2000,4.1 
+Nissan,Sentra,1999,4.3 
+Nissan,Sentra,1998,4.3 
+Nissan,Sentra,1997,4.3 
+Nissan,Sentra,1996,4.3 
+Nissan,Sentra,1995,4.3 
+Nissan,Sentra,1994,4.4 
+Nissan,Sentra,1993,4.4 
+Nissan,Sentra,1992,4.4 
+Nissan,Versa,2019,4.0 
+Nissan,Versa,2018,4.0 
+Nissan,Versa,2017,4.0 
+Nissan,Versa,2016,4.0 
+Nissan,Versa,2015,4.0 
+Nissan,Versa,2014,4.0 
+Nissan,Versa,2013,4.0 
+Nissan,Versa,2012,4.0 
+Nissan,Versa,2011,4.4 
+Nissan,Versa,2010,4.4 
+Nissan,Versa,2009,4.4 
+Nissan,Versa,2008,4.4 
+Nissan,Versa,2007,4.4 
+Nissan,Versa Note,2019,4.0 
+Nissan,Versa Note,2018,4.0 
+Nissan,Versa Note,2017,4.0 
+Nissan,Versa Note,2016,4.0 
+Nissan,Armada,2019,4.8 
+Nissan,Armada,2018,4.8 
+Nissan,Armada,2017,4.8 
+Nissan,Armada,2015,4.5 
+Nissan,Armada,2014,4.5 
+Nissan,Armada,2013,4.5 
+Nissan,Armada,2012,4.5 
+Nissan,Armada,2011,4.5 
+Nissan,Armada,2010,4.5 
+Nissan,Armada,2009,4.5 
+Nissan,Armada,2008,4.5 
+Nissan,Armada,2007,4.5 
+Nissan,Armada,2006,4.5 
+Nissan,Armada,2005,4.5 
+Nissan,Kicks,2019,3.6 
+Nissan,Kicks,2018,3.6 
+Nissan,Murano,2019,4.6 
+Nissan,Murano,2018,4.6 
+Nissan,Murano,2017,4.6 
+Nissan,Murano,2016,4.6 
+Nissan,Murano,2015,4.6 
+Nissan,Murano,2014,4.5 
+Nissan,Murano,2013,4.5 
+Nissan,Murano,2012,4.5 
+Nissan,Murano,2011,4.5 
+Nissan,Murano,2010,4.5 
+Nissan,Murano,2009,4.5 
+Nissan,Murano,2007,4.4 
+Nissan,Murano,2006,4.4 
+Nissan,Murano,2005,4.4 
+Nissan,Murano,2004,4.4 
+Nissan,Murano,2003,4.4 
+Nissan,Pathfinder,2019,3.9 
+Nissan,Pathfinder,2018,3.9 
+Nissan,Pathfinder,2017,3.9 
+Nissan,Pathfinder,2016,3.9 
+Nissan,Pathfinder,2015,3.9 
+Nissan,Pathfinder,2014,3.9 
+Nissan,Pathfinder,2013,3.9 
+Nissan,Pathfinder,2012,4.2 
+Nissan,Pathfinder,2011,4.2 
+Nissan,Pathfinder,2010,4.2 
+Nissan,Pathfinder,2009,4.2 
+Nissan,Pathfinder,2008,4.2 
+Nissan,Pathfinder,2007,4.2 
+Nissan,Pathfinder,2006,4.2 
+Nissan,Pathfinder,2005,4.2 
+Nissan,Pathfinder,2004,4.6 
+Nissan,Pathfinder,2003,4.6 
+Nissan,Pathfinder,2002,4.6 
+Nissan,Pathfinder,2001,4.6 
+Nissan,Pathfinder,2000,4.6 
+Nissan,Pathfinder,1999,4.6 
+Nissan,Pathfinder,1998,4.6 
+Nissan,Pathfinder,1997,4.6 
+Nissan,Pathfinder,1996,4.6 
+Nissan,Pathfinder,1995,4.6 
+Nissan,Pathfinder,1994,4.6 
+Nissan,Pathfinder,1993,4.6 
+Nissan,Pathfinder,1992,4.6 
+Nissan,Rogue,2020,4.3 
+Nissan,Rogue,2019,4.3 
+Nissan,Rogue,2018,4.3 
+Nissan,Rogue,2017,4.3 
+Nissan,Rogue,2016,4.3 
+Nissan,Rogue,2015,4.3 
+Nissan,Rogue,2014,4.3 
+Nissan,Rogue,2013,4.2 
+Nissan,Rogue,2012,4.2 
+Nissan,Rogue,2011,4.2 
+Nissan,Rogue,2010,4.2 
+Nissan,Rogue,2009,4.2 
+Nissan,Rogue,2008,4.2 
+Nissan,Rogue Sport,2019,4.3 
+Nissan,Rogue Sport,2018,4.3 
+Nissan,Rogue Sport,2017,4.3 
+Nissan,Frontier Crew Cab,2019,4.6 
+Nissan,Frontier Crew Cab,2018,4.6 
+Nissan,Frontier Crew Cab,2017,4.6 
+Nissan,Frontier Crew Cab,2016,4.6 
+Nissan,Frontier Crew Cab,2015,4.6 
+Nissan,Frontier Crew Cab,2014,4.6 
+Nissan,Frontier Crew Cab,2013,4.6 
+Nissan,Frontier Crew Cab,2012,4.6 
+Nissan,Frontier Crew Cab,2011,4.6 
+Nissan,Frontier Crew Cab,2010,4.6 
+Nissan,Frontier Crew Cab,2009,4.6 
+Nissan,Frontier Crew Cab,2008,4.6 
+Nissan,Frontier Crew Cab,2007,4.6 
+Nissan,Frontier Crew Cab,2006,4.6 
+Nissan,Frontier Crew Cab,2005,4.6 
+Nissan,Frontier Crew Cab,2004,4.5 
+Nissan,Frontier Crew Cab,2003,4.5 
+Nissan,Frontier Crew Cab,2002,4.5 
+Nissan,Frontier Crew Cab,2001,4.5 
+Nissan,Frontier Crew Cab,2000,4.5 
+Nissan,Frontier King Cab,2019,4.5 
+Nissan,Frontier King Cab,2018,4.5 
+Nissan,Frontier King Cab,2017,4.5 
+Nissan,Frontier King Cab,2016,4.5 
+Nissan,Frontier King Cab,2015,4.5 
+Nissan,Frontier King Cab,2014,4.5 
+Nissan,Frontier King Cab,2013,4.5 
+Nissan,Frontier King Cab,2012,4.5 
+Nissan,Frontier King Cab,2011,4.5 
+Nissan,Frontier King Cab,2010,4.5 
+Nissan,Frontier King Cab,2009,4.5 
+Nissan,Frontier King Cab,2008,4.5 
+Nissan,Frontier King Cab,2007,4.5 
+Nissan,Frontier King Cab,2006,4.5 
+Nissan,Frontier King Cab,2005,4.5 
+Nissan,Frontier King Cab,2004,4.6 
+Nissan,Frontier King Cab,2003,4.6 
+Nissan,Frontier King Cab,2002,4.6 
+Nissan,Frontier King Cab,2001,4.6 
+Nissan,Frontier King Cab,2000,4.6 
+Nissan,Frontier King Cab,1999,4.6 
+Nissan,Frontier King Cab,1998,4.6 
+Nissan,Titan Crew Cab,2019,4.5 
+Nissan,Titan Crew Cab,2018,4.5 
+Nissan,Titan Crew Cab,2017,4.5 
+Nissan,Titan Crew Cab,2015,4.6 
+Nissan,Titan Crew Cab,2014,4.6 
+Nissan,Titan Crew Cab,2013,4.6 
+Nissan,Titan Crew Cab,2012,4.6 
+Nissan,Titan Crew Cab,2011,4.6 
+Nissan,Titan Crew Cab,2010,4.6 
+Nissan,Titan Crew Cab,2009,4.6 
+Nissan,Titan Crew Cab,2008,4.6 
+Nissan,Titan Crew Cab,2007,4.6 
+Nissan,Titan Crew Cab,2006,4.6 
+Nissan,Titan Crew Cab,2005,4.6 
+Nissan,Titan Crew Cab,2004,4.6 
+Nissan,Titan King Cab,2015,4.4 
+Nissan,Titan King Cab,2014,4.4 
+Nissan,Titan King Cab,2013,4.4 
+Nissan,Titan King Cab,2012,4.4 
+Nissan,Titan King Cab,2011,4.4 
+Nissan,Titan King Cab,2010,4.4 
+Nissan,Titan King Cab,2009,4.4 
+Nissan,Titan King Cab,2008,4.4 
+Nissan,Titan King Cab,2007,4.4 
+Nissan,Titan King Cab,2006,4.4 
+Nissan,Titan King Cab,2005,4.4 
+Nissan,Titan King Cab,2004,4.4 
+Nissan,TITAN Single Cab,2019,4.5 
+Nissan,TITAN Single Cab,2018,4.5 
+Nissan,TITAN Single Cab,2017,4.5 
+Nissan,TITAN XD Crew Cab,2019,4.6 
+Nissan,TITAN XD Crew Cab,2018,4.6 
+Nissan,TITAN XD Crew Cab,2017,4.6 
+Nissan,TITAN XD Crew Cab,2016,4.6 
+Nissan,TITAN XD King Cab,2019,4.8 
+Nissan,TITAN XD King Cab,2018,4.8 
+Nissan,TITAN XD King Cab,2017,4.8 
+Nissan,NV1500 Cargo,2019,4.9 
+Nissan,NV1500 Cargo,2018,4.9 
+Nissan,NV1500 Cargo,2017,4.9 
+Nissan,NV1500 Cargo,2016,4.9 
+Nissan,NV1500 Cargo,2015,4.9 
+Nissan,NV1500 Cargo,2014,4.9 
+Nissan,NV1500 Cargo,2013,4.9 
+Nissan,NV1500 Cargo,2012,4.9 
+Nissan,NV200,2019,3.6 
+Nissan,NV200,2018,3.6 
+Nissan,NV200,2017,3.6 
+Nissan,NV200,2016,3.6 
+Nissan,NV200,2015,3.6 
+Nissan,NV200,2014,3.6 
+Nissan,NV200,2013,3.6 
+Nissan,NV2500 HD Cargo,2019,4.9 
+Nissan,NV2500 HD Cargo,2018,4.9 
+Nissan,NV2500 HD Cargo,2017,4.9 
+Nissan,NV2500 HD Cargo,2016,4.9 
+Nissan,NV2500 HD Cargo,2015,4.9 
+Nissan,NV2500 HD Cargo,2014,4.9 
+Nissan,NV2500 HD Cargo,2013,4.9 
+Nissan,NV2500 HD Cargo,2012,4.9 
+Nissan,NV3500 HD Cargo,2019,4.9 
+Nissan,NV3500 HD Cargo,2018,4.9 
+Nissan,NV3500 HD Cargo,2017,4.9 
+Nissan,NV3500 HD Cargo,2016,4.9 
+Nissan,NV3500 HD Cargo,2015,4.9 
+Nissan,NV3500 HD Cargo,2014,4.9 
+Nissan,NV3500 HD Cargo,2013,4.9 
+Nissan,NV3500 HD Cargo,2012,4.9 
+Nissan,NV3500 HD Passenger,2019,4.9 
+Nissan,NV3500 HD Passenger,2018,4.9 
+Nissan,NV3500 HD Passenger,2017,4.9 
+Nissan,NV3500 HD Passenger,2016,4.9 
+Nissan,NV3500 HD Passenger,2015,4.9 
+Nissan,NV3500 HD Passenger,2014,4.9 
+Nissan,NV3500 HD Passenger,2013,4.9 
+Nissan,NV3500 HD Passenger,2012,4.9 
+Nissan,Rogue,2020,4.3 
+Nissan,Rogue,2019,4.3 
+Nissan,Rogue,2018,4.3 
+Nissan,Rogue,2017,4.3 
+Nissan,Rogue,2016,4.3 
+Nissan,Rogue,2015,4.3 
+Nissan,Rogue,2014,4.3 
+Nissan,Rogue,2013,4.2 
+Nissan,Rogue,2012,4.2 
+Nissan,Rogue,2011,4.2 
+Nissan,Rogue,2010,4.2 
+Nissan,Rogue,2009,4.2 
+Nissan,Rogue,2008,4.2 
+Nissan,LEAF,2019,3.6 
+Nissan,LEAF,2018,3.6 
+Nissan,LEAF,2017,4.6 
+Nissan,LEAF,2016,4.6 
+Nissan,LEAF,2015,4.6 
+Nissan,LEAF,2014,4.6 
+Nissan,LEAF,2013,4.6 
+Nissan,LEAF,2012,4.6 
+Nissan,LEAF,2011,4.6 
+Nissan,370Z,2020,4.8 
+Nissan,370Z,2019,4.8 
+Nissan,370Z,2018,4.8 
+Nissan,370Z,2017,4.8 
+Nissan,370Z,2016,4.8 
+Nissan,370Z,2015,4.8 
+Nissan,370Z,2014,4.8 
+Nissan,370Z,2013,4.8 
+Nissan,370Z,2012,4.8 
+Nissan,370Z,2011,4.8 
+Nissan,370Z,2010,4.8 
+Nissan,370Z,2009,4.8 
+Nissan,GT-R,2020,4.9 
+Nissan,GT-R,2019,4.9 
+Nissan,GT-R,2018,4.9 
+Nissan,GT-R,2017,4.9 
+Nissan,GT-R,2016,4.9 
+Nissan,GT-R,2015,4.9 
+Nissan,GT-R,2014,4.9 
+Nissan,GT-R,2013,4.9 
+Nissan,GT-R,2012,4.9 
+Nissan,GT-R,2011,4.9 
+Nissan,GT-R,2010,4.9 
+Nissan,GT-R,2009,4.9 
+Nissan,370Z,2020,4.8 
+Nissan,370Z,2019,4.8 
+Nissan,370Z,2018,4.8 
+Nissan,370Z,2017,4.8 
+Nissan,370Z,2016,4.8 
+Nissan,370Z,2015,4.8 
+Nissan,370Z,2014,4.8 
+Nissan,370Z,2013,4.8 
+Nissan,370Z,2012,4.8 
+Nissan,370Z,2011,4.8 
+Nissan,370Z,2010,4.8 
+Nissan,370Z,2009,4.8 
+Porsche,Panamera,2020,5.0 
+Porsche,Panamera,2019,5.0 
+Porsche,Panamera,2018,5.0 
+Porsche,Panamera,2017,5.0 
+Porsche,Panamera,2016,4.9 
+Porsche,Panamera,2015,4.9 
+Porsche,Panamera,2014,4.9 
+Porsche,Panamera,2013,4.9 
+Porsche,Panamera,2012,4.9 
+Porsche,Panamera,2011,4.9 
+Porsche,Panamera,2010,4.9 
+Porsche,Cayenne,2020,5.0 
+Porsche,Cayenne,2019,5.0 
+Porsche,Cayenne,2018,4.5 
+Porsche,Cayenne,2017,4.5 
+Porsche,Cayenne,2016,4.5 
+Porsche,Cayenne,2015,4.5 
+Porsche,Cayenne,2014,4.5 
+Porsche,Cayenne,2013,4.5 
+Porsche,Cayenne,2012,4.5 
+Porsche,Cayenne,2011,4.5 
+Porsche,Cayenne,2010,4.6 
+Porsche,Cayenne,2009,4.6 
+Porsche,Cayenne,2008,4.6 
+Porsche,Cayenne,2006,4.6 
+Porsche,Cayenne,2005,4.6 
+Porsche,Cayenne,2004,4.6 
+Porsche,Cayenne,2003,4.6 
+Porsche,Macan,2020,4.7 
+Porsche,Macan,2019,4.7 
+Porsche,Macan,2018,4.7 
+Porsche,Macan,2017,4.7 
+Porsche,Macan,2016,4.7 
+Porsche,Macan,2015,4.7 
+Porsche,718 Boxster,2019,5.0 
+Porsche,718 Boxster,2018,5.0 
+Porsche,718 Boxster,2017,5.0 
+Porsche,718 Cayman,2019,4.9 
+Porsche,718 Cayman,2018,4.9 
+Porsche,718 Cayman,2017,4.9 
+Porsche,911,2020,4.9 
+Porsche,911,2019,4.9 
+Porsche,911,2018,4.9 
+Porsche,911,2017,4.9 
+Porsche,911,2016,4.9 
+Porsche,911,2015,4.9 
+Porsche,911,2014,4.9 
+Porsche,911,2013,4.9 
+Porsche,911,2012,4.9 
+Porsche,911,2011,4.9 
+Porsche,911,2010,4.9 
+Porsche,911,2009,4.9 
+Porsche,911,2008,4.9 
+Porsche,911,2007,4.9 
+Porsche,911,2006,4.9 
+Porsche,911,2005,4.9 
+Porsche,911,2004,4.8 
+Porsche,911,2003,4.8 
+Porsche,911,2002,4.8 
+Porsche,911,2001,4.8 
+Porsche,911,2000,4.8 
+Porsche,911,1999,4.8 
+Porsche,911,1998,4.9 
+Porsche,911,1997,4.9 
+Porsche,911,1996,4.9 
+Porsche,911,1995,4.9 
+Porsche,911,1994,4.5 
+Porsche,911,1993,4.5 
+Porsche,911,1992,4.5 
+Ram,1500 Crew Cab,2020,4.3 
+Ram,1500 Crew Cab,2019,4.3 
+Ram,1500 Crew Cab,2018,4.6 
+Ram,1500 Crew Cab,2017,4.6 
+Ram,1500 Crew Cab,2016,4.6 
+Ram,1500 Crew Cab,2015,4.6 
+Ram,1500 Crew Cab,2014,4.6 
+Ram,1500 Crew Cab,2013,4.6 
+Ram,1500 Crew Cab,2012,4.6 
+Ram,1500 Crew Cab,2011,4.6 
+Ram,1500 Quad Cab,2019,4.3 
+Ram,1500 Quad Cab,2018,4.6 
+Ram,1500 Quad Cab,2017,4.6 
+Ram,1500 Quad Cab,2016,4.6 
+Ram,1500 Quad Cab,2015,4.6 
+Ram,1500 Quad Cab,2014,4.6 
+Ram,1500 Quad Cab,2013,4.6 
+Ram,1500 Quad Cab,2012,4.6 
+Ram,1500 Quad Cab,2011,4.6 
+Ram,1500 Regular Cab,2018,4.6 
+Ram,1500 Regular Cab,2017,4.6 
+Ram,1500 Regular Cab,2016,4.6 
+Ram,1500 Regular Cab,2015,4.6 
+Ram,1500 Regular Cab,2014,4.6 
+Ram,1500 Regular Cab,2013,4.6 
+Ram,1500 Regular Cab,2012,4.6 
+Ram,1500 Regular Cab,2011,4.6 
+Ram,2500 Crew Cab,2018,4.3 
+Ram,2500 Crew Cab,2017,4.3 
+Ram,2500 Crew Cab,2016,4.3 
+Ram,2500 Crew Cab,2015,4.3 
+Ram,2500 Crew Cab,2014,4.3 
+Ram,2500 Crew Cab,2013,4.3 
+Ram,2500 Crew Cab,2012,4.3 
+Ram,2500 Crew Cab,2011,4.3 
+Ram,2500 Mega Cab,2018,4.3 
+Ram,2500 Mega Cab,2017,4.3 
+Ram,2500 Mega Cab,2016,4.3 
+Ram,2500 Mega Cab,2015,4.3 
+Ram,2500 Mega Cab,2014,4.3 
+Ram,2500 Mega Cab,2013,4.3 
+Ram,2500 Mega Cab,2012,4.3 
+Ram,2500 Mega Cab,2011,4.3 
+Ram,2500 Regular Cab,2018,4.3 
+Ram,2500 Regular Cab,2017,4.3 
+Ram,2500 Regular Cab,2016,4.3 
+Ram,2500 Regular Cab,2015,4.3 
+Ram,2500 Regular Cab,2014,4.3 
+Ram,2500 Regular Cab,2013,4.3 
+Ram,2500 Regular Cab,2012,4.3 
+Ram,2500 Regular Cab,2011,4.3 
+Ram,3500 Crew Cab,2018,4.7 
+Ram,3500 Crew Cab,2017,4.7 
+Ram,3500 Crew Cab,2016,4.7 
+Ram,3500 Crew Cab,2015,4.7 
+Ram,3500 Crew Cab,2014,4.7 
+Ram,3500 Crew Cab,2013,4.7 
+Ram,3500 Crew Cab,2012,4.7 
+Ram,3500 Crew Cab,2011,4.7 
+Ram,3500 Mega Cab,2018,4.7 
+Ram,3500 Mega Cab,2017,4.7 
+Ram,3500 Mega Cab,2016,4.7 
+Ram,3500 Mega Cab,2015,4.7 
+Ram,3500 Mega Cab,2014,4.7 
+Ram,3500 Mega Cab,2013,4.7 
+Ram,3500 Mega Cab,2012,4.7 
+Ram,3500 Mega Cab,2011,4.7 
+Ram,3500 Regular Cab,2018,4.7 
+Ram,3500 Regular Cab,2017,4.7 
+Ram,3500 Regular Cab,2016,4.7 
+Ram,3500 Regular Cab,2015,4.7 
+Ram,3500 Regular Cab,2014,4.7 
+Ram,3500 Regular Cab,2013,4.7 
+Ram,3500 Regular Cab,2012,4.7 
+Ram,3500 Regular Cab,2011,4.7 
+Ram,ProMaster Cargo Van,2019,4.4 
+Ram,ProMaster Cargo Van,2018,4.4 
+Ram,ProMaster Cargo Van,2017,4.4 
+Ram,ProMaster Cargo Van,2016,4.4 
+Ram,ProMaster Cargo Van,2015,4.4 
+Ram,ProMaster City,2019,3.4 
+Ram,ProMaster City,2018,3.4 
+Ram,ProMaster City,2017,3.4 
+Ram,ProMaster City,2016,3.4 
+Ram,ProMaster City,2015,3.4 
+Ram,ProMaster Window Van,2019,5.0 
+Ram,ProMaster Window Van,2018,5.0 
+Ram,ProMaster Window Van,2017,5.0 
+Ram,ProMaster Window Van,2016,5.0 
+Ram,ProMaster Window Van,2015,5.0 
+Rolls-Royce,Ghost,2018,4.6 
+Rolls-Royce,Ghost,2017,4.6 
+Rolls-Royce,Ghost,2016,4.6 
+Rolls-Royce,Ghost,2015,4.6 
+Rolls-Royce,Ghost,2014,4.6 
+Rolls-Royce,Ghost,2013,4.6 
+Rolls-Royce,Ghost,2012,4.6 
+Rolls-Royce,Ghost,2011,4.6 
+Rolls-Royce,Ghost,2010,4.6 
+Rolls-Royce,Phantom,2018,4.6 
+Rolls-Royce,Phantom,2016,4.6 
+Rolls-Royce,Phantom,2015,4.6 
+Rolls-Royce,Phantom,2014,4.6 
+Rolls-Royce,Phantom,2013,4.6 
+Rolls-Royce,Phantom,2012,4.6 
+Rolls-Royce,Phantom,2011,4.6 
+Rolls-Royce,Phantom,2010,4.6 
+Rolls-Royce,Phantom,2009,4.6 
+Rolls-Royce,Phantom,2008,4.6 
+Rolls-Royce,Phantom,2007,4.6 
+Rolls-Royce,Phantom,2006,4.6 
+Rolls-Royce,Phantom,2005,4.6 
+smart,fortwo electric drive,2018,5.0 
+smart,fortwo electric drive,2017,5.0 
+smart,fortwo electric drive,2016,4.2 
+smart,fortwo electric drive,2015,4.2 
+smart,fortwo electric drive,2014,4.2 
+smart,fortwo electric drive,2013,4.2 
+smart,fortwo electric drive cabrio,2018,5.0 
+smart,fortwo electric drive cabrio,2017,5.0 
+Subaru,Impreza,2020,4.2 
+Subaru,Impreza,2019,4.2 
+Subaru,Impreza,2018,4.2 
+Subaru,Impreza,2017,4.2 
+Subaru,Impreza,2016,4.4 
+Subaru,Impreza,2015,4.4 
+Subaru,Impreza,2014,4.4 
+Subaru,Impreza,2013,4.4 
+Subaru,Impreza,2012,4.4 
+Subaru,Impreza,2011,4.5 
+Subaru,Impreza,2010,4.5 
+Subaru,Impreza,2009,4.5 
+Subaru,Impreza,2008,4.5 
+Subaru,Impreza,2007,4.7 
+Subaru,Impreza,2006,4.7 
+Subaru,Impreza,2005,4.7 
+Subaru,Impreza,2004,4.7 
+Subaru,Impreza,2003,4.7 
+Subaru,Impreza,2002,4.7 
+Subaru,Impreza,2001,4.7 
+Subaru,Impreza,2000,4.7 
+Subaru,Impreza,1999,4.7 
+Subaru,Impreza,1998,4.7 
+Subaru,Impreza,1997,4.7 
+Subaru,Impreza,1996,4.7 
+Subaru,Impreza,1995,4.7 
+Subaru,Impreza,1994,4.7 
+Subaru,Impreza,1993,4.7 
+Subaru,Legacy,2019,4.4 
+Subaru,Legacy,2018,4.4 
+Subaru,Legacy,2017,4.4 
+Subaru,Legacy,2016,4.4 
+Subaru,Legacy,2015,4.4 
+Subaru,Legacy,2014,4.6 
+Subaru,Legacy,2013,4.6 
+Subaru,Legacy,2012,4.6 
+Subaru,Legacy,2011,4.6 
+Subaru,Legacy,2010,4.6 
+Subaru,Legacy,2009,4.5 
+Subaru,Legacy,2008,4.5 
+Subaru,Legacy,2007,4.5 
+Subaru,Legacy,2006,4.5 
+Subaru,Legacy,2005,4.5 
+Subaru,Legacy,2004,4.5 
+Subaru,Legacy,2003,4.5 
+Subaru,Legacy,2002,4.5 
+Subaru,Legacy,2001,4.5 
+Subaru,Legacy,2000,4.5 
+Subaru,Legacy,1999,4.5 
+Subaru,Legacy,1998,4.5 
+Subaru,Legacy,1997,4.5 
+Subaru,Legacy,1996,4.5 
+Subaru,Legacy,1995,4.5 
+Subaru,Legacy,1994,4.7 
+Subaru,Legacy,1993,4.7 
+Subaru,Legacy,1992,4.7 
+Subaru,WRX,2020,4.6 
+Subaru,WRX,2019,4.6 
+Subaru,WRX,2018,4.6 
+Subaru,WRX,2017,4.6 
+Subaru,WRX,2016,4.6 
+Subaru,WRX,2015,4.6 
+Subaru,Ascent,2020,4.2 
+Subaru,Ascent,2019,4.2 
+Subaru,Crosstrek,2020,4.6 
+Subaru,Crosstrek,2019,4.6 
+Subaru,Crosstrek,2018,4.6 
+Subaru,Crosstrek,2017,4.4 
+Subaru,Crosstrek,2016,4.4 
+Subaru,Forester,2020,4.2 
+Subaru,Forester,2019,4.2 
+Subaru,Forester,2018,4.3 
+Subaru,Forester,2017,4.3 
+Subaru,Forester,2016,4.3 
+Subaru,Forester,2015,4.3 
+Subaru,Forester,2014,4.3 
+Subaru,Forester,2013,4.2 
+Subaru,Forester,2012,4.2 
+Subaru,Forester,2011,4.2 
+Subaru,Forester,2010,4.2 
+Subaru,Forester,2009,4.2 
+Subaru,Forester,2008,4.5 
+Subaru,Forester,2007,4.5 
+Subaru,Forester,2006,4.5 
+Subaru,Forester,2005,4.5 
+Subaru,Forester,2004,4.5 
+Subaru,Forester,2003,4.5 
+Subaru,Forester,2002,4.5 
+Subaru,Forester,2001,4.5 
+Subaru,Forester,2000,4.5 
+Subaru,Forester,1999,4.5 
+Subaru,Forester,1998,4.5 
+Subaru,Outback,2020,4.8 
+Subaru,Outback,2019,4.5 
+Subaru,Outback,2018,4.5 
+Subaru,Outback,2017,4.5 
+Subaru,Outback,2016,4.5 
+Subaru,Outback,2015,4.5 
+Subaru,Outback,2014,4.4 
+Subaru,Outback,2013,4.4 
+Subaru,Outback,2012,4.4 
+Subaru,Outback,2011,4.4 
+Subaru,Outback,2010,4.4 
+Subaru,Outback,2009,4.4 
+Subaru,Outback,2008,4.4 
+Subaru,Outback,2007,4.4 
+Subaru,Outback,2006,4.4 
+Subaru,Outback,2005,4.4 
+Subaru,Outback,2004,4.3 
+Subaru,Outback,2003,4.3 
+Subaru,Outback,2002,4.3 
+Subaru,Outback,2001,4.3 
+Subaru,Outback,2000,4.3 
+Subaru,BRZ,2020,4.8 
+Subaru,BRZ,2019,4.8 
+Subaru,BRZ,2018,4.8 
+Subaru,BRZ,2017,4.8 
+Subaru,BRZ,2016,4.8 
+Subaru,BRZ,2015,4.8 
+Subaru,BRZ,2014,4.8 
+Subaru,BRZ,2013,4.8 
+Tesla,Model 3,2019,4.8 
+Tesla,Model 3,2018,4.8 
+Tesla,Model S,2019,4.8 
+Tesla,Model S,2018,4.8 
+Tesla,Model S,2017,4.8 
+Tesla,Model S,2016,4.8 
+Tesla,Model S,2015,4.8 
+Tesla,Model S,2014,4.8 
+Tesla,Model S,2013,4.8 
+Tesla,Model S,2012,4.8 
+Tesla,Model X,2019,4.8 
+Tesla,Model X,2018,4.8 
+Tesla,Model X,2017,4.8 
+Tesla,Model X,2016,4.8 
+Toyota,Avalon,2020,3.9 
+Toyota,Avalon,2019,3.9 
+Toyota,Avalon,2018,4.4 
+Toyota,Avalon,2017,4.4 
+Toyota,Avalon,2016,4.4 
+Toyota,Avalon,2015,4.4 
+Toyota,Avalon,2014,4.4 
+Toyota,Avalon,2013,4.4 
+Toyota,Avalon,2012,4.7 
+Toyota,Avalon,2011,4.7 
+Toyota,Avalon,2010,4.7 
+Toyota,Avalon,2009,4.7 
+Toyota,Avalon,2008,4.7 
+Toyota,Avalon,2007,4.7 
+Toyota,Avalon,2006,4.7 
+Toyota,Avalon,2005,4.7 
+Toyota,Avalon,2004,4.8 
+Toyota,Avalon,2003,4.8 
+Toyota,Avalon,2002,4.8 
+Toyota,Avalon,2001,4.8 
+Toyota,Avalon,2000,4.8 
+Toyota,Avalon,1999,4.8 
+Toyota,Avalon,1998,4.8 
+Toyota,Avalon,1997,4.8 
+Toyota,Avalon,1996,4.8 
+Toyota,Avalon,1995,4.8 
+Toyota,Avalon Hybrid,2020,5.0 
+Toyota,Avalon Hybrid,2019,5.0 
+Toyota,Avalon Hybrid,2018,4.7 
+Toyota,Avalon Hybrid,2017,4.7 
+Toyota,Camry,2020,3.9 
+Toyota,Camry,2019,3.9 
+Toyota,Camry,2018,3.9 
+Toyota,Camry,2017,4.4 
+Toyota,Camry,2016,4.4 
+Toyota,Camry,2015,4.4 
+Toyota,Camry,2014,4.4 
+Toyota,Camry,2013,4.4 
+Toyota,Camry,2012,4.4 
+Toyota,Camry,2011,4.5 
+Toyota,Camry,2010,4.5 
+Toyota,Camry,2009,4.5 
+Toyota,Camry,2008,4.5 
+Toyota,Camry,2007,4.5 
+Toyota,Camry,2006,4.7 
+Toyota,Camry,2005,4.7 
+Toyota,Camry,2004,4.7 
+Toyota,Camry,2003,4.7 
+Toyota,Camry,2002,4.7 
+Toyota,Camry,2001,4.6 
+Toyota,Camry,2000,4.6 
+Toyota,Camry,1999,4.6 
+Toyota,Camry,1998,4.6 
+Toyota,Camry,1997,4.6 
+Toyota,Camry,1996,4.6 
+Toyota,Camry,1995,4.6 
+Toyota,Camry,1994,4.6 
+Toyota,Camry,1993,4.6 
+Toyota,Camry,1992,4.6 
+Toyota,Camry Hybrid,2020,3.9 
+Toyota,Camry Hybrid,2019,3.9 
+Toyota,Camry Hybrid,2018,3.9 
+Toyota,Camry Hybrid,2017,4.4 
+Toyota,Corolla,2020,4.4 
+Toyota,Corolla,2019,4.2 
+Toyota,Corolla,2018,4.2 
+Toyota,Corolla,2017,4.2 
+Toyota,Corolla,2016,4.2 
+Toyota,Corolla,2015,4.2 
+Toyota,Corolla,2014,4.2 
+Toyota,Corolla,2013,4.5 
+Toyota,Corolla,2012,4.5 
+Toyota,Corolla,2011,4.5 
+Toyota,Corolla,2010,4.5 
+Toyota,Corolla,2009,4.5 
+Toyota,Corolla,2008,4.7 
+Toyota,Corolla,2007,4.7 
+Toyota,Corolla,2006,4.7 
+Toyota,Corolla,2005,4.7 
+Toyota,Corolla,2004,4.7 
+Toyota,Corolla,2003,4.7 
+Toyota,Corolla,2002,4.4 
+Toyota,Corolla,2001,4.4 
+Toyota,Corolla,2000,4.4 
+Toyota,Corolla,1999,4.4 
+Toyota,Corolla,1998,4.4 
+Toyota,Corolla,1997,4.6 
+Toyota,Corolla,1996,4.6 
+Toyota,Corolla,1995,4.6 
+Toyota,Corolla,1994,4.6 
+Toyota,Corolla,1993,4.6 
+Toyota,Corolla,1992,4.6 
+Toyota,Mirai,2019,2.5 
+Toyota,Mirai,2018,2.5 
+Toyota,Mirai,2017,2.5 
+Toyota,Mirai,2016,2.5 
+Toyota,Prius,2020,4.7 
+Toyota,Prius,2019,4.7 
+Toyota,Prius,2018,4.7 
+Toyota,Prius,2017,4.7 
+Toyota,Prius,2016,4.7 
+Toyota,Prius,2015,4.7 
+Toyota,Prius,2014,4.7 
+Toyota,Prius,2013,4.7 
+Toyota,Prius,2012,4.7 
+Toyota,Prius,2011,4.7 
+Toyota,Prius,2010,4.7 
+Toyota,Prius,2009,4.7 
+Toyota,Prius,2008,4.7 
+Toyota,Prius,2007,4.7 
+Toyota,Prius,2006,4.7 
+Toyota,Prius,2005,4.7 
+Toyota,Prius,2004,4.7 
+Toyota,Prius,2003,4.7 
+Toyota,Prius,2002,4.7 
+Toyota,Prius,2001,4.7 
+Toyota,Prius Prime,2020,4.7 
+Toyota,Prius Prime,2019,4.7 
+Toyota,Prius Prime,2018,4.7 
+Toyota,Prius Prime,2017,4.7 
+Toyota,Yaris,2020,4.4 
+Toyota,Yaris,2019,4.4 
+Toyota,Yaris,2018,4.6 
+Toyota,Yaris,2017,4.6 
+Toyota,Yaris,2016,4.6 
+Toyota,Yaris,2015,4.6 
+Toyota,Yaris,2014,4.6 
+Toyota,Yaris,2013,4.6 
+Toyota,Yaris,2012,4.6 
+Toyota,Yaris,2011,4.7 
+Toyota,Yaris,2010,4.7 
+Toyota,Yaris,2009,4.7 
+Toyota,Yaris,2008,4.7 
+Toyota,Yaris,2007,4.7 
+Toyota,Yaris iA,2018,4.4 
+Toyota,Yaris iA,2017,4.4 
+Toyota,4Runner,2020,4.6 
+Toyota,4Runner,2019,4.6 
+Toyota,4Runner,2018,4.6 
+Toyota,4Runner,2017,4.6 
+Toyota,4Runner,2016,4.6 
+Toyota,4Runner,2015,4.6 
+Toyota,4Runner,2014,4.6 
+Toyota,4Runner,2013,4.6 
+Toyota,4Runner,2012,4.6 
+Toyota,4Runner,2011,4.6 
+Toyota,4Runner,2010,4.6 
+Toyota,4Runner,2009,4.8 
+Toyota,4Runner,2008,4.8 
+Toyota,4Runner,2007,4.8 
+Toyota,4Runner,2006,4.8 
+Toyota,4Runner,2005,4.8 
+Toyota,4Runner,2004,4.8 
+Toyota,4Runner,2003,4.8 
+Toyota,4Runner,2002,4.8 
+Toyota,4Runner,2001,4.8 
+Toyota,4Runner,2000,4.8 
+Toyota,4Runner,1999,4.8 
+Toyota,4Runner,1998,4.8 
+Toyota,4Runner,1997,4.8 
+Toyota,4Runner,1996,4.8 
+Toyota,4Runner,1995,4.3 
+Toyota,4Runner,1994,4.3 
+Toyota,4Runner,1993,4.3 
+Toyota,4Runner,1992,4.3 
+Toyota,C-HR,2020,4.6 
+Toyota,C-HR,2019,4.6 
+Toyota,C-HR,2018,4.6 
+Toyota,Highlander,2019,4.3 
+Toyota,Highlander,2018,4.3 
+Toyota,Highlander,2017,4.3 
+Toyota,Highlander,2016,4.3 
+Toyota,Highlander,2015,4.3 
+Toyota,Highlander,2014,4.3 
+Toyota,Highlander,2013,4.6 
+Toyota,Highlander,2012,4.6 
+Toyota,Highlander,2011,4.6 
+Toyota,Highlander,2010,4.6 
+Toyota,Highlander,2009,4.6 
+Toyota,Highlander,2008,4.6 
+Toyota,Highlander,2007,4.7 
+Toyota,Highlander,2006,4.7 
+Toyota,Highlander,2005,4.7 
+Toyota,Highlander,2004,4.7 
+Toyota,Highlander,2003,4.7 
+Toyota,Highlander,2002,4.7 
+Toyota,Highlander,2001,4.7 
+Toyota,Highlander Hybrid,2019,4.4 
+Toyota,Highlander Hybrid,2018,4.4 
+Toyota,Highlander Hybrid,2017,4.4 
+Toyota,Land Cruiser,2020,4.6 
+Toyota,Land Cruiser,2019,4.6 
+Toyota,Land Cruiser,2018,4.6 
+Toyota,Land Cruiser,2017,4.6 
+Toyota,Land Cruiser,2016,4.6 
+Toyota,Land Cruiser,2015,4.6 
+Toyota,Land Cruiser,2014,4.6 
+Toyota,Land Cruiser,2013,4.6 
+Toyota,Land Cruiser,2011,4.6 
+Toyota,Land Cruiser,2010,4.6 
+Toyota,Land Cruiser,2009,4.6 
+Toyota,Land Cruiser,2008,4.6 
+Toyota,Land Cruiser,2007,4.9 
+Toyota,Land Cruiser,2006,4.9 
+Toyota,Land Cruiser,2005,4.9 
+Toyota,Land Cruiser,2004,4.9 
+Toyota,Land Cruiser,2003,4.9 
+Toyota,Land Cruiser,2002,4.9 
+Toyota,Land Cruiser,2001,4.9 
+Toyota,Land Cruiser,2000,4.9 
+Toyota,Land Cruiser,1999,4.9 
+Toyota,Land Cruiser,1998,4.9 
+Toyota,Land Cruiser,1997,4.8 
+Toyota,Land Cruiser,1996,4.8 
+Toyota,Land Cruiser,1995,4.8 
+Toyota,Land Cruiser,1994,4.8 
+Toyota,Land Cruiser,1993,4.8 
+Toyota,Land Cruiser,1992,4.8 
+Toyota,RAV4,2020,4.0 
+Toyota,RAV4,2019,4.0 
+Toyota,RAV4,2018,4.4 
+Toyota,RAV4,2017,4.4 
+Toyota,RAV4,2016,4.4 
+Toyota,RAV4,2015,4.4 
+Toyota,RAV4,2014,4.4 
+Toyota,RAV4,2013,4.4 
+Toyota,RAV4,2012,4.5 
+Toyota,RAV4,2011,4.5 
+Toyota,RAV4,2010,4.5 
+Toyota,RAV4,2009,4.5 
+Toyota,RAV4,2008,4.5 
+Toyota,RAV4,2007,4.5 
+Toyota,RAV4,2006,4.5 
+Toyota,RAV4,2005,4.7 
+Toyota,RAV4,2004,4.7 
+Toyota,RAV4,2003,4.7 
+Toyota,RAV4,2002,4.7 
+Toyota,RAV4,2001,4.7 
+Toyota,RAV4,2000,4.7 
+Toyota,RAV4,1999,4.7 
+Toyota,RAV4,1998,4.7 
+Toyota,RAV4,1997,4.7 
+Toyota,RAV4,1996,4.7 
+Toyota,RAV4 Hybrid,2020,4.0 
+Toyota,RAV4 Hybrid,2019,4.0 
+Toyota,RAV4 Hybrid,2018,4.4 
+Toyota,RAV4 Hybrid,2017,4.4 
+Toyota,Sequoia,2020,4.8 
+Toyota,Sequoia,2019,4.8 
+Toyota,Sequoia,2018,4.8 
+Toyota,Sequoia,2017,4.8 
+Toyota,Sequoia,2016,4.8 
+Toyota,Sequoia,2015,4.8 
+Toyota,Sequoia,2014,4.8 
+Toyota,Sequoia,2013,4.8 
+Toyota,Sequoia,2012,4.8 
+Toyota,Sequoia,2011,4.8 
+Toyota,Sequoia,2010,4.8 
+Toyota,Sequoia,2009,4.8 
+Toyota,Sequoia,2008,4.8 
+Toyota,Sequoia,2007,4.8 
+Toyota,Sequoia,2006,4.8 
+Toyota,Sequoia,2005,4.8 
+Toyota,Sequoia,2004,4.8 
+Toyota,Sequoia,2003,4.8 
+Toyota,Sequoia,2002,4.8 
+Toyota,Sequoia,2001,4.8 
+Toyota,Tacoma Access Cab,2020,4.2 
+Toyota,Tacoma Access Cab,2019,4.2 
+Toyota,Tacoma Access Cab,2018,4.2 
+Toyota,Tacoma Access Cab,2017,4.2 
+Toyota,Tacoma Access Cab,2016,4.2 
+Toyota,Tacoma Access Cab,2015,4.7 
+Toyota,Tacoma Access Cab,2014,4.7 
+Toyota,Tacoma Access Cab,2013,4.7 
+Toyota,Tacoma Access Cab,2012,4.7 
+Toyota,Tacoma Access Cab,2011,4.7 
+Toyota,Tacoma Access Cab,2010,4.7 
+Toyota,Tacoma Access Cab,2009,4.7 
+Toyota,Tacoma Access Cab,2008,4.7 
+Toyota,Tacoma Access Cab,2007,4.7 
+Toyota,Tacoma Access Cab,2006,4.7 
+Toyota,Tacoma Access Cab,2005,4.7 
+Toyota,Tacoma Double Cab,2020,4.2 
+Toyota,Tacoma Double Cab,2019,4.2 
+Toyota,Tacoma Double Cab,2018,4.2 
+Toyota,Tacoma Double Cab,2017,4.2 
+Toyota,Tacoma Double Cab,2016,4.2 
+Toyota,Tacoma Double Cab,2015,4.7 
+Toyota,Tacoma Double Cab,2014,4.7 
+Toyota,Tacoma Double Cab,2013,4.7 
+Toyota,Tacoma Double Cab,2012,4.7 
+Toyota,Tacoma Double Cab,2011,4.7 
+Toyota,Tacoma Double Cab,2010,4.7 
+Toyota,Tacoma Double Cab,2009,4.7 
+Toyota,Tacoma Double Cab,2008,4.7 
+Toyota,Tacoma Double Cab,2007,4.7 
+Toyota,Tacoma Double Cab,2006,4.7 
+Toyota,Tacoma Double Cab,2005,4.7 
+Toyota,Tacoma Double Cab,2004,4.7 
+Toyota,Tacoma Double Cab,2003,4.7 
+Toyota,Tacoma Double Cab,2002,4.7 
+Toyota,Tacoma Double Cab,2001,4.7 
+Toyota,Tundra CrewMax,2020,4.7 
+Toyota,Tundra CrewMax,2019,4.7 
+Toyota,Tundra CrewMax,2018,4.7 
+Toyota,Tundra CrewMax,2017,4.7 
+Toyota,Tundra CrewMax,2016,4.7 
+Toyota,Tundra CrewMax,2015,4.7 
+Toyota,Tundra CrewMax,2014,4.7 
+Toyota,Tundra CrewMax,2013,4.6 
+Toyota,Tundra CrewMax,2012,4.6 
+Toyota,Tundra CrewMax,2011,4.6 
+Toyota,Tundra CrewMax,2010,4.6 
+Toyota,Tundra CrewMax,2009,4.6 
+Toyota,Tundra CrewMax,2008,4.6 
+Toyota,Tundra CrewMax,2007,4.6 
+Toyota,Tundra Double Cab,2020,4.7 
+Toyota,Tundra Double Cab,2019,4.7 
+Toyota,Tundra Double Cab,2018,4.7 
+Toyota,Tundra Double Cab,2017,4.7 
+Toyota,Tundra Double Cab,2016,4.7 
+Toyota,Tundra Double Cab,2015,4.7 
+Toyota,Tundra Double Cab,2014,4.7 
+Toyota,Tundra Double Cab,2013,4.6 
+Toyota,Tundra Double Cab,2012,4.6 
+Toyota,Tundra Double Cab,2011,4.6 
+Toyota,Tundra Double Cab,2010,4.6 
+Toyota,Tundra Double Cab,2009,4.6 
+Toyota,Tundra Double Cab,2008,4.6 
+Toyota,Tundra Double Cab,2007,4.6 
+Toyota,Tundra Double Cab,2006,4.8 
+Toyota,Tundra Double Cab,2005,4.8 
+Toyota,Tundra Double Cab,2004,4.8 
+Toyota,Sienna,2020,4.3 
+Toyota,Sienna,2019,4.3 
+Toyota,Sienna,2018,4.3 
+Toyota,Sienna,2017,4.3 
+Toyota,Sienna,2016,4.3 
+Toyota,Sienna,2015,4.3 
+Toyota,Sienna,2014,4.3 
+Toyota,Sienna,2013,4.3 
+Toyota,Sienna,2012,4.3 
+Toyota,Sienna,2011,4.3 
+Toyota,Sienna,2010,4.6 
+Toyota,Sienna,2009,4.6 
+Toyota,Sienna,2008,4.6 
+Toyota,Sienna,2007,4.6 
+Toyota,Sienna,2006,4.6 
+Toyota,Sienna,2005,4.6 
+Toyota,Sienna,2004,4.6 
+Toyota,Sienna,2003,4.5 
+Toyota,Sienna,2002,4.5 
+Toyota,Sienna,2001,4.5 
+Toyota,Sienna,2000,4.5 
+Toyota,Sienna,1999,4.5 
+Toyota,Sienna,1998,4.5 
+Toyota,Prius c,2019,4.8 
+Toyota,Prius c,2018,4.8 
+Toyota,Prius c,2017,4.8 
+Toyota,Prius c,2016,4.8 
+Toyota,Prius c,2015,4.8 
+Toyota,Prius c,2014,4.8 
+Toyota,Prius c,2013,4.8 
+Toyota,Prius c,2012,4.8 
+Toyota,86,2020,5.0 
+Toyota,86,2019,5.0 
+Toyota,86,2018,5.0 
+Toyota,86,2017,5.0 
+Toyota,Corolla Hatchback,2020,4.7 
+Toyota,Corolla Hatchback,2019,4.7 
+Toyota,Corolla iM,2018,4.0 
+Toyota,Corolla iM,2017,4.0 
+Volkswagen,e-Golf,2019,5.0 
+Volkswagen,e-Golf,2018,5.0 
+Volkswagen,e-Golf,2017,5.0 
+Volkswagen,e-Golf,2016,5.0 
+Volkswagen,e-Golf,2015,5.0 
+Volkswagen,Golf,2019,4.6 
+Volkswagen,Golf,2018,4.6 
+Volkswagen,Golf,2017,4.6 
+Volkswagen,Golf,2016,4.6 
+Volkswagen,Golf,2015,4.6 
+Volkswagen,Golf,2014,4.7 
+Volkswagen,Golf,2013,4.7 
+Volkswagen,Golf,2012,4.7 
+Volkswagen,Golf,2011,4.7 
+Volkswagen,Golf,2010,4.7 
+Volkswagen,Golf,2006,4.2 
+Volkswagen,Golf,2005,4.2 
+Volkswagen,Golf,2004,4.2 
+Volkswagen,Golf,2003,4.2 
+Volkswagen,Golf,2002,4.2 
+Volkswagen,Golf,2001,4.2 
+Volkswagen,Golf,2000,4.2 
+Volkswagen,Golf,1999,4.2 
+Volkswagen,Golf,1998,4.1 
+Volkswagen,Golf,1997,4.1 
+Volkswagen,Golf,1996,4.1 
+Volkswagen,Golf,1992,4.4 
+Volkswagen,Golf GTI,2019,4.6 
+Volkswagen,Golf GTI,2018,4.6 
+Volkswagen,Golf GTI,2017,4.6 
+Volkswagen,Golf GTI,2016,4.6 
+Volkswagen,Golf GTI,2015,4.6 
+Volkswagen,Golf R,2019,4.9 
+Volkswagen,Golf R,2018,4.9 
+Volkswagen,Golf R,2017,4.9 
+Volkswagen,Golf R,2016,4.9 
+Volkswagen,Golf R,2015,4.9 
+Volkswagen,Jetta,2019,4.4 
+Volkswagen,Jetta,2018,4.4 
+Volkswagen,Jetta,2017,4.4 
+Volkswagen,Jetta,2016,4.4 
+Volkswagen,Jetta,2015,4.4 
+Volkswagen,Jetta,2014,4.4 
+Volkswagen,Jetta,2013,4.4 
+Volkswagen,Jetta,2012,4.4 
+Volkswagen,Jetta,2011,4.4 
+Volkswagen,Jetta,2010,4.5 
+Volkswagen,Jetta,2009,4.5 
+Volkswagen,Jetta,2008,4.5 
+Volkswagen,Jetta,2007,4.5 
+Volkswagen,Jetta,2006,4.5 
+Volkswagen,Jetta,2005,3.9 
+Volkswagen,Jetta,2004,3.9 
+Volkswagen,Jetta,2003,3.9 
+Volkswagen,Jetta,2002,3.9 
+Volkswagen,Jetta,2001,3.9 
+Volkswagen,Jetta,2000,3.9 
+Volkswagen,Jetta,1999,3.9 
+Volkswagen,Jetta,1998,3.9 
+Volkswagen,Jetta,1997,3.9 
+Volkswagen,Jetta,1996,3.9 
+Volkswagen,Jetta,1992,4.4 
+Volkswagen,Passat,2019,4.5 
+Volkswagen,Passat,2018,4.5 
+Volkswagen,Passat,2017,4.5 
+Volkswagen,Passat,2016,4.5 
+Volkswagen,Passat,2015,4.5 
+Volkswagen,Passat,2014,4.5 
+Volkswagen,Passat,2013,4.5 
+Volkswagen,Passat,2012,4.5 
+Volkswagen,Passat,2010,4.1 
+Volkswagen,Passat,2009,4.1 
+Volkswagen,Passat,2008,4.1 
+Volkswagen,Passat,2007,4.1 
+Volkswagen,Passat,2006,4.1 
+Volkswagen,Passat,2005,3.9 
+Volkswagen,Passat,2004,3.9 
+Volkswagen,Passat,2003,3.9 
+Volkswagen,Passat,2002,3.9 
+Volkswagen,Passat,2001,3.9 
+Volkswagen,Passat,2000,3.7 
+Volkswagen,Passat,1999,3.7 
+Volkswagen,Passat,1998,3.7 
+Volkswagen,Passat,1997,3.7 
+Volkswagen,Passat,1996,3.7 
+Volkswagen,Passat,1995,3.7 
+Volkswagen,Passat,1994,4.1 
+Volkswagen,Passat,1993,4.1 
+Volkswagen,Passat,1992,4.1 
+Volkswagen,Atlas,2019,4.3 
+Volkswagen,Atlas,2018,4.3 
+Volkswagen,Tiguan,2019,5.0 
+Volkswagen,Tiguan,2018,5.0 
+Volkswagen,Tiguan,2017,4.4 
+Volkswagen,Tiguan,2016,4.4 
+Volkswagen,Tiguan,2015,4.4 
+Volkswagen,Tiguan,2014,4.4 
+Volkswagen,Tiguan,2013,4.4 
+Volkswagen,Tiguan,2012,4.4 
+Volkswagen,Tiguan,2011,4.4 
+Volkswagen,Tiguan,2010,4.4 
+Volkswagen,Tiguan,2009,4.4 
+Volkswagen,Tiguan Limited,2018,4.4 
+Volkswagen,Tiguan Limited,2017,4.4 
+Volkswagen,Beetle,2019,4.3 
+Volkswagen,Beetle,2018,4.3 
+Volkswagen,Beetle,2017,4.3 
+Volkswagen,Beetle,2016,4.3 
+Volkswagen,Beetle,2015,4.3 
+Volkswagen,Beetle,2014,4.3 
+Volkswagen,Beetle,2013,4.3 
+Volkswagen,Beetle,2012,4.3 
+Volkswagen,Golf Alltrack,2019,5.0 
+Volkswagen,Golf Alltrack,2018,5.0 
+Volkswagen,Golf Alltrack,2017,5.0 
+Volkswagen,Golf SportWagen,2019,4.8 
+Volkswagen,Golf SportWagen,2018,4.8 
+Volkswagen,Golf SportWagen,2017,4.8 
+Volkswagen,Golf SportWagen,2016,4.8 
+Volkswagen,Golf SportWagen,2015,4.8 
+Volvo,S60,2019,1.0 
+Volvo,S60,2018,4.6 
+Volvo,S60,2017,4.6 
+Volvo,S60,2016,4.6 
+Volvo,S60,2015,4.6 
+Volvo,S60,2014,4.6 
+Volvo,S60,2013,4.6 
+Volvo,S60,2012,4.6 
+Volvo,S60,2011,4.6 
+Volvo,S60,2009,4.5 
+Volvo,S60,2008,4.5 
+Volvo,S60,2007,4.5 
+Volvo,S60,2006,4.5 
+Volvo,S60,2005,4.3 
+Volvo,S60,2004,4.3 
+Volvo,S60,2003,4.3 
+Volvo,S60,2002,4.3 
+Volvo,S60,2001,4.3 
+Volvo,S90,2019,4.5 
+Volvo,S90,2018,4.5 
+Volvo,S90,2017,4.5 
+Volvo,S90,1998,4.4 
+Volvo,S90,1997,4.4 
+Volvo,XC40,2020,5.0 
+Volvo,XC40,2019,5.0 
+Volvo,XC60,2019,3.6 
+Volvo,XC60,2018,3.6 
+Volvo,XC60,2017,4.4 
+Volvo,XC60,2016,4.4 
+Volvo,XC60,2015,4.4 
+Volvo,XC60,2014,4.4 
+Volvo,XC60,2013,4.4 
+Volvo,XC60,2012,4.4 
+Volvo,XC60,2011,4.4 
+Volvo,XC60,2010,4.4 
+Volvo,XC90,2020,4.2 
+Volvo,XC90,2019,4.2 
+Volvo,XC90,2018,4.2 
+Volvo,XC90,2017,4.2 
+Volvo,XC90,2016,4.2 
+Volvo,XC90,2014,4.0 
+Volvo,XC90,2013,4.0 
+Volvo,XC90,2012,4.0 
+Volvo,XC90,2011,4.0 
+Volvo,XC90,2010,4.0 
+Volvo,XC90,2009,4.0 
+Volvo,XC90,2008,4.0 
+Volvo,XC90,2007,4.0 
+Volvo,XC90,2006,4.0 
+Volvo,XC90,2005,4.0 
+Volvo,XC90,2004,4.0 
+Volvo,XC90,2003,4.0 
+Volvo,V60,2018,3.9 
+Volvo,V60,2017,3.9 
+Volvo,V60,2016,3.9 
+Volvo,V60,2015,3.9 
+Volvo,V90,2019,4.8 
+Volvo,V90,2018,4.8 
+Volvo,V90,2017,4.8 
+Volvo,V90,1998,4.9 
+Volvo,V90,1997,4.9 

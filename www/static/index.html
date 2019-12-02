@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>API Testbed</title>
+    <title>Car.m.a - Car Matching Algorithm</title>
     <link rel="stylesheet" href="lib/bootstrap/bootstrap.min.css">
     <link rel="stylesheet" href="src/css/index.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
@@ -8,14 +8,14 @@
 <body>
     <div id="wrapper" class="container-fluid px-0 vh-100">
         <div id="landing" class="container-fluid p-0 collapse show init">
-            <div id="landing-banner" class="container-fluid p-0 pt-3 my-auto">
-                <h2 class="">Car.m.a</h1>
+            <div id="landing-banner" class="container-fluid px-0 pt-4 my-auto">
+                <img src="img/logo.png" class="pt-3 h-50">
             </div>
             <div id="landing-body" class="p-0 mx-auto">
                 <img id="landing-bg" class="mx-auto" src="img/landing.jpg">
                 <h1 id="invitation">You deserve a better car.</h2>
-                <div id="search-form" class="container-fluid">
-                    <form class="my-0">
+                <div class="container-fluid">
+                    <form id="search-form" class="my-0">
                         <div class="form-row">
                             <div class="col-sm-4">
                                 <input id="zip" class="form-control" placeholder="Zip Code">
@@ -23,7 +23,6 @@
                             <div class="col-sm-6">
                                 <select id="micro-genres" class="form-control">
                                     <option value="all">What do you use your car for</option>
-                                    <option value="offroad">Off-road</option>
                                 </select>
                             </div>
                             <div class="col-sm-2">
@@ -35,95 +34,108 @@
             </div>
         </div>
         <div id="main" class="container-fluid px-0 h-100 collapse init" data-parent="#wrapper">
-            <div id="filter-bar" class="container-fluid collapse">
-                <form id="filter-nav" class="container-fluid px-0 my-2">
-                    <div class="form-row pb-2">
-                        <div class="col-4">
-                            <input id="filter-zip" class="form-control" placeholder="Zip Code">
+            <div class="row m-0 w-100 pl-3">
+                <div id="filter-bar" class="col-3 p-0">
+                    <form id="filter-nav" class="container-fluid px-0 my-2">
+                        <div class="form-row pb-2">
+                            <div class="col-12">
+                                <input id="filter-zip" type="text" class="form-control" placeholder="Zip Code">
+                            </div>
                         </div>
-                        <div class="col-8">
-                            <select id="filter-genres" class="form-control">
-                            </select>
+                    </form>
+                    <form id="filter" class="filters p-4">
+                        <div class="row">
+                            <div class="col">
+                                <h3>Filter by</h3>
+                            </div>
                         </div>
-                    </div>
-                </form>
-                <form id="filter" class="filters p-4">
-                    <div class="row">
-                        <div class="col">
-                            <h3>Filter by</h3>
+                        <div class="row">
+                            <div class="col">
+                                <label id="filter-price-label" for="filter-price">Maximum Price</label>
+                                <input id="filter-price" type="range" class="custom-range">
+                            </div>
                         </div>
-                    </div>
-                    <div class="row">
-                        <div class="col">
-                            <label id="filter-price-label" for="filter-price">Maximum Price</label>
-                            <input id="filter-price" type="range" class="custom-range">
+                        <div class="row">
+                            <div class="col">
+                                <label id="filter-year-label" for="filter-year">Minimum Year</label>
+                                <input id="filter-year" type="range" class="custom-range">
+                            </div>
                         </div>
-                    </div>
-                    <div class="row">
-                        <div class="col">
-                            <label id="filter-year-label" for="filter-year">Minimum Year</label>
-                            <input id="filter-year" type="range" class="custom-range">
+                        <div class="row">
+                            <div class="col my-2">
+                                <label for="filter-make">Make</label>
+                                <select id="filter-make" class="form-control mr-1">
+                                    <option>All Brands</option>
+                                </select>
+                            </div>
                         </div>
-                    </div>
-                    <div class="row">
-                        <div class="col my-2">
-                            <label for="filter-make">Make</label>
-                            <select id="filter-make" class="form-control mr-1">
-                                <option>All Brands</option>
-                            </select>
+                        <div class="row">
+                            <div class="col my-2">
+                                <label for="filter-style">Body Style</label>
+                                <select id="filter-style" class="form-control mr-1">
+                                    <option>All Body Styles</option>
+                                </select>
+                            </div>
                         </div>
-                    </div>
-                    <div class="row">
-                        <div class="col my-2">
-                            <label for="filter-style">Body Style</label>
-                            <select id="filter-style" class="form-control mr-1">
-                                <option>All Body Styles</option>
-                            </select>
+                    </form>
+                    <form id="rank" class="filters p-4">
+                        <div class="row">
+                            <div class="col">
+                                <h3>Rank by</h3>
+                            </div>
                         </div>
-                    </div>
-                </form>
-                <form id="rank" class="filters p-4">
-                    <div class="row">
-                        <div class="col">
-                            <h3>Rank by</h3>
+                        <div class="row">
+                            <div class="col">
+                                <label for="rank-reliable">Reliability</label>
+                                <input id="rank-reliable" type="range" class="custom-range" min="0" max="1" step="0.1">
+                            </div>
                         </div>
-                    </div>
-                    <div class="row">
-                        <div class="col">
-                            <label for="rank-reliable">Reliability</label>
-                            <input id="rank-reliable" type="range" class="custom-range" min="0" max="1" step="0.1">
+                        <div class="row">
+                            <div class="col">
+                                <label for="rank-performance">Performance</label>
+                                <input id="rank-performance" type="range" class="custom-range" min="0" max="1" step="0.1">
+                            </div>
                         </div>
-                    </div>
-                    <div class="row">
-                        <div class="col">
-                            <label for="rank-performance">Performance</label>
-                            <input id="rank-performance" type="range" class="custom-range" min="0" max="1" step="0.1">
+                        <div class="row">
+                            <div class="col">
+                                <label for="rank-mpg">Fuel Efficiency</label>
+                                <input id="rank-mpg" type="range" class="custom-range" min="0" max="1" step="0.1">
+                            </div>
                         </div>
-                    </div>
-                    <div class="row">
-                        <div class="col">
-                            <label for="rank-mpg">Fuel Efficiency</label>
-                            <input id="rank-mpg" type="range" class="custom-range" min="0" max="1" step="0.1">
+                        <div class="row">
+                            <div class="col">
+                                <label for="rank-resale">Resale Value</label>
+                                <input id="rank-resale" type="range" class="custom-range" min="0" max="1" step="0.1">
+                            </div>
                         </div>
-                    </div>
-                    <div class="row">
-                        <div class="col">
-                            <label for="rank-resale">Resale Value</label>
-                            <input id="rank-resale" type="range" class="custom-range" min="0" max="1" step="0.1">
+                    </form>
+                    <form id="genres" class="filters p-4">
+                        <div class="row">
+                            <div class="col">
+                                <h3>I am looking for</h3>
+                            </div>
                         </div>
-                    </div>
-                </form>
-            </div>
-            <div id="content" class="container-fluid px-0">
-                <div id="controls" class="container-fluid px-0">
-                    <nav id="nav" class="navbar navbar-expand-sm">
-                        <button id="side-toggler" class="btn btn-primary mr-2" type="button" data-toggle="collapse" data-target="#filter-bar">
-                            Filter
-                        </button>
-                        <span class="navbar-brand">Car.m.a</span>
-                    </nav>
+                        <div class="row">
+                            <div class="col">
+                                <select id="filter-genres" class="form-control">
+                                </select>
+                            </div>
+                        </div>
+                    </form>
                 </div>
-                <div id="testbed" class="container-fluid px-0">
+                <div id="content" class="col-9 p-0">
+                    <div class="row m-0">
+                        <div id="controls" class="col px-0 pt-1">
+                        <nav id="nav" class="navbar navbar-expand-sm">
+                            <img src="img/logo.png" height="30">
+                        </nav>
+                        </div>
+                    </div>
+                    <div class="row m-0">
+                        <div id="testbed" class="col p-0">
+                            <!-- Canvas goes here -->
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>

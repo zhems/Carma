@@ -34,23 +34,21 @@ body {
 }
 
 #filter-bar {
-    min-width: 500px;
-    width: 500px;
     height: 100%;
-    margin-left: -500px;
+    margin-left: 0px;
 }
-
+/*
 #filter-bar.show {
     margin-left: 0px !important;
     transition: all 0.3s;
 }
-
+*/
 #filter-bar.collapsing {
     transition: all 0.3s;
 }
 
 #content {
-    overflow: hidden;
+    /*overflow: hidden;*/
 }
 
 .filters {
@@ -114,10 +112,6 @@ h4 {
 
 .custom-range::-ms-thumb {
     background: #9ABAB3;
-}
-
-.node {
-    fill: #F94D4D;
 }
 
 #invitation {

@@ -31,7 +31,7 @@ app.use('/data/:zip/',function(req,res,next) {
                 y_dist = [parseFloat(lat) - 0.5, parseFloat(lat) + 0.5];
                 x_dist = [parseFloat(long_) - 0.5, parseFloat(long_) + 0.5];
                 var cursor;
-                cursor = db.collection('prod').find({$and: [{lat: {$gt: y_dist[0]}}, 
+                cursor = db.collection('final').find({$and: [{lat: {$gt: y_dist[0]}}, 
                                                     {lat: {$lt: y_dist[1]}},
                                                     {long: {$gt: x_dist[0]}},
                                                     {long: {$lt: x_dist[1]}}

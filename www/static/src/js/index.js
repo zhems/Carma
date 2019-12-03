@@ -65,7 +65,7 @@ var tip = d3.tip()
             var pic_width = Math.min(300,(d3.select("#canvas").attr("width") - 20));
             return "<div class=\"tip alert alert-dark\">" +
                 "<h4>" + d.Year + " " + d.Make + " " + d.Model + "</h4>" +
-//                "<span>Price: " + d.price + "</span>" + 
+                "<span>Price: $" + d.price + "</span>" + 
                 "<br /><br />" +
                 "<img " + 
                 "width=" + pic_width + " " +
@@ -159,7 +159,7 @@ function nav(listings) {
             return d[0]
         })
         .text(d => d[1]);
-/*
+
     var price = d3.extent(listings,function(d) {
         return d.price;
     });
@@ -171,7 +171,7 @@ function nav(listings) {
                         .attr("min",price[0])
                         .attr("max",price[1])
                         .attr("value",price[1]);
-*/
+
     var year = d3.extent(listings,function(d) {
         return d.Year;
     });
@@ -384,14 +384,14 @@ function resize(svg,force) {
 //Filter function
 function filter() {
     var filtered = listings;
-/* 
+
     var max_price = document.getElementById("filter-price").value;
     filtered = filtered.filter(function(d) {
         return d.price <= max_price;
     });
     d3.select("#filter-price-label")
         .text("Maximum Price: " + max_price);
-*/
+
     var min_year = document.getElementById("filter-year").value;
     filtered = filtered.filter(function(d) {
         return d.Year >= min_year;

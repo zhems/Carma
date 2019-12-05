@@ -1,6 +1,7 @@
 import requests
 import time
 import json
+import sys
 
 listings = []
 
@@ -8,7 +9,7 @@ try :
     with open("latlong.csv") as csv:
         for line in csv:
             coords = csv.readline().split(",")
-            url = 'http://api.marketcheck.com/v1/search?api_key=oG1gTKvIs4P8WUgpEzFuNRh8GVYD8z0B&latitude={}&longitude={}&radius=50&car_type=used&start=0&rows=50'.format(coords[0],coords[1])
+            url = 'http://api.marketcheck.com/v1/search?api_key={}&latitude={}&longitude={}&radius=50&car_type=used&start=0&rows=50'.format(sys.argv[1],coords[0],coords[1])
             headers = {
               'Host': 'marketcheck-prod.apigee.net'
               }
@@ -30,6 +31,6 @@ except:
         json.dump(out,outfile)
 
 out = {}
-with open("listings2.json","w+") as outfile:
+with open("listings.json","w+") as outfile:
     out["listings"] = listings
     json.dump(out,outfile)

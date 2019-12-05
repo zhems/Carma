@@ -4,7 +4,7 @@ cars = {}
 final = []
 missing = {}
 
-with open("THE STANDARD.csv") as csv:
+with open("us_car_models.csv") as csv:
     for line in csv:
         car = csv.readline().split(",")
         models = cars.get(car[1].strip(),set())
@@ -12,7 +12,7 @@ with open("THE STANDARD.csv") as csv:
         cars[car[1].strip()] = models
 
 try:
-    with open("listings2.json") as dump:
+    with open("listings.json") as dump:
         payload = json.loads(dump.read())
         listings = payload["listings"]
         for listing in listings:
@@ -43,7 +43,7 @@ except:
         for item in missing:
             outfile.write("{},{}\n".format(item,missing[item]))
 
-with open("cleaned_listings2.json","w+") as outfile:
+with open("cleaned_listings.json","w+") as outfile:
     out = {"listings": final}
     outfile.write(json.dumps(out))
 

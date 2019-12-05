@@ -315,7 +315,7 @@ function draw(f_listings) {
         .on("mouseover",tip.show)
         .on("mouseout",tip.hide)
         .on("click",function(d) {
-            window.open(d.url);
+            window.open(d.listing_url);
         })
         .transition()
             .duration(300)

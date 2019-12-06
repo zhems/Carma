@@ -4,9 +4,11 @@ Produced for CSE6242` Fall 2019 Project
 
 
 ## Description
-Car.m.a is a dynamic and responsive web application that displays car listings in the order in which they are ranked. Based off a MEAN stack, the application consists of two key components, a mongodb database and a node.js web server. While the ranking of the listings is completed separately before being uploaded to the database, filtering and the final calculation of ranking components is done client-side. A toy dataset of 100 listings in Atlanta, GA (Zip: 30xxx) is provided as a demonstration for the application.
+Car.m.a is a dynamic and responsive web application that displays car listings in the order in which they are ranked. Based off a MEAN stack, the application consists of two key components, a mongodb database and a node.js web server. While the ranking of the listings is completed separately before being uploaded to the database, filtering and the final calculation of ranking components is done client-side. A toy dataset of 100 listings in Atlanta, GA (Zip: 30318) is provided as a demonstration for the application. 
 
-All code for the visualization has been tested and run on Ubuntu 18.04.03 LTS and written with Vim 8.0
+The following installation and execution information is only meant for used on a demonstration on a local system. Deploying to cloud infrastructure follows a similar process, but the required commands are dependent on the service provider and are thus not covered in this instructions.
+
+All code for the visualization has been tested and ran on Ubuntu 18.04.03 LTS and written with Vim 8.0
 
 
 ## Installation
@@ -26,7 +28,7 @@ from the demo folder in the package into any folder on the local drive. Proceed 
 
 	npm install
 
-In the same folder. Next, ensure that the mongoDB service by running
+in the same folder. Next, ensure that the mongoDB service by running
 
 	sudo service mongodb service
 	
@@ -35,7 +37,7 @@ Import the necessary data by running
 	mongodb --db=carma --collection=zips --type=csv --headerline --file="sample/cleaned_zipcode.csv"
 	mongodb --db=carma --collection=prod --type=csv --headerline --file="sample/ranked_listings.csv"
 
-A toy dataset can be found in demo/sample.
+Toy datasets can be found in demo/sample.
 
 
 ## Execution
@@ -43,11 +45,11 @@ Run the visualization by running
 
 	node app.js
 
-In the same folder as app.js. Navigate to 
+in the same folder as app.js. Navigate to 
 
 	localhost:8000
 
-In a browser to access the demo. 
+in a browser to access the demo. 
 
 
 ## Data Collection
@@ -94,7 +96,7 @@ Run the script with
 
 	python3 marketcheck.py {key}
 
-{key} indicates the key recieved after signing up for the API.
+{key} indicates the key received after signing up for the API.
 
 Clean the data by running
 
